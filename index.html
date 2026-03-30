@@ -94,6 +94,21 @@ input[type=range] { width: 100%; accent-color: var(--teal); }
   .site-actions { grid-column: 1 / -1; width: 100%; padding: 10px 12px; gap: 8px; border-top: 1px solid var(--cream2); }
   .site-rank-input { width: 50px; padding: 5px; font-size: 15px; }
   .btn-trash { padding: 8px 10px; font-size: 13px; }
+  @media (max-width: 768px) {
+  /* מבטל גובה קבוע לכרטיסיות ומאפשר להן לגדול לפי אורך הטקסט */
+  .destination-card, .site-card, .category-card {
+    height: auto !important;
+    min-height: fit-content;
+    padding-bottom: 15px; 
+  }
+  
+  /* מבטיח שהטקסט יישבר נכון ולא יגלוש החוצה */
+  .destination-card p, .site-card p, .category-card p {
+    white-space: normal !important;
+    overflow: visible !important;
+    display: block !important;
+  }
+}
 }
 </style>
 </head>
