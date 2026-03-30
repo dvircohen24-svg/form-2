@@ -14,14 +14,14 @@
       "name": "יערות עננים, טבע וקפה",
       "emoji": "⛰️",
       "desc": "אזורים הרריים וקרירים, ג'ונגלים עבותים, ומטעי הקפה הטובים בעולם.",
-      "image_url": "https://images.unsplash.com/photo-1518182170546-076616fdcbfe?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThyVnd7BF9D_POuF_8ESbTYWzs-7HlWWofwg&s"
     },
     {
       "id": "cat_city_culture",
       "name": "אורבניות, היסטוריה והתעלה",
       "emoji": "🏙️",
       "desc": "גורדי שחקים נוצצים מול סמטאות קולוניאליות עתיקות, ואתרי מורשת עולמית.",
-      "image_url": "https://images.unsplash.com/photo-1518063032540-3b10b0e513a9?w=800"
+      "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/17/84/d1/5b/ville-de-panama-city.jpg"
     },
     {
       "id": "cat_pacific_adventure",
@@ -37,63 +37,63 @@
       "categoryId": "cat_caribbean",
       "name": "בוקאס דל טורו",
       "desc": "ארכיפלג איים קריביים תוסס. מושלם לצעירים, מסיבות וטיולי שייט יומיים לאיים מבודדים.",
-      "image_url": "https://images.unsplash.com/photo-1537236585140-5e3669dc4e50?w=800"
+      "image_url": "https://www.lametayel.co.il/limages/3efdc1776dfe382f783db3dc265fab92.jpg?type=r&size=0x656"
     },
     {
       "id": "dest_san_blas",
       "categoryId": "cat_caribbean",
       "name": "איי סן בלאס",
       "desc": "מעל 300 איים בתוליים המנוהלים על ידי שבט הגונה יאלה. חוויה של ניתוק מוחלט.",
-      "image_url": "https://images.unsplash.com/photo-1590523278191-995cbcda646b?w=800"
+      "image_url": "https://www.redpineapple-trips.co.il/wp-content/uploads/2018/03/San-Blas-Island2-848x463.jpg"
     },
     {
       "id": "dest_panama_city",
       "categoryId": "cat_city_culture",
       "name": "פנמה סיטי",
       "desc": "עיר הבירה המרתקת, המשלבת את רובע 'קאסקו וייחו' ההיסטורי עם קו רקיע מודרני ותעלת פנמה.",
-      "image_url": "https://images.unsplash.com/photo-1543781741-949449f10e42?w=800"
+      "image_url": "https://images.gringo.co.il/locationtabs/1588/1600x1000_lokmf3dwhleunig5xyjx.jpg"
     },
     {
       "id": "dest_portobelo",
       "categoryId": "cat_city_culture",
       "name": "פורטובלו",
       "desc": "עיירת נמל היסטורית בצד הקריבי עם מבצרים עתיקים, תרבות אפרו-פנמית ואווירה קולוניאלית.",
-      "image_url": "https://images.unsplash.com/photo-1596484552834-6a58f850e0a1?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMzWsrlouYeauZlOWmZ_sKkJ5cHDW9oE4-1g&s"
     },
     {
       "id": "dest_boquete",
       "categoryId": "cat_nature_highlands",
       "name": "בוקטה",
       "desc": "עיירה הררית ירוקה, בירת האקסטרים והטבע של פנמה. גשרים תלויים וקפה משובח.",
-      "image_url": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=800"
+      "image_url": "https://www.hul-kasher.co.il/wp-content/uploads/elementor/thumbs/2021_05_26_22_19_IMG_7913-pesk8lkobmqzj4tnc733xktrckppm57cf91k62wnmo.jpg"
     },
     {
       "id": "dest_pearl_islands",
       "categoryId": "cat_pacific_adventure",
       "name": "איי הפנינים",
       "desc": "ארכיפלג יוקרתי באוקיינוס השקט, המפורסם בזכות צפייה בלווייתנים וחופים מבודדים.",
-      "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
+      "image_url": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2025/1/18/32f011256b71427e8223213ec171e75a"
     },
     {
       "id": "dest_coiba_catalina",
       "categoryId": "cat_pacific_adventure",
       "name": "סנטה קטלינה וקואיבה",
       "desc": "השער לפארק קואיבה. אחד מאתרי הצלילה והשנירקול הטובים בעולם עם עולם תת-ימי עשיר.",
-      "image_url": "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4H3sktkigogmvC7jRTWXW7OTvXumNSrbyXA&s"
     },
     {
       "id": "dest_pedasi",
       "categoryId": "cat_pacific_adventure",
       "name": "פדאסי ואי איגוואנה",
       "desc": "עיירה ציורית בחצי האי אזוארו, ידועה בחופים פראיים ואי אלמוגים נדיר.",
-      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMvzR-oI11m0a6qsck3XpgPPNvRynnoiJm2A&s"
     },
     {
       "id": "dest_chiriqui_gulf",
       "categoryId": "cat_pacific_adventure",
       "name": "מפרץ צ'יריקי",
       "desc": "פארק לאומי ימי הכולל עשרות איים לא מיושבים, חול לבן וטבע פראי ללא תיירים.",
-      "image_url": "https://images.unsplash.com/photo-1518182170546-076616fdcbfe?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/e3/0c/90/photo1jpg.jpg?w=1400&h=1400&s=1"
     }
   ],
   "sites": [
@@ -103,7 +103,7 @@
       "name": "תעלת פנמה (Miraflores)",
       "desc": "צפייה באוניות ענק העוברות במערכת התאים. פלא הנדסי חובה.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1543781741-949449f10e42?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/be/3f/94/photo1jpg.jpg?w=1200&h=-1&s=1"
     },
     {
       "id": "pty_2",
@@ -111,15 +111,15 @@
       "name": "קאסקו וייחו",
       "desc": "העיר העתיקה עם סמטאות צבעוניות, כנסיות וחיי לילה תוססים.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1518063032540-3b10b0e513a9?w=800"
+      "image_url": "https://www.lametayel.co.il/limages/e98bd6aec5e94e68abb7b6b70aea74fa.jpg?type=r&size=0x656"
     },
     {
       "id": "pty_3",
       "destinationId": "dest_panama_city",
-      "name": "סוללת אמאדור",
+      "name": "טיילת אמאדור",
       "desc": "טיילת המחברת 3 איים עם תצפית פנורמית על קו הרקיע.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1596484552834-6a58f850e0a1?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/32/97/43/e7/caption.jpg?w=800&h=800&s=1"
     },
     {
       "id": "pty_4",
@@ -127,7 +127,7 @@
       "name": "פארק מטרופוליטנו",
       "desc": "יער גשם בלב העיר. מסלולי הליכה ותצפית על עצלנים וקופים.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1518182170546-076616fdcbfe?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/0c/92/46/view-of-downtown-panama.jpg?w=1000&h=-1&s=1"
     },
     {
       "id": "pty_5",
@@ -135,7 +135,7 @@
       "name": "מוזיאון הביומסאו",
       "desc": "מבנה ארכיטקטוני צבעוני המציג את המגוון הביולוגי של פנמה.",
       "rating": "4.5/5",
-      "image_url": "https://images.unsplash.com/photo-1518063032540-3b10b0e513a9?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/43/f2/af/biomuseo-foto-por-fernando.jpg?w=1000&h=-1&s=1"
     },
     {
       "id": "por_1",
@@ -143,7 +143,7 @@
       "name": "מבצרי פורטובלו",
       "desc": "שרידי מבצרים ספרדיים עתיקים ששימשו להגנה מפני פיראטים. אתר מורשת עולמית.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1596484552834-6a58f850e0a1?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM9XpGsSTOcj5XeunpQjlAQy1mgD_zqQTfWQ&s"
     },
     {
       "id": "por_2",
@@ -151,7 +151,7 @@
       "name": "כנסיית ישו השחור",
       "desc": "פסל דתי מפורסם וחשוב המושך אלפי עולי רגל מדי שנה.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1518063032540-3b10b0e513a9?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwS-W3T69eWJaEERGBlUeA5TtMUqKYIVQXFw&s"
     },
     {
       "id": "por_3",
@@ -159,7 +159,7 @@
       "name": "בניין המכס (Custom House)",
       "desc": "מוזיאון היסטורי הממוקם במבנה שבו רוכז הזהב שהגיע מדרום אמריקה.",
       "rating": "4.5/5",
-      "image_url": "https://images.unsplash.com/photo-1596484552834-6a58f850e0a1?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOt_YMsCMekYAz6NrmxiGvs3Z4V32DzctRA&s"
     },
     {
       "id": "por_4",
@@ -167,7 +167,7 @@
       "name": "צלילה בספינות טרופות",
       "desc": "חקר שרידי ספינות עתיקות מתחת למים הצלולים של המפרץ.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkppzB2zx0YZMaDFW5_zj9zeDDEgJpTwkNgg&s"
     },
     {
       "id": "por_5",
@@ -175,7 +175,7 @@
       "name": "שייט לפלאיה בלאנקה",
       "desc": "הפלגה קצרה לחוף מבודד עם חול לבן ומים שקטים בצד הקריבי.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
+      "image_url": "https://cdn.getyourguide.com/image/format=auto,fit=crop,gravity=auto,quality=60,width=400,height=265,dpr=2/tour_img/5e28821d9ac9c.jpeg"
     },
     {
       "id": "pea_1",
@@ -183,7 +183,7 @@
       "name": "אי קונטדורה",
       "desc": "האי המפותח והיוקרתי ביותר, עם חופים מרהיבים ואווירה אקסקלוסיבית.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQ4Wxcr80bnxoxdbLVkqew5sTeCRhNyqnYg&s"
     },
     {
       "id": "pea_2",
@@ -191,7 +191,7 @@
       "name": "צפייה בלווייתנים",
       "desc": "שייט מרגש למפגש עם לווייתנים גדולי-סנפיר (בעונה). חוויה של פעם בחיים.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ4Lkyza3GuUbB_tmwzzPaEF5nNq8kIjuIXg&s"
     },
     {
       "id": "pea_3",
@@ -199,7 +199,7 @@
       "name": "אי סבוגה (Saboga)",
       "desc": "אי שקט ופראי יותר מקונטדורה, מושלם לטיולים בטבע וחופים נסתרים.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1518182170546-076616fdcbfe?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz2aGWn9Wjpcdf1GkwD8zvWNrCprWmbg-e4Q&s"
     },
     {
       "id": "pea_4",
@@ -207,7 +207,7 @@
       "name": "דיג ספורטיבי",
       "desc": "אחד האזורים הטובים בעולם לדייג במים עמוקים של דגי טונה ומרלין.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY53qzgXYevNh6ybe1Jg0WGdL9HM19EHzLAw&s"
     },
     {
       "id": "pea_5",
@@ -215,7 +215,7 @@
       "name": "שייט בין איים מבודדים",
       "desc": "חקר עשרות האיים הלא מיושבים של הארכיפלג והירגעות בפינות חמד.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ5jeRnj4xVTJy5jPcMGd9KwjQq5kSlvYTrg&s"
     },
     {
       "id": "coi_1",
@@ -223,7 +223,7 @@
       "name": "צלילה בשמורת קואיבה",
       "desc": "מפגש עם כרישים, מנטות וצבי ים באחד האתרים העשירים בעולם.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYzkdqkVKpZH4_xju0UN6yuvxWqwMMVDG9tg&s"
     },
     {
       "id": "coi_2",
@@ -231,7 +231,7 @@
       "name": "שנירקול באי ראנצ'ריה",
       "desc": "מים רדודים וצלולים להפליא עם ריף אלמוגים צבעוני ונגיש.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYzkdqkVKpZH4_xju0UN6yuvxWqwMMVDG9tg&s"
     },
     {
       "id": "coi_3",
@@ -239,7 +239,7 @@
       "name": "גלישת גלים בסנטה קטלינה",
       "desc": "אחד ממוקדי הגלישה הטובים ביותר במרכז אמריקה.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvR7zKMR1LsNyyHWphjsFTOSucH0RyhsohiQ&s"
     },
     {
       "id": "coi_4",
@@ -247,7 +247,7 @@
       "name": "האי גראן קואיבה",
       "desc": "טיול רגלי בג'ונגל של האי המרכזי ששימש בעבר כמושבת עונשין.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1518182170546-076616fdcbfe?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGbro5IA0hFMQ4GXtV-mn1sqanV66BSpmPYA&s"
     },
     {
       "id": "coi_5",
@@ -255,7 +255,7 @@
       "name": "תצפית לוויתנים (קואיבה)",
       "desc": "צפייה בלוויתנים המגיעים למים המוגנים של השמורה כדי להמליט.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ4Lkyza3GuUbB_tmwzzPaEF5nNq8kIjuIXg&s"
     },
     {
       "id": "ped_1",
@@ -263,7 +263,7 @@
       "name": "אי איגוואנה",
       "desc": "אי אלמוגים לבן עם מים בצבע טורקיז, שפע של איגואנות ועולם תת-ימי מרהיב.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
+      "image_url": "https://images.myguide-cdn.com/content/2/large/isla-iguana-national-park-a-place-full-of-life-509310.jpg"
     },
     {
       "id": "ped_2",
@@ -271,7 +271,7 @@
       "name": "פלאיה ולאו (Playa Venao)",
       "desc": "מפרץ בצורת פרסה עם גלישת גלים מושלמת ואווירה בוהמית תוססת.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=800"
+      "image_url": "https://panamasovereign.com/wp-content/uploads/land-playa-venao-004-img-22.jpg"
     },
     {
       "id": "ped_3",
@@ -279,7 +279,7 @@
       "name": "קינון צבים באי קניאס",
       "desc": "צפייה מרגשת בצבי ים המגיעים לחוף להטיל ביצים (בעונה).",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYNaHnNfHbGKw0vdWnPN4iQR8w9zLmR0e0_Q&s"
     },
     {
       "id": "ped_4",
@@ -287,7 +287,7 @@
       "name": "סיור בעיירה פדאסי",
       "desc": "הליכה בין הבתים הצבעוניים של העיירה והיכרות עם הפולקלור המקומי.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1518063032540-3b10b0e513a9?w=800"
+      "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_325,q_65,w_640/v1/clients/panama/temp_737d2fe8-9d65-4492-96fc-2340710bf61d.jpg"
     },
     {
       "id": "ped_5",
@@ -295,7 +295,7 @@
       "name": "דיג בחוף הטונה",
       "desc": "הפלגת דייג מקצועית באזור הידוע בשפע דגי הטונה שבו.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+      "image_url": "https://www.saltwatersportsman.com/wp-content/uploads/2021/09/panama1_bg-1.jpg"
     },
     {
       "id": "chi_1",
@@ -303,7 +303,7 @@
       "name": "אי בולה (Isla Bolanos)",
       "desc": "אי פראי עם חול לבן ודקלים. המקום המושלם ליום של שקט ושנירקול.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX5MAxUAjbie5SDG57mzHggbDeCrRS4JC8pQ&s"
     },
     {
       "id": "chi_2",
@@ -311,7 +311,7 @@
       "name": "אי פארידה (Parida)",
       "desc": "האי הגדול ביותר בשמורה, מציע חופים יפים ויער גשם עשיר.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1518182170546-076616fdcbfe?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-xGJVxar90jXiDza9UQxua3Jo0RNLFvHkg&s"
     },
     {
       "id": "chi_3",
@@ -319,7 +319,7 @@
       "name": "צפייה בדולפינים",
       "desc": "שיוט במים השקטים של המפרץ לאיתור להקות דולפינים מקומיות.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGu7D1shzR0-xM1A8P0kNs4UNq5Fe7kqVcWQ&s"
     },
     {
       "id": "chi_4",
@@ -327,7 +327,7 @@
       "name": "האיים התאומים (Secas)",
       "desc": "קבוצת איים מרהיבה עם ריפי אלמוגים שלמים וטבע עוצר נשימה.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
+      "image_url": "https://www.villa88.com/wp-content/uploads/2025/05/3-110.png"
     },
     {
       "id": "chi_5",
@@ -335,7 +335,7 @@
       "name": "קיאקים במנגרובים",
       "desc": "חקר המערכת האקולוגית הייחודית של המנגרובים בשולי המפרץ.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+      "image_url": "https://www.boqueteoutdooradventures.com/wp-content/uploads/2016/07/Mangroves-and-Rivers-Panama.jpg"
     }
   ]
 }
