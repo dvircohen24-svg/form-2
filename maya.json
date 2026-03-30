@@ -53,6 +53,18 @@
       "desc": "בירת איטליה - שילוב מנצח של עיר גדולה, קולינריה משובחת והיסטוריה עתיקה בכל פינה."
     },
     {
+      "id": "dest_milan",
+      "categoryId": "cat_big_cities",
+      "name": "מילאנו",
+      "desc": "בירת האופנה והעיצוב. קצב מהיר, שופינג יוקרתי, אדריכלות גותית מטורפת ותרבות מודרנית."
+    },
+    {
+      "id": "dest_venice",
+      "categoryId": "cat_big_cities",
+      "name": "ונציה",
+      "desc": "עיר התעלות הייחודית בעולם. ללכת לאיבוד בין גשרים, גונדולות וארמונות שקועים במים."
+    },
+    {
       "id": "dest_florence",
       "categoryId": "cat_history_art",
       "name": "פירנצה",
@@ -128,6 +140,86 @@
       "name": "שכונת טרסטוורה (Trastevere)",
       "desc": "השכונה הבוהמיינית של רומא. סמטאות ציוריות עטורות קיסוס, מסעדות מקומיות קטנות וחיי לילה תוססים.",
       "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "mil_1",
+      "destinationId": "dest_milan",
+      "name": "הדואומו של מילאנו (Duomo di Milano)",
+      "desc": "הקתדרלה הגותית העצומה והמרשימה של מילאנו. חובה לעלות לגג הקתדרלה לתצפית יוצאת דופן על העיר.",
+      "rating": "4.9/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "mil_2",
+      "destinationId": "dest_milan",
+      "name": "גלריית ויטוריו אמנואלה השני",
+      "desc": "קניון העתיק והיוקרתי ביותר באיטליה. תקרות זכוכית מרהיבות, חנויות מעצבים ובתי קפה היסטוריים.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "mil_3",
+      "destinationId": "dest_milan",
+      "name": "טירת ספורצסקו (Castello Sforzesco)",
+      "desc": "מבצר ענק בלב העיר המארח מספר מוזיאונים לאמנות ומוקף בפארק סמפיונה הירוק והרחב.",
+      "rating": "4.6/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "mil_4",
+      "destinationId": "dest_milan",
+      "name": "שכונת נאבילי (Navigli)",
+      "desc": "אזור התעלות התוסס של מילאנו. המקום המושלם לאפריטיבו בשקיעה, עם אינספור ברים, מסעדות ואווירה צעירה.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "mil_5",
+      "destinationId": "dest_milan",
+      "name": "הסעודה האחרונה (Santa Maria delle Grazie)",
+      "desc": "הזדמנות נדירה (דורש הזמנה מראש) לראות את ציור הקיר המקורי והמפורסם של לאונרדו דה וינצ'י.",
+      "rating": "4.9/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "ven_1",
+      "destinationId": "dest_venice",
+      "name": "כיכר ובזיליקת סן מרקו",
+      "desc": "הלב הפועם של ונציה. כיכר עצומה ומרשימה המוקפת בבתי קפה היסטוריים, ובזיליקה ביזנטית מרהיבה עטורת פסיפסי זהב.",
+      "rating": "4.9/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "ven_2",
+      "destinationId": "dest_venice",
+      "name": "תעלת הגראנדה וגשר ריאלטו",
+      "desc": "השדרה המרכזית של ונציה, שכולה מים. שייט בוואפורטו (אוטובוס מים) לאורכה ותצפית מגשר האבן המפורסם.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "ven_3",
+      "destinationId": "dest_venice",
+      "name": "ארמון הדוג'ה (Doge's Palace)",
+      "desc": "מרכז השלטון ההיסטורי של רפובליקת ונציה. סיור באולמות פאר ענקיים והליכה על 'גשר האנחות' המפורסם.",
+      "rating": "4.7/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "ven_4",
+      "destinationId": "dest_venice",
+      "name": "שייט לאיים מוראנו ובוראנו",
+      "desc": "בריחה קלה מהעיר לאיים הסמוכים: מוראנו המפורסמת באומנות ניפוח הזכוכית, ובוראנו הידועה בבתיה הצבועים בצבעים עזים.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "ven_5",
+      "destinationId": "dest_venice",
+      "name": "שייט רומנטי בגונדולה",
+      "desc": "החוויה הוונציאנית הקלאסית: שייט שקט בתעלות הצרות והנסתרות של העיר, הרחק מההמולה המרכזית.",
+      "rating": "4.6/5",
       "image_url": "YOUR_IMAGE_LINK_HERE"
     },
     {
