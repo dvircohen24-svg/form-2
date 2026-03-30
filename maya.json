@@ -1,262 +1,108 @@
 {
   "userEmail": "9712701@gmail.com",
   "destination": "איטליה",
-  "regions": [
+  "categories": [
     {
-      "id": "reg_north",
-      "name": "צפון איטליה",
-      "desc": "אגמים אלפיניים, פסגות דרמטיות, ערים אלגנטיות ופארקי שעשועים מהגדולים באירופה."
-    },
-    {
-      "id": "reg_center",
-      "name": "מרכז איטליה (טוסקנה ולאציו)",
-      "desc": "לב הרנסנס, ערי אמנות היסטוריות, גבעות ירוקות מתגלגלות ועיירות ימי-ביניימיות."
-    },
-    {
-      "id": "reg_south",
-      "name": "דרום איטליה",
-      "desc": "קו חוף עוצר נשימה, ארכיאולוגיה ייחודית, הרי געש ואווירה ים-תיכונית חמה."
-    }
-  ],
-  "clusters": [
-    {
-      "id": "cl_north_nature",
-      "regionId": "reg_north",
-      "name": "אגמים וטבע אלפיני",
-      "emoji": "🏞️",
-      "desc": "נופים עוצרי נשימה של אגם גארדה ואגם קומו, לצד הפסגות המשוננות של הדולומיטים.",
-      "image_url": "YOUR_IMAGE_LINK_HERE"
-    },
-    {
-      "id": "cl_north_parks",
-      "regionId": "reg_north",
-      "name": "פארקי שעשועים ואדרנלין",
-      "emoji": "🎢",
-      "desc": "ריגושים ופארקי נושא לכל המשפחה סביב אגם גארדה.",
-      "image_url": "YOUR_IMAGE_LINK_HERE"
-    },
-    {
-      "id": "cl_north_cities",
-      "regionId": "reg_north",
-      "name": "ערים גדולות ורומנטיקה",
-      "emoji": "🏙️",
-      "desc": "בירת האופנה מילאנו ועיר התעלות הקסומה ונציה.",
-      "image_url": "YOUR_IMAGE_LINK_HERE"
-    },
-    {
-      "id": "cl_center_cities",
-      "regionId": "reg_center",
+      "id": "cat_art_cities",
       "name": "ערי אמנות והיסטוריה",
       "emoji": "🏛️",
       "desc": "מסע בזמן בין האימפריה הרומית ברומא ליצירות המופת של פירנצה.",
       "image_url": "YOUR_IMAGE_LINK_HERE"
     },
     {
-      "id": "cl_center_towns",
-      "regionId": "reg_center",
-      "name": "עיירות ונופי טוסקנה",
-      "emoji": "🍷",
-      "desc": "דרכי נוף מפורסמות, כרמים, גבעות ציוריות ועיירות אבן עתיקות.",
+      "id": "cat_nature",
+      "name": "אגמים וטבע אלפיני",
+      "emoji": "🏞️",
+      "desc": "נופים עוצרי נשימה של אגם גארדה ואגם קומו, לצד הפסגות של הדולומיטים.",
       "image_url": "YOUR_IMAGE_LINK_HERE"
     },
     {
-      "id": "cl_south_coast",
-      "regionId": "reg_south",
-      "name": "קו החוף הדרמטי",
-      "emoji": "🍋",
-      "desc": "נסיעה על צוקים הנופלים לים בחוף אמלפי ושיט לאי קאפרי.",
+      "id": "cat_parks",
+      "name": "פארקי שעשועים ואדרנלין",
+      "emoji": "🎢",
+      "desc": "ריגושים ופארקי נושא לכל המשפחה.",
       "image_url": "YOUR_IMAGE_LINK_HERE"
+    }
+  ],
+  "destinations": [
+    {
+      "id": "dest_rome",
+      "categoryId": "cat_art_cities",
+      "name": "רומא",
+      "desc": "בירת הנצח - היסטוריה עתיקה, קולינריה משובחת ואווירה רומנטית."
     },
     {
-      "id": "cl_south_history",
-      "regionId": "reg_south",
-      "name": "ארכיאולוגיה והרי געש",
-      "emoji": "🌋",
-      "desc": "העיר הקפואה בזמן פומפיי וטיפוס ללוע הר הגעש וזוב.",
-      "image_url": "YOUR_IMAGE_LINK_HERE"
+      "id": "dest_florence",
+      "categoryId": "cat_art_cities",
+      "name": "פירנצה",
+      "desc": "בירת טוסקנה וערש הרנסנס - מוזיאונים, גלריות וארכיטקטורה מרהיבה."
+    },
+    {
+      "id": "dest_garda",
+      "categoryId": "cat_nature",
+      "name": "אגם גארדה",
+      "desc": "האגם הגדול והמפורסם באיטליה, עיירות ציוריות ונופים הרריים."
+    },
+    {
+      "id": "dest_dolomites",
+      "categoryId": "cat_nature",
+      "name": "הדולומיטים",
+      "desc": "רכס הרים אלפיני דרמטי, אגמי טורקיז ומסלולי טבע עוצרי נשימה."
+    },
+    {
+      "id": "dest_garda_parks",
+      "categoryId": "cat_parks",
+      "name": "פארקי גארדה",
+      "desc": "מתחם הפארקים הגדול סביב האגם, כולל גארדלנד ופארקי מים."
     }
   ],
   "sites": [
     {
-      "id": "site_n_nat_1",
-      "clusterId": "cl_north_nature",
-      "name": "חצי האי סירמיונה (Sirmione)",
-      "name_en": "Sirmione, Lake Garda",
-      "location": "אגם גארדה",
-      "desc": "עיירה ציורית היושבת על לשון יבשה החודרת אל תוך אגם גארדה. מציעה טירה עתיקה מוקפת מים (קסטלו סקאליג'רו), סמטאות יפות, ונוף מרהיב אל האגם וההרים.",
-      "duration": "חצי יום",
-      "estimated_cost": "חינם (כניסה לטירה כ-8 אירו)",
+      "id": "site_rome_1",
+      "destinationId": "dest_rome",
+      "name": "הקולוסיאום והפורום הרומאי",
+      "desc": "הסמל האייקוני של האימפריה הרומית. סיור באמפיתיאטרון העתיק בעולם.",
+      "rating": "4.9/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "site_rome_2",
+      "destinationId": "dest_rome",
+      "name": "מזרקת טרווי והפנתיאון",
+      "desc": "הליכה בסמטאות רומא אל המזרקה המפורסמת ביותר ואל המקדש הרומי העתיק.",
       "rating": "4.8/5",
-      "seasons": "אביב, קיץ, סתיו",
       "image_url": "YOUR_IMAGE_LINK_HERE"
     },
     {
-      "id": "site_n_nat_2",
-      "clusterId": "cl_north_nature",
-      "name": "רכבל מונטה באלדו (Monte Baldo)",
-      "name_en": "Monte Baldo Cable Car",
-      "location": "מלצ'סינה, אגם גארדה",
-      "desc": "רכבל המסתובב 360 מעלות ולוקח אתכם מפסגת העיירה מלצ'סינה אל הרכס הצופה על כל אגם גארדה והאלפים. מסלולי הליכה ותצפיות נוף פנורמיות מהיפות באיטליה.",
-      "duration": "3-4 שעות",
-      "estimated_cost": "25 אירו לאדם",
-      "rating": "4.7/5",
-      "seasons": "אביב, קיץ, סתיו",
+      "id": "site_florence_1",
+      "destinationId": "dest_florence",
+      "name": "גלריית אופיצי",
+      "desc": "צפייה ביצירות המופת הגדולות ביותר של דה וינצ'י, מיכלאנג'לו ובוטיצ'לי.",
+      "rating": "4.8/5",
       "image_url": "YOUR_IMAGE_LINK_HERE"
     },
     {
-      "id": "site_n_park_1",
-      "clusterId": "cl_north_parks",
-      "name": "פארק השעשועים גארדלנד (Gardaland)",
-      "name_en": "Gardaland Park",
-      "location": "אגם גארדה",
-      "desc": "פארק השעשועים הגדול והמפורסם באיטליה. מציע רכבות הרים אקסטרים, מתקני מים, ומתחמי נושא מושקעים לכל הגילים.",
-      "duration": "יום שלם",
-      "estimated_cost": "כ-45 אירו לאדם",
+      "id": "site_garda_1",
+      "destinationId": "dest_garda",
+      "name": "חצי האי סירמיונה",
+      "desc": "עיירה ציורית היושבת על לשון יבשה, עם טירה עתיקה מוקפת מים וסמטאות יפות.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "site_dolo_1",
+      "destinationId": "dest_dolomites",
+      "name": "אגם בראייס (Lago di Braies)",
+      "desc": "האגם המצולם ביותר בדולומיטים, מוקף בפסגות סלע דרמטיות.",
+      "rating": "4.9/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "site_park_1",
+      "destinationId": "dest_garda_parks",
+      "name": "גארדלנד (Gardaland)",
+      "desc": "פארק השעשועים הגדול והמפורסם באיטליה, רכבות הרים ומתחמי נושא.",
       "rating": "4.6/5",
-      "seasons": "אביב, קיץ, סתיו",
-      "image_url": "YOUR_IMAGE_LINK_HERE"
-    },
-    {
-      "id": "site_n_park_2",
-      "clusterId": "cl_north_parks",
-      "name": "פארק הסרטים מובילנד (Movieland)",
-      "name_en": "Movieland Studios",
-      "location": "אגם גארדה",
-      "desc": "פארק שעשועים ייחודי המבוסס על סרטי הוליווד עם הופעות פעלולים חיות, מתקני אקשן וסימולטורים. צמוד אלו נמצא פארק המים קנבה (Caneva).",
-      "duration": "חצי יום - יום שלם",
-      "estimated_cost": "כ-34 אירו לאדם",
-      "rating": "4.5/5",
-      "seasons": "קיץ",
-      "image_url": "YOUR_IMAGE_LINK_HERE"
-    },
-    {
-      "id": "site_n_city_1",
-      "clusterId": "cl_north_cities",
-      "name": "כיכר סן מרקו ותעלות ונציה (Venice)",
-      "name_en": "Piazza San Marco & Canals",
-      "location": "ונציה",
-      "desc": "סיור בלב העיר הצפה. תצפית על בזיליקת סן מרקו המפוארת, ארמון הדוג'ה, ושייט בגונדולה או בוואפורטו (אוטובוס מים) בתעלה הגדולה.",
-      "duration": "יום שלם",
-      "estimated_cost": "80 אירו לשייט בגונדולה",
-      "rating": "4.9/5",
-      "seasons": "כל השנה (עמוס מאוד בקיץ)",
-      "image_url": "YOUR_IMAGE_LINK_HERE"
-    },
-    {
-      "id": "site_n_city_2",
-      "clusterId": "cl_north_cities",
-      "name": "הדואומו של מילאנו (Duomo di Milano)",
-      "name_en": "Milan Cathedral (Duomo)",
-      "location": "מילאנו",
-      "desc": "הקתדרלה הגותית העצומה והמרשימה של מילאנו. חובה לעלות לגג הקתדרלה לתצפית יוצאת דופן על העיר מבין מאות צריחי השיש העתיקים.",
-      "duration": "2-3 שעות",
-      "estimated_cost": "20 אירו לעלייה לגג במעלית",
-      "rating": "4.8/5",
-      "seasons": "כל השנה",
-      "image_url": "YOUR_IMAGE_LINK_HERE"
-    },
-    {
-      "id": "site_c_city_1",
-      "clusterId": "cl_center_cities",
-      "name": "הקולוסיאום והפורום הרומאי (Colosseum)",
-      "name_en": "Colosseum & Roman Forum",
-      "location": "רומא",
-      "desc": "הסמל האייקוני של האימפריה הרומית. סיור באמפיתיאטרון העתיק בעולם ובשרידי מרכז החיים והשלטון של רומא העתיקה.",
-      "duration": "חצי יום",
-      "estimated_cost": "18 אירו לאדם",
-      "rating": "4.9/5",
-      "seasons": "כל השנה",
-      "image_url": "YOUR_IMAGE_LINK_HERE"
-    },
-    {
-      "id": "site_c_city_2",
-      "clusterId": "cl_center_cities",
-      "name": "גלריית אופיצי והדואומו של פירנצה (Uffizi)",
-      "name_en": "Uffizi Gallery & Florence Duomo",
-      "location": "פירנצה",
-      "desc": "מרכז הרנסנס העולמי. צפייה ביצירות המופת הגדולות ביותר של דה וינצ'י, מיכלאנג'לו ובוטיצ'לי, והתרשמות מכיפת הענק של קתדרלת פירנצה.",
-      "duration": "חצי יום - יום שלם",
-      "estimated_cost": "25 אירו לאדם לאופיצי",
-      "rating": "4.8/5",
-      "seasons": "כל השנה",
-      "image_url": "YOUR_IMAGE_LINK_HERE"
-    },
-    {
-      "id": "site_c_town_1",
-      "clusterId": "cl_center_towns",
-      "name": "סן ג'ימיניאנו (San Gimignano)",
-      "name_en": "San Gimignano",
-      "location": "טוסקנה",
-      "desc": "עיירת ימי-ביניים המכונה 'מנהטן של ימי הביניים' בזכות 14 מגדלי האבן הגבוהים שלה שנותרו עומדים. נוף מושלם של גבעות טוסקנה וגלידה מהטובות בעולם.",
-      "duration": "חצי יום",
-      "estimated_cost": "חינם (קניות ואוכל בנפרד)",
-      "rating": "4.7/5",
-      "seasons": "אביב, קיץ, סתיו",
-      "image_url": "YOUR_IMAGE_LINK_HERE"
-    },
-    {
-      "id": "site_c_town_2",
-      "clusterId": "cl_center_towns",
-      "name": "עמק אורצ'ה (Val d'Orcia)",
-      "name_en": "Val d'Orcia",
-      "location": "דרום טוסקנה",
-      "desc": "הנוף הטוסקני המושלם מהגלויות: גבעות מוריקות מתגלגלות, שדרות עצי ברוש, שדות חיטה וחוות אבן מבודדות. אתר מורשת עולמית של אונסק\"ו, אידיאלי לנסיעת נוף.",
-      "duration": "חצי יום - יום שלם",
-      "estimated_cost": "חינם",
-      "rating": "4.9/5",
-      "seasons": "אביב וסתיו (בקיץ פחות ירוק)",
-      "image_url": "YOUR_IMAGE_LINK_HERE"
-    },
-    {
-      "id": "site_s_coast_1",
-      "clusterId": "cl_south_coast",
-      "name": "נסיעה בדרך חוף אמלפי ופוזיטנו (Amalfi Drive)",
-      "name_en": "Amalfi Coast Drive & Positano",
-      "location": "חוף אמלפי",
-      "desc": "אחד מכבישי הנוף היפים בעולם, המתפתל על צוקים גבוהים מעל הים התיכון. כולל עצירה בפוזיטנו, העיירה האנכית הצבעונית.",
-      "duration": "יום שלם",
-      "estimated_cost": "חינם (חניות ומעבורות יקרות)",
-      "rating": "4.8/5",
-      "seasons": "אביב, קיץ, סתיו",
-      "image_url": "YOUR_IMAGE_LINK_HERE"
-    },
-    {
-      "id": "site_s_coast_2",
-      "clusterId": "cl_south_coast",
-      "name": "שייט לאי קאפרי (Isle of Capri)",
-      "name_en": "Capri Island",
-      "location": "מפרץ נאפולי / סורנטו",
-      "desc": "אי יוקרתי ומרהיב. כולל עלייה ברכבל כיסאות יחיד (מונטה סולארו) לתצפית פנורמית על הים והצוקים, וסיור בגנים של אנאקאפרי.",
-      "duration": "יום שלם",
-      "estimated_cost": "כ-45 אירו למעבורת הלוך-חזור",
-      "rating": "4.7/5",
-      "seasons": "אביב, קיץ, סתיו",
-      "image_url": "YOUR_IMAGE_LINK_HERE"
-    },
-    {
-      "id": "site_s_hist_1",
-      "clusterId": "cl_south_history",
-      "name": "הפארק הארכיאולוגי פומפיי (Pompeii)",
-      "name_en": "Pompeii Archaeological Park",
-      "location": "מפרץ נאפולי",
-      "desc": "עיר רומית מרתקת ועצומה שקפאה בזמן לאחר שנקברה תחת אפר וולקני. הליכה ברחובות עתיקים שנשתמרו על הפסיפסים, החנויות והבתים שבהם.",
-      "duration": "3-4 שעות",
-      "estimated_cost": "18 אירו לאדם",
-      "rating": "4.8/5",
-      "seasons": "כל השנה (בקיץ חם מאוד להליכה בשמש)",
-      "image_url": "YOUR_IMAGE_LINK_HERE"
-    },
-    {
-      "id": "site_s_hist_2",
-      "clusterId": "cl_south_history",
-      "name": "טיפוס להר הגעש וזוב (Mount Vesuvius)",
-      "name_en": "Mount Vesuvius Crater",
-      "location": "מפרץ נאפולי",
-      "desc": "מסלול הליכה קצר ותלול מתחנת האוטובוסים אל לוע הר הגעש הפעיל. מציע חוויה עוצמתית ותצפית מטורפת על מפרץ נאפולי כולה מלמעלה.",
-      "duration": "2-3 שעות",
-      "estimated_cost": "11 אירו לאדם (+תחבורה/חניה)",
-      "rating": "4.5/5",
-      "seasons": "אביב, קיץ, סתיו",
       "image_url": "YOUR_IMAGE_LINK_HERE"
     }
   ]
