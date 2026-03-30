@@ -98,6 +98,126 @@
   ],
   "sites": [
     {
+      "id": "boc_1",
+      "destinationId": "dest_bocas",
+      "name": "פלאיה אסטרייה (חוף כוכבי הים)",
+      "desc": "חוף מרהיב ורגוע שבו עשרות כוכבי ים כתומים וגדולים נחים במים הרדודים.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800"
+    },
+    {
+      "id": "boc_2",
+      "destinationId": "dest_bocas",
+      "name": "האי זפטייה (Zapatilla)",
+      "desc": "שני איים קטנים ובלתי מיושבים המהווים חלק משמורת טבע ימית. שוניות וחול לבן.",
+      "rating": "4.9/5",
+      "image_url": "https://images.unsplash.com/photo-1537236585140-5e3669dc4e50?w=800"
+    },
+    {
+      "id": "boc_3",
+      "destinationId": "dest_bocas",
+      "name": "מפרץ הדולפינים",
+      "desc": "שייט בלגונה שקטה המשמשת בית למשפחות דולפינים שמגיעות לשחק סביב הסירות.",
+      "rating": "4.7/5",
+      "image_url": "https://images.unsplash.com/photo-1570481662006-a3a1374699e8?w=800"
+    },
+    {
+      "id": "boc_4",
+      "destinationId": "dest_bocas",
+      "name": "רד פרוג ביץ'",
+      "desc": "חוף יפהפה באי באסטימנטוס, ידוע בגלים מצוינים ובצפרדעי החץ האדומות בג'ונגל.",
+      "rating": "4.6/5",
+      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+    },
+    {
+      "id": "boc_5",
+      "destinationId": "dest_bocas",
+      "name": "בוקאס טאון",
+      "desc": "המרכז הפועם של הארכיפלג. רחובות על המים, מסעדות ואווירת מסיבות תוססת.",
+      "rating": "4.5/5",
+      "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
+    },
+    {
+      "id": "san_1",
+      "destinationId": "dest_san_blas",
+      "name": "אי הכלב (Isla Perro)",
+      "desc": "מפורסם בזכות הספינה הטרופה השקועה קרוב לחוף המספקת אתר שנירקול מרהיב.",
+      "rating": "4.9/5",
+      "image_url": "https://images.unsplash.com/photo-1590523278191-995cbcda646b?w=800"
+    },
+    {
+      "id": "san_2",
+      "destinationId": "dest_san_blas",
+      "name": "הבריכה הטבעית",
+      "desc": "רצועת חול רדודה באמצע הים הפתוח. אפשר לעמוד במים צלולים המגיעים עד המותניים.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
+    },
+    {
+      "id": "san_3",
+      "destinationId": "dest_san_blas",
+      "name": "כפר שבט הגונה יאלה",
+      "desc": "היכרות מרתקת עם התרבות המקומית, הלבוש המסורתי ועבודות הרקמה המפורסמות.",
+      "rating": "4.7/5",
+      "image_url": "https://images.unsplash.com/photo-1551868472-886ecf116530?w=800"
+    },
+    {
+      "id": "san_4",
+      "destinationId": "dest_san_blas",
+      "name": "אי פליקאן (Pelicano)",
+      "desc": "אי מושלם שכיכב בסדרה 'בית הנייר'. חול לבן, דקלים ושקט מוחלט.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1537236585140-5e3669dc4e50?w=800"
+    },
+    {
+      "id": "san_5",
+      "destinationId": "dest_san_blas",
+      "name": "שייט קיאקים בין האיים",
+      "desc": "דרך פסטורלית לחקור את שוניות האלמוגים והאיים הקטנטנים סביב.",
+      "rating": "4.6/5",
+      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+    },
+    {
+      "id": "boq_1",
+      "destinationId": "dest_boquete",
+      "name": "הגשרים התלויים",
+      "desc": "הליכה חווייתית מעל צמרות העצים של יער העננים. הזדמנות מעולה לצפרות.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1518182170546-076616fdcbfe?w=800"
+    },
+    {
+      "id": "boq_2",
+      "destinationId": "dest_boquete",
+      "name": "מטעי קפה גיישה",
+      "desc": "סיור מרתק בשדות הקפה הפסטורליים והיקרים בעולם, כולל טעימות.",
+      "rating": "4.7/5",
+      "image_url": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=800"
+    },
+    {
+      "id": "boq_3",
+      "destinationId": "dest_boquete",
+      "name": "הר הגעש בארו (Volcan Baru)",
+      "desc": "הנקודה הגבוהה בפנמה! מסלול אתגרי לתצפית זריחה על שני האוקיינוסים.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800"
+    },
+    {
+      "id": "boq_4",
+      "destinationId": "dest_boquete",
+      "name": "מעיינות חמים קלדרה",
+      "desc": "טבילה במעיינות חמים טבעיים לחלוטין שממוקמים בלב הג'ונגל הפראי.",
+      "rating": "4.6/5",
+      "image_url": "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?w=800"
+    },
+    {
+      "id": "boq_5",
+      "destinationId": "dest_boquete",
+      "name": "שלושת המפלים האבודים",
+      "desc": "המסלול מוביל דרך ג'ונגל אל שלושה מפלים עוצמתיים. הרפתקה נהדרת לאוהבי טבע.",
+      "rating": "4.7/5",
+      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+    },
+    {
       "id": "pty_1",
       "destinationId": "dest_panama_city",
       "name": "תעלת פנמה (Miraflores)",
