@@ -3,214 +3,318 @@
   "destination": "פנמה",
   "categories": [
     {
-      "id": "cat_1",
-      "name": "טבע פראי וחיות בר",
-      "emoji": "🌿",
-      "desc": "חקרו את הג'ונגלים העבותים, שמורות הטבע והחיות המרהיבות של פנמה. מתאים לאוהבי טבע וצפרות.",
-      "image_url": "https://images.unsplash.com/photo-1518182170546-076616fdcbfe?w=800"
-    },
-    {
-      "id": "cat_2",
-      "name": "חופים קסומים ושנירקול",
-      "emoji": "🐠",
-      "desc": "גלו את החופים הבתוליים והשקטים של פנמה, בטן גב ושנירקול במים צלולים עם שפע של חיים ימיים.",
+      "id": "cat_caribbean",
+      "name": "חופים קריביים ואיים טרופיים",
+      "emoji": "🏝️",
+      "desc": "חול לבן, עצי דקל, כוכבי ים ומים בצבע טורקיז משגע בארכיפלגים הקריביים של פנמה.",
       "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
     },
     {
-      "id": "cat_3",
-      "name": "תרבות, היסטוריה ואורבניות",
-      "emoji": "🏛️",
-      "desc": "ההיסטוריה העשירה, התרבות התוססת והאווירה האורבנית של פנמה, כולל אתרים היסטוריים ופסטיבלים.",
+      "id": "cat_nature_highlands",
+      "name": "יערות עננים, טבע וקפה",
+      "emoji": "⛰️",
+      "desc": "אזורים הרריים וקרירים, ג'ונגלים עבותים, מעיינות חמים, חיות בר ומטעי הקפה הטובים בעולם.",
+      "image_url": "https://images.unsplash.com/photo-1518182170546-076616fdcbfe?w=800"
+    },
+    {
+      "id": "cat_city_culture",
+      "name": "אורבניות, היסטוריה והתעלה",
+      "emoji": "🏙️",
+      "desc": "גורדי שחקים נוצצים מול סמטאות קולוניאליות עתיקות, ואחד מפלאי ההנדסה הגדולים בעולם.",
       "image_url": "https://images.unsplash.com/photo-1518063032540-3b10b0e513a9?w=800"
     },
     {
-      "id": "cat_4",
-      "name": "הרפתקאות ופעילויות מים",
-      "emoji": "🚣",
-      "desc": "הרפתקאות מרגשות כמו צלילה, גלישה, שייט וטיולים רטובים, שישלבו אתכם עם הטבע הפראי.",
+      "id": "cat_pacific_adventure",
+      "name": "האוקיינוס השקט והרפתקאות ימיות",
+      "emoji": "🐋",
+      "desc": "גלישת גלים, צלילה ברמה עולמית, לוויתנים, ופארקים לאומיים ימיים פראיים.",
       "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
     }
   ],
   "destinations": [
     {
-      "id": "dest_1",
-      "categoryId": "cat_1",
-      "name": "פארק לאומי קואיבה",
-      "desc": "אתר מורשת עולמית, גן עדן לצוללנים. כאן תוכלו לפגוש כרישים, צבי ים ודגים טרופיים בשפע.",
-      "image_url": "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?w=800"
-    },
-    {
-      "id": "dest_2",
-      "categoryId": "cat_2",
+      "id": "dest_bocas",
+      "categoryId": "cat_caribbean",
       "name": "בוקאס דל טורו",
-      "desc": "ארכיפלג קריבי עם חופים מרהיבים, איים נידחים, הזדמנויות לשנירקול וחיי לילה תוססים.",
+      "desc": "ארכיפלג איים קריביים תוסס בצפון המדינה. מושלם לצעירים, משפחות, מסיבות וטיולי שייט יומיים לאיים מבודדים.",
       "image_url": "https://images.unsplash.com/photo-1537236585140-5e3669dc4e50?w=800"
     },
     {
-      "id": "dest_3",
-      "categoryId": "cat_2",
+      "id": "dest_san_blas",
+      "categoryId": "cat_caribbean",
       "name": "איי סן בלאס",
-      "desc": "אלפי איים טרופיים זעירים עם חופים בתוליים, מים צלולים ואירוח אותנטי על ידי שבט הגונה המקומי.",
+      "desc": "מעל 300 איים בתוליים המנוהלים על ידי שבט הגונה יאלה. חוויה של ניתוק מוחלט, טבע פראי ותרבות מקומית.",
       "image_url": "https://images.unsplash.com/photo-1590523278191-995cbcda646b?w=800"
     },
     {
-      "id": "dest_4",
-      "categoryId": "cat_3",
-      "name": "העיר פנמה",
-      "desc": "בירת פנמה המשלבת גורדי שחקים מודרניים עם עיר עתיקה קולוניאלית, סצנת אוכל מצוינת ומוזיאונים.",
-      "image_url": "https://images.unsplash.com/photo-1518063032540-3b10b0e513a9?w=800"
+      "id": "dest_panama_city",
+      "categoryId": "cat_city_culture",
+      "name": "פנמה סיטי ותעלת פנמה",
+      "desc": "עיר הבירה המרתקת, המשלבת את רובע 'קאסקו וייחו' ההיסטורי עם קו רקיע מודרני וכמובן - תעלת פנמה המפורסמת.",
+      "image_url": "https://images.unsplash.com/photo-1543781741-949449f10e42?w=800"
     },
     {
-      "id": "dest_5",
-      "categoryId": "cat_1",
-      "name": "בוקטה",
-      "desc": "עיירה הררית קרירה, מוקפת מטעי קפה ויערות גשם. מושלמת לטיולים רגליים, גשרים תלויים וצפרות.",
-      "image_url": "https://images.unsplash.com/photo-1518182170546-076616fdcbfe?w=800"
+      "id": "dest_boquete",
+      "categoryId": "cat_nature_highlands",
+      "name": "בוקטה ורמות צ'יריקי",
+      "desc": "עיירה הררית ירוקה וקסומה, בירת האקסטרים והטבע של פנמה. גשרים תלויים, קפה משובח והר געש עוצמתי.",
+      "image_url": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=800"
     },
     {
-      "id": "dest_6",
-      "categoryId": "cat_4",
-      "name": "סנטה קטלינה",
-      "desc": "כפר דייגים שליו שהפך ליעד מוביל לגולשים ולנקודת יציאה עיקרית לפארק קואיבה.",
-      "image_url": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=800"
+      "id": "dest_el_valle",
+      "categoryId": "cat_nature_highlands",
+      "name": "עמק אנטון (El Valle)",
+      "desc": "עיירה מיוחדת הממוקמת בתוך לוע כבוי של הר געש ענק. שופעת מעיינות חמים, מפלים ושבילי הליכה נהדרים.",
+      "image_url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800"
+    },
+    {
+      "id": "dest_coiba_catalina",
+      "categoryId": "cat_pacific_adventure",
+      "name": "סנטה קטלינה ופארק קואיבה",
+      "desc": "כפר גולשים אותנטי המהווה את שער הכניסה לפארק קואיבה (ה'גלאפגוס של פנמה') - אחד מאתרי הצלילה הטובים בעולם.",
+      "image_url": "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?w=800"
     }
   ],
   "sites": [
     {
-      "id": "coi_1",
-      "destinationId": "dest_1",
-      "name": "צלילה ושנירקול עם כרישים וצבים",
-      "desc": "חוויה תת-ימית מדהימה באחת השמורות העשירות בעולם. שחייה לצד צבי ים, כרישי שונית ולהקות דגים עצומות.",
-      "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
-    },
-    {
-      "id": "coi_2",
-      "destinationId": "dest_1",
-      "name": "האי הראשי גראן קואיבה",
-      "desc": "ביקור באי הראשי של הפארק. בעבר מושבת עונשין, וכיום ג'ונגל פראי בו ניתן לראות קופים ותנינים.",
-      "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?w=800"
-    },
-    {
-      "id": "coi_3",
-      "destinationId": "dest_1",
-      "name": "שייט תצפית לוויתנים (בעונה)",
-      "desc": "סיור שייט מרגש בעקבות לוויתנים גדולי-סנפיר שמגיעים למימי הפארק כדי להמליט ולגדל את הגורים.",
-      "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1568430462989-44163eb17ab2?w=800"
-    },
-    {
-      "id": "boc_1",
-      "destinationId": "dest_2",
+      "id": "bocas_1",
+      "destinationId": "dest_bocas",
       "name": "פלאיה אסטרייה (חוף כוכבי הים)",
-      "desc": "חוף יפהפה עם מים רדודים ושקטים שבו תוכלו לראות עשרות כוכבי ים ענקיים וכתומים בתוך המים הצלולים.",
+      "desc": "חוף מרהיב ורגוע שבו עשרות כוכבי ים כתומים וגדולים נחים במים הרדודים. מקום מושלם להירגע עם קוקטייל מקומי.",
       "rating": "4.8/5",
       "image_url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800"
     },
     {
-      "id": "boc_2",
-      "destinationId": "dest_2",
-      "name": "האי זפטייה (Zapatilla)",
-      "desc": "שני איים קטנים ובלתי מיושבים המהווים חלק מפארק לאומי ימי. חופים של חול לבן כמו בגלויה.",
-      "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1537236585140-5e3669dc4e50?w=800"
-    },
-    {
-      "id": "boc_3",
-      "destinationId": "dest_2",
-      "name": "מפרץ הדולפינים",
-      "desc": "שייט בלגונה שקטה המשמשת בית למשפחות של דולפינים שמגיעים לעיתים קרובות לשחק סביב הסירות.",
-      "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1570481662006-a3a1374699e8?w=800"
-    },
-    {
-      "id": "san_1",
-      "destinationId": "dest_3",
-      "name": "אי הכלב (Isla Perro)",
-      "desc": "אחד האיים המפורסמים בסן בלאס, ידוע בספינה הטרופה השקועה קרוב לחוף שמספקת אתר שנירקול מרהיב.",
-      "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1590523278191-995cbcda646b?w=800"
-    },
-    {
-      "id": "san_2",
-      "destinationId": "dest_3",
-      "name": "ביקור בכפר ילידים של שבט הגונה",
-      "desc": "היכרות מרתקת עם אורח החיים המסורתי, עבודות היד (ה'מולה') והתרבות המקומית של בני שבט הגונה יאלה.",
-      "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1551868472-886ecf116530?w=800"
-    },
-    {
-      "id": "san_3",
-      "destinationId": "dest_3",
-      "name": "הבריכה הטבעית",
-      "desc": "רצועת חול רדודה באמצע הים הפתוח, שבה אפשר לעמוד במים בצבע טורקיז שמגיעים עד המותניים.",
+      "id": "bocas_2",
+      "destinationId": "dest_bocas",
+      "name": "האי זפטייה (Cayos Zapatilla)",
+      "desc": "שני איים קטנים ובלתי מיושבים המהווים חלק משמורת טבע ימית. רצועות חול לבן מדהימות ושנירקול נהדר בשוניות.",
       "rating": "4.9/5",
       "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
     },
     {
-      "id": "pan_1",
-      "destinationId": "dest_4",
-      "name": "תעלת פנמה - תאי מיראפלורס",
-      "desc": "פלא הנדסי עצום. צפייה באוניות ענק העוברות במערכת התאים ומורמות מעל גובה פני הים. כולל מוזיאון אינטראקטיבי.",
+      "id": "bocas_3",
+      "destinationId": "dest_bocas",
+      "name": "מפרץ הדולפינים",
+      "desc": "שייט בלגונה שקטה מוקפת מנגרובים, המשמשת בית למשפחות של דולפינים שמגיעים לקפוץ ולשחק סביב הסירות.",
+      "rating": "4.7/5",
+      "image_url": "https://images.unsplash.com/photo-1570481662006-a3a1374699e8?w=800"
+    },
+    {
+      "id": "bocas_4",
+      "destinationId": "dest_bocas",
+      "name": "רד פרוג ביץ' (Red Frog Beach)",
+      "desc": "חוף יפהפה באי באסטימנטוס, הידוע בגלים המצוינים שלו ובעיקר בצפרדעי החץ האדומות והזעירות שמסתתרות בג'ונגל הסמוך.",
+      "rating": "4.6/5",
+      "image_url": "https://images.unsplash.com/photo-1537236585140-5e3669dc4e50?w=800"
+    },
+    {
+      "id": "bocas_5",
+      "destinationId": "dest_bocas",
+      "name": "העיירה בוקאס טאון",
+      "desc": "המרכז הפועם של הארכיפלג. רחובות צבעוניים על המים, מסעדות, דוכנים ואווירת מסיבות תוססת בכל שעות היום.",
+      "rating": "4.5/5",
+      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+    },
+    {
+      "id": "sanblas_1",
+      "destinationId": "dest_san_blas",
+      "name": "אי הכלב (Isla Perro)",
+      "desc": "אחד האיים המפורסמים והיפים בסן בלאס. ממש קרוב לחוף ישנה ספינה טרופה שטבעה והפכה לאתר שנירקול מלא בדגים צבעוניים.",
+      "rating": "4.9/5",
+      "image_url": "https://images.unsplash.com/photo-1590523278191-995cbcda646b?w=800"
+    },
+    {
+      "id": "sanblas_2",
+      "destinationId": "dest_san_blas",
+      "name": "הבריכה הטבעית (Piscina Natural)",
+      "desc": "רצועת חול רדודה ונסתרת באמצע הים הפתוח, שבה אפשר פשוט לעמוד במים צלולים לחלוטין שמגיעים עד המותניים.",
       "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
+    },
+    {
+      "id": "sanblas_3",
+      "destinationId": "dest_san_blas",
+      "name": "ביקור בכפר שבט הגונה",
+      "desc": "הזדמנות להכיר מקרוב את התרבות העתיקה של שבט הגונה יאלה, לראות את הלבוש המסורתי ולרכוש עבודות רקמה (Molas).",
+      "rating": "4.7/5",
+      "image_url": "https://images.unsplash.com/photo-1551868472-886ecf116530?w=800"
+    },
+    {
+      "id": "sanblas_4",
+      "destinationId": "dest_san_blas",
+      "name": "אי פליקאן (Isla Pelicano)",
+      "desc": "אי פצפון ומושלם (שכיכב בסדרה 'בית הנייר'). חול לבן, מעט דקלים ושקט מוחלט. אידיאלי לצילומי רחפן והירגעות.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1537236585140-5e3669dc4e50?w=800"
+    },
+    {
+      "id": "sanblas_5",
+      "destinationId": "dest_san_blas",
+      "name": "שייט קיאקים בין האיים",
+      "desc": "דרך שקטה וסביבתית לחקור את הים הקריבי. שיוט איטי בין האיים הקטנים מאפשר תצפית מעולה על שוניות האלמוגים.",
+      "rating": "4.6/5",
+      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+    },
+    {
+      "id": "pty_1",
+      "destinationId": "dest_panama_city",
+      "name": "תעלת פנמה - תאי מיראפלורס",
+      "desc": "פלא הנדסי עצום. צפייה מקרוב באוניות ענק העוברות במערכת התאים ומורמות במעלה התעלה, כולל מוזיאון אינטראקטיבי.",
+      "rating": "4.9/5",
       "image_url": "https://images.unsplash.com/photo-1543781741-949449f10e42?w=800"
     },
     {
-      "id": "pan_2",
-      "destinationId": "dest_4",
-      "name": "קאסקו וייחו (העיר העתיקה)",
-      "desc": "רובע קולוניאלי צבעוני ותוסס עם סמטאות ציוריות, כנסיות עתיקות, בתי קפה מעולים ורופטופים עם חיי לילה.",
+      "id": "pty_2",
+      "destinationId": "dest_panama_city",
+      "name": "קאסקו וייחו (Casco Viejo)",
+      "desc": "העיר העתיקה והיפהפייה של פנמה. סמטאות ציוריות, מבנים קולוניאליים, כנסיות, ואזור חיי הלילה והמסעדות הכי שווה בעיר.",
       "rating": "4.9/5",
       "image_url": "https://images.unsplash.com/photo-1518063032540-3b10b0e513a9?w=800"
     },
     {
-      "id": "pan_3",
-      "destinationId": "dest_4",
+      "id": "pty_3",
+      "destinationId": "dest_panama_city",
       "name": "סוללת אמאדור (Amador Causeway)",
-      "desc": "טיילת ארוכה המחברת בין 3 איים לאוקיינוס השקט. מקום מושלם לרכיבה על אופניים ותצפית על קו הרקיע של העיר.",
+      "desc": "כביש/טיילת המחבר שלושה איים קטנים לאוקיינוס השקט. מעולה לרכיבה על אופניים, תצפית על הספינות שמחכות לתעלה וקו הרקיע.",
       "rating": "4.7/5",
       "image_url": "https://images.unsplash.com/photo-1596484552834-6a58f850e0a1?w=800"
     },
     {
+      "id": "pty_4",
+      "destinationId": "dest_panama_city",
+      "name": "פארק מטרופוליטנו",
+      "desc": "הריאה הירוקה של העיר. יער טרופי עשיר בתוך העיר עצמה המציע מסלולי הליכה קצרים, תצפיות פנורמיות ומפגש עם עצלנים וקופים.",
+      "rating": "4.6/5",
+      "image_url": "https://images.unsplash.com/photo-1518182170546-076616fdcbfe?w=800"
+    },
+    {
+      "id": "pty_5",
+      "destinationId": "dest_panama_city",
+      "name": "מוזיאון הביומסאו (Biomuseo)",
+      "desc": "מבנה צבעוני יוצא דופן שעיצב האדריכל פרנק גרי, המציג בצורה מרהיבה את ההיסטוריה הגיאולוגית של פנמה והמגוון הביולוגי שבה.",
+      "rating": "4.5/5",
+      "image_url": "https://images.unsplash.com/photo-1518063032540-3b10b0e513a9?w=800"
+    },
+    {
       "id": "boq_1",
-      "destinationId": "dest_5",
+      "destinationId": "dest_boquete",
       "name": "מסלול הגשרים התלויים (Hanging Bridges)",
-      "desc": "הליכה חווייתית על גשרים תלויים בצמרות העצים של יער העננים, תצפית מדהימה על הצמחייה וחיות הבר.",
+      "desc": "הליכה חווייתית וקלילה על מערכת גשרים תלויים גבוה מעל צמרות העצים של יער העננים. הזדמנות מעולה לצפרות ותצפית טבע.",
       "rating": "4.8/5",
       "image_url": "https://images.unsplash.com/photo-1518182170546-076616fdcbfe?w=800"
     },
     {
       "id": "boq_2",
-      "destinationId": "dest_5",
-      "name": "סיור במטעי הקפה",
-      "desc": "פנמה מפורסמת בקפה ה'גיישה' היקר בעולם. סיור מרתק בשדות הקפה כולל תהליך הייצור וטעימות.",
+      "destinationId": "dest_boquete",
+      "name": "סיור במטעי קפה גיישה",
+      "desc": "בוקטה מפורסמת בקפה היקר והטוב בעולם (הגיישה). סיור מרתק בשדות הקפה הפסטורליים, הבנת תהליך הייצור וטעימות מקצועיות.",
       "rating": "4.7/5",
       "image_url": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=800"
     },
     {
       "id": "boq_3",
-      "destinationId": "dest_5",
-      "name": "מסלול מפלי לוס לאדריז'וס",
-      "desc": "טיול הליכה טבעי וקליל יחסית שמוביל לסדרה של מפלים יפים בלב יער העננים של בוקטה.",
-      "rating": "4.6/5",
+      "destinationId": "dest_boquete",
+      "name": "טרק להר הגעש בארו (Volcan Baru)",
+      "desc": "הנקודה הגבוהה בפנמה! מסלול הליכה אתגרי (או נסיעת שטח לילית) כדי להגיע לפסגה בזריחה. ביום בהיר אפשר לראות משם את שני האוקיינוסים.",
+      "rating": "4.8/5",
       "image_url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800"
     },
     {
-      "id": "sca_1",
-      "destinationId": "dest_6",
-      "name": "גלישת גלים בחוף אסטרו",
-      "desc": "אחד החופים הטובים במרכז אמריקה לגלישת גלים. מושלם לגולשים מתחילים ומנוסים כאחד.",
+      "id": "boq_4",
+      "destinationId": "dest_boquete",
+      "name": "המעיינות החמים קלדרה (Caldera)",
+      "desc": "אחרי יום של טיולים רגליים, אין כמו טבילה במעיינות חמים טבעיים לחלוטין שממוקמים בלב הג'ונגל הפראי של בוקטה.",
+      "rating": "4.6/5",
+      "image_url": "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?w=800"
+    },
+    {
+      "id": "boq_5",
+      "destinationId": "dest_boquete",
+      "name": "מסלול שלושת המפלים הפסודים",
+      "desc": "המסלול (The Lost Waterfalls) מוביל דרך ג'ונגל צפוף ובוצי אל שלושה מפלים עוצמתיים ומרשימים. הרפתקה נהדרת לאוהבי טבע.",
+      "rating": "4.7/5",
+      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+    },
+    {
+      "id": "valle_1",
+      "destinationId": "dest_el_valle",
+      "name": "הר האינדיאנית הישנה (La India Dormida)",
+      "desc": "מסלול הליכה אייקוני על רכס הרים שמזכיר בצורתו צללית של אישה ישנה. מציע תצפית מטורפת על לוע הר הגעש שבו יושבת העיירה.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800"
+    },
+    {
+      "id": "valle_2",
+      "destinationId": "dest_el_valle",
+      "name": "המעיינות החמים ואמבטיית בוץ",
+      "desc": "בזכות הפעילות הגיאוטרמית באזור, אפשר ליהנות מבריכות מים חמים וטבעיים, ולמרוח על הגוף בוץ מינרלי מטהר.",
+      "rating": "4.5/5",
+      "image_url": "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?w=800"
+    },
+    {
+      "id": "valle_3",
+      "destinationId": "dest_el_valle",
+      "name": "שוק עמק אנטון (El Valle Market)",
+      "desc": "שוק אותנטי וצבעוני הפעיל במיוחד בסופי שבוע. מקום מושלם לקנות עבודות יד, ירקות טריים מהכפרים ואוכל מקומי.",
+      "rating": "4.6/5",
+      "image_url": "https://images.unsplash.com/photo-1518063032540-3b10b0e513a9?w=800"
+    },
+    {
+      "id": "valle_4",
+      "destinationId": "dest_el_valle",
+      "name": "מפל צ'ורו אל מאצ'ו (Chorro El Macho)",
+      "desc": "המפל הגדול ביותר בעמק. ההגעה אליו קלה ונוחה דרך שבילים מסודרים בתוך יער קסום. יש במקום גם אומגה (Zipline) לאמיצים.",
+      "rating": "4.7/5",
+      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+    },
+    {
+      "id": "valle_5",
+      "destinationId": "dest_el_valle",
+      "name": "מרכז שימור הדו-חיים",
+      "desc": "הזדמנות נדירה לראות את ה'צפרדע המוזהבת' של פנמה (מין בסכנת הכחדה חמורה) וללמוד על מאמצי השימור של בעלי החיים הייחודיים לאזור.",
+      "rating": "4.4/5",
+      "image_url": "https://images.unsplash.com/photo-1518182170546-076616fdcbfe?w=800"
+    },
+    {
+      "id": "coiba_1",
+      "destinationId": "dest_coiba_catalina",
+      "name": "צלילה בפארק הלאומי קואיבה",
+      "desc": "האטרקציה המרכזית! עולם תת-ימי עוצר נשימה. שחייה בין להקות ברקודות, כרישי פטיש, צבי ענק ומנטה-ריי.",
+      "rating": "4.9/5",
+      "image_url": "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?w=800"
+    },
+    {
+      "id": "coiba_2",
+      "destinationId": "dest_coiba_catalina",
+      "name": "האי הראשי גראן קואיבה (Gran Coiba)",
+      "desc": "ביקור באי ששימש בעבר כמושבת עונשין. היום הוא ג'ונגל מוגן בו אפשר לצאת לטיולי הליכה קצרים ולראות קופים ואפילו תנינים.",
+      "rating": "4.7/5",
+      "image_url": "https://images.unsplash.com/photo-1518182170546-076616fdcbfe?w=800"
+    },
+    {
+      "id": "coiba_3",
+      "destinationId": "dest_coiba_catalina",
+      "name": "שייט תצפית לוויתנים (אוגוסט-אוקטובר)",
+      "desc": "חוויה בלתי נשכחת של צפייה בלוויתנים גדולי-סנפיר המגיעים למימי האוקיינוס השקט החמים כדי להמליט וללמד את הגורים לשחות.",
+      "rating": "4.9/5",
+      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+    },
+    {
+      "id": "coiba_4",
+      "destinationId": "dest_coiba_catalina",
+      "name": "גלישת גלים בחוף אסטרו (Estero)",
+      "desc": "בסנטה קטלינה נמצאים מהגלים הטובים ביותר באמריקה המרכזית. החוף מתאים מאוד גם להשכרת גלשן ושיעורים למתחילים.",
       "rating": "4.8/5",
       "image_url": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=800"
     },
     {
-      "id": "sca_2",
-      "destinationId": "dest_6",
+      "id": "coiba_5",
+      "destinationId": "dest_coiba_catalina",
       "name": "תצפית שקיעה בלה פונטה (La Punta)",
-      "desc": "נקודת התצפית הפופולרית ביותר בכפר, עם ברים מקומיים ואווירת גולשים רגועה לסיום היום.",
-      "rating": "4.5/5",
-      "image_url": "https://images.unsplash.com/photo-1517400508447-f8dd518b86e3?w=800"
+      "desc": "נקודת ההתכנסות של קהילת הגולשים בסנטה קטלינה בסוף היום. ברים מקומיים, אווירה קסומה והשקיעות הכי יפות בפנמה.",
+      "rating": "4.6/5",
+      "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
     }
   ]
 }
