@@ -14,7 +14,7 @@
       "name": "היסטוריה, אמנות וארכיאולוגיה",
       "emoji": "🏛️",
       "desc": "מסע בזמן בין האימפריה הרומית, ערש הרנסנס וערים שקפאו בזמן.",
-      "image_url": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Bl-U_K3ZAXrdmy_PZtNqDVGFecrsqC6b1g&s"
     },
     {
       "id": "cat_tuscany",
@@ -28,7 +28,7 @@
       "name": "דרום איטליה והחופים",
       "emoji": "🍋",
       "desc": "כבישי חוף דרמטיים, מפרצים כחולים, עיירות צבעוניות ולימונצ'לו קר.",
-      "image_url": "https://images.unsplash.com/photo-1533104816931-20fa691ff6ca?w=800"
+      "image_url": "https://www.masa.co.il/wp-content/uploads/2016/02/08bb325887a69288be405d03e9d8378c_south-italy-open.jpg"
     },
     {
       "id": "cat_nature",
@@ -42,7 +42,7 @@
       "name": "פארקי שעשועים ואדרנלין",
       "emoji": "🎢",
       "desc": "פארקי נושא ענקיים, רכבות הרים ופארקי מים לכל המשפחה.",
-      "image_url": "https://images.unsplash.com/photo-1639023471026-444a7f340801?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAxuWvH-KuCT-1f2_iJBhOjI18cs9PAK2eug&s"
     }
   ],
   "destinations": [
@@ -50,61 +50,71 @@
       "id": "dest_rome",
       "categoryId": "cat_big_cities",
       "name": "רומא",
-      "desc": "בירת איטליה - שילוב מנצח של עיר גדולה, קולינריה משובחת והיסטוריה עתיקה בכל פינה."
+      "desc": "בירת איטליה - שילוב מנצח של עיר גדולה, קולינריה משובחת והיסטוריה עתיקה בכל פינה.",
+      "image_url": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800"
     },
     {
       "id": "dest_milan",
       "categoryId": "cat_big_cities",
       "name": "מילאנו",
-      "desc": "בירת האופנה והעיצוב. קצב מהיר, שופינג יוקרתי, אדריכלות גותית מטורפת ותרבות מודרנית."
+      "desc": "בירת האופנה והעיצוב. קצב מהיר, שופינג יוקרתי, אדריכלות גותית מטורפת ותרבות מודרנית.",
+      "image_url": "https://images.unsplash.com/photo-1520440229334-962aee48c9a5?w=800"
     },
     {
       "id": "dest_venice",
       "categoryId": "cat_big_cities",
       "name": "ונציה",
-      "desc": "עיר התעלות הייחודית בעולם. ללכת לאיבוד בין גשרים, גונדולות וארמונות שקועים במים."
+      "desc": "עיר התעלות הייחודית בעולם. ללכת לאיבוד בין גשרים, גונדולות וארמונות שקועים במים.",
+      "image_url": "https://images.unsplash.com/photo-1514890547357-a9ee2887a35f?w=800"
     },
     {
       "id": "dest_florence",
       "categoryId": "cat_history_art",
       "name": "פירנצה",
-      "desc": "בירת חבל טוסקנה ומרכז הרנסנס העולמי. עיר של אמנות, מוזיאונים ופסלים."
+      "desc": "בירת חבל טוסקנה ומרכז הרנסנס העולמי. עיר של אמנות, מוזיאונים ופסלים.",
+      "image_url": "https://images.unsplash.com/photo-1541542106276-4c949133b497?w=800"
     },
     {
       "id": "dest_tuscany_val",
       "categoryId": "cat_tuscany",
       "name": "עיירות ונופי טוסקנה",
-      "desc": "מרחבי הכפר של טוסקנה: עמק אורצ'ה, אזור קיאנטי, וילות ודרכי נוף ציוריות."
+      "desc": "מרחבי הכפר של טוסקנה: עמק אורצ'ה, אזור קיאנטי, וילות ודרכי נוף ציוריות.",
+      "image_url": "https://images.unsplash.com/photo-1504198458649-012800323386?w=800"
     },
     {
       "id": "dest_amalfi",
       "categoryId": "cat_south",
       "name": "חוף אמלפי וקאפרי",
-      "desc": "רצועת החוף המפורסמת ביותר בדרום איטליה, עיירות תלויות על צוקים ואיים יוקרתיים."
+      "desc": "רצועת החוף המפורסמת ביותר בדרום איטליה, עיירות תלויות על צוקים ואיים יוקרתיים.",
+      "image_url": "https://images.unsplash.com/photo-1533104816931-20fa691ff6ca?w=800"
     },
     {
       "id": "dest_naples_pompeii",
       "categoryId": "cat_history_art",
       "name": "נאפולי, וזוב ופומפיי",
-      "desc": "דרום איטליה ההיסטורית: עתיקות מתחת לאפר, הרי געש פעילים ואוכל רחוב תוסס."
+      "desc": "דרום איטליה ההיסטורית: עתיקות מתחת לאפר, הרי געש פעילים ואוכל רחוב תוסס.",
+      "image_url": "https://images.unsplash.com/photo-1591823126767-4251b5e02206?w=800"
     },
     {
       "id": "dest_garda",
       "categoryId": "cat_nature",
       "name": "אגם גארדה",
-      "desc": "האגם הגדול באיטליה. מושלם לטיולי כוכב, עיירות נופש, טירה על המים ורכבלים להרים."
+      "desc": "האגם הגדול באיטליה. מושלם לטיולי כוכב, עיירות נופש, טירה על המים ורכבלים להרים.",
+      "image_url": "https://images.unsplash.com/photo-1502301103665-0b95cc738daf?w=800"
     },
     {
       "id": "dest_dolomites",
       "categoryId": "cat_nature",
       "name": "רכס הדולומיטים",
-      "desc": "נוף אלפיני דרמטי. אגמי טורקיז, שבילי הליכה עוצרי נשימה ותצפיות מפסגות גבוהות."
+      "desc": "נוף אלפיני דרמטי. אגמי טורקיז, שבילי הליכה עוצרי נשימה ותצפיות מפסגות גבוהות.",
+      "image_url": "https://images.unsplash.com/photo-1520106212299-d99c443e4568?w=800"
     },
     {
       "id": "dest_parks",
       "categoryId": "cat_parks",
       "name": "פארקי שעשועים (גארדה)",
-      "desc": "מתחם הפארקים הגדול סביב אגם גארדה, כולל גארדלנד."
+      "desc": "מתחם הפארקים הגדול סביב אגם גארדה, כולל גארדלנד.",
+      "image_url": "https://images.unsplash.com/photo-1639023471026-444a7f340801?w=800"
     }
   ],
   "sites": [
@@ -250,7 +260,7 @@
       "name": "פסל דוד באקדמיה",
       "desc": "ההזדמנות לראות מקרוב את פסל דוד המקורי והמרשים של מיכלאנג'לו.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1628519592419-f2998399580b?w=800""
+      "image_url": "https://images.unsplash.com/photo-1628519592419-f2998399580b?w=800"
     },
     {
       "id": "flo_4",
