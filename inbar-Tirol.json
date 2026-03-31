@@ -82,6 +82,30 @@
       "desc": "עיירת סקי ונופש יוקרתית וציורית. מציעה מרכז היסטורי משומר, מסעדות גורמה, בתי קפה מעולים ואווירה אקסקלוסיבית.",
       "image_keyword": "Kitzbuhel town center",
       "image_url": "https://www.kitzbueheler-alpen.com/media/facebook/kitzbuehel-vorderstadt-e-tirol-werbung-jens-schwarz.jpg"
+    },
+    {
+      "id": "dest_achensee",
+      "categoryId": "cat_5",
+      "name": "אגם אכן (Achensee)",
+      "desc": "האגם הגדול בטירול, המכונה 'הפיורד של האלפים'. מים בצבע טורקיז עמוק הכלואים בין הרים תלולים.",
+      "image_keyword": "Achensee lake Tyrol",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAd3hCpK2Yjf2QZZtj5OKI8YdYL0Lfvpk6Hw&s"
+    },
+    {
+      "id": "dest_zugspitze_arena",
+      "categoryId": "cat_5",
+      "name": "אזור הצוגשפיצה וארוואלד",
+      "desc": "אזור טבע מרהיב בגבול עם גרמניה. נופים דרמטיים, אגמי הרים נסתרים, והגשר התלוי הארוך מסוגו.",
+      "image_keyword": "Ehrwald Zugspitze austria",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQahsT0Mo68jRkDY--QlOhv_9R9uQNfRf2MIA&s"
+    },
+    {
+      "id": "dest_kufstein",
+      "categoryId": "cat_3",
+      "name": "קופשטיין (Kufstein)",
+      "desc": "עיר היסטורית ויפהפייה על גדות נהר האין, הידועה בעיקר בזכות המבצר העצום שחולש עליה ומדרחוב עתיק.",
+      "image_keyword": "Kufstein fortress Tyrol",
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/cb/94/25/kufstein-fortress.jpg?w=600&h=-1&s=1"
     }
   ],
   "sites": [
@@ -210,6 +234,69 @@
       "desc": "חוויה קולינרית מודרנית: סיור במפעל גבינות ומוצרי חלב טירולי, צפייה בתהליך הייצור וטעימות מהתוצרת האלפינית הטרייה.",
       "rating": "4.6/5",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIffxm4tELwNLWmqOun5oUjQo1C1rw_Vkh1w&s"
+    },
+    {
+      "id": "site_achensee_1",
+      "destinationId": "dest_achensee",
+      "name": "שייט באגם אכן",
+      "name_en": "Achensee Boat Cruise",
+      "desc": "דרך מושלמת ורגועה לספוג את נופי הפיורד. ספינות קיטור מודרניות או מסורתיות חוצות את האגם הפסטורלי.",
+      "rating": "4.6/5",
+      "image_url": "https://www.tyrol.tl/images/cms/gallery/800x600/D_MS_Tirol_am_Achensee.jpg"
+    },
+    {
+      "id": "site_achensee_2",
+      "destinationId": "dest_achensee",
+      "name": "רכבל רופאן (Rofan Seilbahn)",
+      "name_en": "Rofan Cable Car",
+      "desc": "עלייה תלולה אל רכס הרופאן המציע תצפית עוצרת נשימה על האגם, ומסלולי הליכה אלפיניים בין פרות רועות.",
+      "rating": "4.8/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIoVCto7GueqG60G1k9TzD5Bo2IcV_xyzpUw&s"
+    },
+    {
+      "id": "site_zugspitze_1",
+      "destinationId": "dest_zugspitze_arena",
+      "name": "הגשר התלוי - Highline179",
+      "name_en": "Highline179",
+      "desc": "לא לבעלי פחד גבהים! גשר הולכי רגל תלוי ומתנדנד בגובה 114 מטר המחבר בין שתי חורבות של טירות עתיקות.",
+      "rating": "4.7/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWUfvQ9CkRnWqagi9sFv8HZf4Xsmy7RnfAg&s"
+    },
+    {
+      "id": "site_zugspitze_2",
+      "destinationId": "dest_zugspitze_arena",
+      "name": "רכבל לפסגת הצוגשפיצה",
+      "name_en": "Zugspitze Cable Car (Tiroler Zugspitzbahn)",
+      "desc": "העפלה דרמטית אל הפסגה הגבוהה ביותר בגרמניה (אליה עולים מהצד האוסטרי). נוף פנורמי ל-4 מדינות שונות.",
+      "rating": "4.8/5",
+      "image_url": "https://www.zugspitze.at//uploads/tx_bh/815/zugspitze-menue-preise-zeiten-sommer.jpg"
+    },
+    {
+      "id": "site_zugspitze_3",
+      "destinationId": "dest_zugspitze_arena",
+      "name": "אגם זבאנזי (Seebensee)",
+      "name_en": "Seebensee",
+      "desc": "פנינת טבע נסתרת. מסלול הליכה הררי (או רכיבה באופניים חשמליים) המוביל לאגם אלפיני צלול המשקף את הפסגות סביבו.",
+      "rating": "4.9/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS94MkyOMjTVmbP74gIttkP0k650SZBCi204A&s"
+    },
+    {
+      "id": "site_kufstein_1",
+      "destinationId": "dest_kufstein",
+      "name": "מבצר קופשטיין",
+      "name_en": "Kufstein Fortress",
+      "desc": "מבצר ענק ומרשים מהמאה ה-13. ניתן לעלות אליו בפוניקולר (רכבת שיניים) ולחקור את בתי הכלא העתיקים והתותחים.",
+      "rating": "4.7/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ4rgYIu-4VYNG99xSRd9Z34WoNc3752XuBg&s"
+    },
+    {
+      "id": "site_kufstein_2",
+      "destinationId": "dest_kufstein",
+      "name": "סמטת רומרהוף (Römerhofgasse)",
+      "name_en": "Römerhofgasse",
+      "desc": "סמטה היסטורית ורומנטית בעיר העתיקה, מלאה בבתי עץ צבעוניים מצוירים (Lüftlmalerei) ובתי יין מסורתיים.",
+      "rating": "4.6/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkx74lZIWEHb7e57EozynNKsT_ihx7HqKyUQ&s"
     }
   ]
 }
