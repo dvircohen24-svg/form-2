@@ -57,14 +57,14 @@
       "id": "dest_marien",
       "categoryId": "cat_2",
       "name": "מריאנפלאץ והעיר העתיקה",
-      "desc": "המרכז ההיסטורי של העיר עם בניין העירייה המרהיב והכנסייה עם מגדלי הבצל.",
+      "desc": "המרכז ההיסטורי של העיר עם בניין העירייה המרהיב, כנסיות עתיקות וסמטאות שוקקות.",
       "image_keyword": "Marienplatz Munich Old Town"
     },
     {
       "id": "dest_viktual",
       "categoryId": "cat_2",
       "name": "שוק ויקטואליאנמרקט וסביבתו",
-      "desc": "לב הקולינריה והקפה של מינכן. שוק פתוח תוסס עם דוכני גורמה.",
+      "desc": "לב הקולינריה והקפה של מינכן. שוק פתוח תוסס, בתי בירה היסטוריים ומעדניות.",
       "image_keyword": "Viktualienmarkt Munich food market"
     },
     {
@@ -78,119 +78,247 @@
       "id": "dest_residenz",
       "categoryId": "cat_3",
       "name": "ארמון הרזידנץ והתיאטרון",
-      "desc": "הצצה לחיי הפאר של מלכי בוואריה בתוך קומפלקס ארמונות ענק.",
+      "desc": "הצצה לחיי הפאר של מלכי בוואריה בתוך קומפלקס ארמונות ענק בלב העיר.",
       "image_keyword": "Munich Residenz palace interior"
     },
     {
       "id": "dest_garden",
       "categoryId": "cat_4",
       "name": "הגן האנגלי (Englischer Garten)",
-      "desc": "אחד הפארקים העירוניים הגדולים בעולם, כולל גלישת גלים בנהר.",
+      "desc": "אחד הפארקים העירוניים הגדולים בעולם, כולל גלישת גלים בנהר ואווירה פסטורלית.",
       "image_keyword": "English Garden Munich surfing"
     },
     {
       "id": "dest_night",
       "categoryId": "cat_5",
       "name": "רובע גלוקנבאך ומרכז הבילויים",
-      "desc": "האזור הכי טרנדי בעיר לברים, מועדונים וחנויות מעצבים עצמאיות.",
+      "desc": "האזור הכי טרנדי בעיר לברים, מועדונים, בתי קפה שכונתיים ואווירה היפסטרית.",
       "image_keyword": "Glockenbachviertel Munich night"
     }
   ],
   "sites": [
     {
-      "id": "site_1",
+      "id": "site_bmw_1",
       "destinationId": "dest_bmw",
       "name": "מוזיאון BMW",
       "name_en": "BMW Museum",
-      "desc": "תערוכה מרשימה של מכוניות, אופנועים ומנועים מכל הזמנים.",
+      "desc": "תערוכה מרשימה של מכוניות, אופנועים ומנועים מכל הזמנים בתוך מבנה דמוי קערה איקוני.",
       "rating": "4.8/5"
     },
     {
-      "id": "site_2",
+      "id": "site_bmw_2",
       "destinationId": "dest_bmw",
       "name": "עולם BMW",
       "name_en": "BMW Welt",
-      "desc": "מרכז חווייתי עתידני עם דגמי הרכב החדשים ביותר (כניסה חינם).",
+      "desc": "מרכז חווייתי עתידני עם דגמי הרכב החדשים ביותר ואפשרות לחוות טכנולוגיה מקרוב (כניסה חינם).",
       "rating": "4.7/5"
     },
     {
-      "id": "site_3",
+      "id": "site_bmw_3",
       "destinationId": "dest_bmw",
       "name": "המגדל האולימפי",
       "name_en": "Olympic Tower",
-      "desc": "תצופית פנורמית מדהימה על כל מינכן ועל הרי האלפים.",
+      "desc": "תצפית פנורמית מדהימה מגובה רב על כל מינכן, הפארק האולימפי ועל הרי האלפים.",
       "rating": "4.6/5"
     },
     {
-      "id": "site_4",
-      "destinationId": "dest_marien",
-      "name": "בניין העירייה החדש והגליקנשפיל",
-      "name_en": "Neues Rathaus & Glockenspiel",
-      "desc": "מופע בובות מכני בשעון המגדל בכיכר המרכזית.",
-      "rating": "4.8/5"
-    },
-    {
-      "id": "site_5",
-      "destinationId": "dest_marien",
-      "name": "כנסיית פטר הקדוש (אלטר פטר)",
-      "name_en": "St. Peter's Church",
-      "desc": "טיפוס במדרגות לתצפית הכי יפה על כיכר מריאנפלאץ.",
-      "rating": "4.7/5"
-    },
-    {
-      "id": "site_6",
-      "destinationId": "dest_viktual",
-      "name": "קפה פרישחאט",
-      "name_en": "Cafe Frischhut",
-      "desc": "מוסד מפורסם הידוע במאפי ה-Schmalznudeln המסורתיים והקפה המעולה שלו.",
-      "rating": "4.6/5"
-    },
-    {
-      "id": "site_7",
-      "destinationId": "dest_art",
-      "name": "פינקוטק דר מודרנה",
-      "name_en": "Pinakothek der Moderne",
-      "desc": "מוזיאון ענק המשלב אמנות מודרנית, עיצוב וארכיטקטורה.",
-      "rating": "4.7/5"
-    },
-    {
-      "id": "site_8",
-      "destinationId": "dest_art",
-      "name": "הפינקוטק הישן",
-      "name_en": "Alte Pinakothek",
-      "desc": "אחד האוספים החשובים בעולם של יצירות מופת אירופאיות.",
-      "rating": "4.8/5"
-    },
-    {
-      "id": "site_9",
-      "destinationId": "dest_art",
-      "name": "מוזיאון המדע (המוזיאון הגרמני)",
-      "name_en": "Deutsches Museum",
-      "desc": "מוזיאון הטכנולוגיה והמדע הגדול בעולם (נמצא על אי בנהר).",
-      "rating": "4.8/5"
-    },
-    {
-      "id": "site_10",
-      "destinationId": "dest_garden",
-      "name": "גל האייסבאך (גולשי הנהר)",
-      "name_en": "Eisbachwelle",
-      "desc": "צפייה בגולשים המקצועיים שגולשים על גל קבוע בלב העיר.",
+      "id": "site_motor_1",
+      "destinationId": "dest_motor",
+      "name": "מוטורוורלד מינכן",
+      "name_en": "Motorworld München",
+      "desc": "חלל תעשייתי ענק המאכלס עשרות רכבי ספורט נדירים, מכוניות קלאסיות ואקזוטיות. גן עדן לחובבי הגה.",
       "rating": "4.9/5"
     },
     {
-      "id": "site_11",
-      "destinationId": "dest_garden",
-      "name": "המגדל הסיני וגן הבירה",
-      "name_en": "Chinesischer Turm",
-      "desc": "מבנה עץ איקוני בלב הפארק עם גן בירה ענק ואווירה בווארית.",
+      "id": "site_motor_2",
+      "destinationId": "dest_motor",
+      "name": "מרכז התחבורה (המוזיאון הגרמני)",
+      "name_en": "Deutsches Museum Verkehrszentrum",
+      "desc": "שלוחה המוקדשת כולה לתחבורה. אוסף עצום של אופנועים היסטוריים, מכוניות וינטג' וקטרים.",
+      "rating": "4.6/5"
+    },
+    {
+      "id": "site_motor_3",
+      "destinationId": "dest_motor",
+      "name": "מרכז התעופה של המוזיאון הגרמני",
+      "name_en": "Flugwerft Schleißheim",
+      "desc": "תצוגה מרתקת של מטוסים, מסוקים וכלי טיס היסטוריים בתוך האנגר תעופה מקורי.",
+      "rating": "4.7/5"
+    },
+    {
+      "id": "site_marien_1",
+      "destinationId": "dest_marien",
+      "name": "בניין העירייה החדש והגליקנשפיל",
+      "name_en": "Neues Rathaus & Glockenspiel",
+      "desc": "מבנה נאו-גותי מרהיב בכיכר המרכזית, המפורסם בזכות מופע בובות מכני בשעון המגדל.",
+      "rating": "4.8/5"
+    },
+    {
+      "id": "site_marien_2",
+      "destinationId": "dest_marien",
+      "name": "כנסיית פטר הקדוש (אלטר פטר)",
+      "name_en": "St. Peter's Church",
+      "desc": "הכנסייה העתיקה בעיר. טיפוס מאתגר במדרגות יוביל אתכם לתצפית הכי יפה על מרכז העיר.",
+      "rating": "4.7/5"
+    },
+    {
+      "id": "site_marien_3",
+      "destinationId": "dest_marien",
+      "name": "קתדרלת פראואנקירכה",
+      "name_en": "Frauenkirche",
+      "desc": "סמלה של מינכן. קתדרלה עצומה עם שני מגדלי בצל תאומים המזדקרים מעל קו הרקיע.",
+      "rating": "4.6/5"
+    },
+    {
+      "id": "site_marien_4",
+      "destinationId": "dest_marien",
+      "name": "כיכר אודאונספלאץ",
+      "name_en": "Odeonsplatz",
+      "desc": "כיכר איטלקית באופיה, מוקפת ארמונות וכנסיית התיאטינר הבארוקית בצבע צהוב בוהק.",
+      "rating": "4.7/5"
+    },
+    {
+      "id": "site_marien_5",
+      "destinationId": "dest_marien",
+      "name": "כנסיית אסאם",
+      "name_en": "Asamkirche",
+      "desc": "פנינת רוקוקו נסתרת וקטנה במדרחוב, מעוטרת בעושר בלתי נתפס של זהב, ציורים ופסלים.",
+      "rating": "4.8/5"
+    },
+    {
+      "id": "site_viktual_1",
+      "destinationId": "dest_viktual",
+      "name": "שוק ויקטואליאנמרקט",
+      "name_en": "Viktualienmarkt",
+      "desc": "שוק האוכל הפתוח של מינכן. מקום מושלם להסתובב בין דוכני גבינות, נקניקיות ובירגארטן תוסס.",
+      "rating": "4.8/5"
+    },
+    {
+      "id": "site_viktual_2",
+      "destinationId": "dest_viktual",
+      "name": "קפה פרישחאט",
+      "name_en": "Cafe Frischhut",
+      "desc": "מוסד מפורסם בצמוד לשוק, הידוע במאפי ה-Schmalznudeln המסורתיים והקפה המעולה שלו.",
+      "rating": "4.6/5"
+    },
+    {
+      "id": "site_viktual_3",
+      "destinationId": "dest_viktual",
+      "name": "בית הבירה הופברויהאוס",
+      "name_en": "Hofbräuhaus München",
+      "desc": "אולם הבירה המפורסם ביותר בעולם. חוויה בווארית רועשת, שמחה ואותנטית עם תזמורת חיה.",
       "rating": "4.5/5"
     },
     {
-      "id": "site_12",
+      "id": "site_viktual_4",
+      "destinationId": "dest_viktual",
+      "name": "מעדניית דלמייר",
+      "name_en": "Dallmayr Delicatessen",
+      "desc": "מעדניית גורמה ובית קפה היסטורי. חוויה של קפה קלוי במקום, פרלינים ועיצוב אלגנטי.",
+      "rating": "4.7/5"
+    },
+    {
+      "id": "site_art_1",
+      "destinationId": "dest_art",
+      "name": "פינקוטק דר מודרנה",
+      "name_en": "Pinakothek der Moderne",
+      "desc": "מוזיאון ענק המשלב אמנות מודרנית, עיצוב תעשייתי וארכיטקטורה תחת קורת גג אחת.",
+      "rating": "4.7/5"
+    },
+    {
+      "id": "site_art_2",
+      "destinationId": "dest_art",
+      "name": "הפינקוטק הישן",
+      "name_en": "Alte Pinakothek",
+      "desc": "אחד האוספים החשובים בעולם של יצירות מופת אירופאיות קלאסיות.",
+      "rating": "4.8/5"
+    },
+    {
+      "id": "site_art_3",
+      "destinationId": "dest_art",
+      "name": "מוזיאון המדע (המוזיאון הגרמני)",
+      "name_en": "Deutsches Museum",
+      "desc": "מוזיאון הטכנולוגיה והמדע הגדול בעולם (נמצא על אי בנהר, קרוב לרובע האמנות).",
+      "rating": "4.8/5"
+    },
+    {
+      "id": "site_residenz_1",
+      "destinationId": "dest_residenz",
+      "name": "ארמון הרזידנץ",
+      "name_en": "Munich Residenz",
+      "desc": "הארמון העירוני הגדול בגרמניה. סיור בעשרות חדרים מפוארים ששימשו את מלכי בוואריה.",
+      "rating": "4.7/5"
+    },
+    {
+      "id": "site_residenz_2",
+      "destinationId": "dest_residenz",
+      "name": "אוצר הרזידנץ",
+      "name_en": "Treasury of the Residenz",
+      "desc": "תצוגה מסנוורת של כתרי מלכות, תכשיטים, חרבות וזהב של השושלת המלכותית.",
+      "rating": "4.6/5"
+    },
+    {
+      "id": "site_residenz_3",
+      "destinationId": "dest_residenz",
+      "name": "תיאטרון קוביליה",
+      "name_en": "Cuvilliés Theatre",
+      "desc": "פנינה ארכיטקטונית בתוך הארמון. תיאטרון רוקוקו עוצר נשימה ביופיו.",
+      "rating": "4.8/5"
+    },
+    {
+      "id": "site_residenz_4",
+      "destinationId": "dest_residenz",
+      "name": "גן החצר (Hofgarten)",
+      "name_en": "Hofgarten",
+      "desc": "גן רנסאנס סימטרי ויפהפה בצמוד לארמון, מושלם למנוחה קלה לצלילי נגני רחוב.",
+      "rating": "4.7/5"
+    },
+    {
+      "id": "site_garden_1",
+      "destinationId": "dest_garden",
+      "name": "גל האייסבאך",
+      "name_en": "Eisbachwelle",
+      "desc": "תופעה ייחודית בעולם: צפייה בגולשים מקצועיים התופסים גל קבוע וגועש בלב הפארק.",
+      "rating": "4.9/5"
+    },
+    {
+      "id": "site_garden_2",
+      "destinationId": "dest_garden",
+      "name": "המגדל הסיני וגן הבירה",
+      "name_en": "Chinesischer Turm",
+      "desc": "מבנה עץ איקוני בלב הפארק המוקף באחד מגני הבירה הגדולים והשמחים במינכן.",
+      "rating": "4.5/5"
+    },
+    {
+      "id": "site_night_1",
+      "destinationId": "dest_night",
+      "name": "כיכר גרטנרפלאץ",
+      "name_en": "Gärtnerplatz",
+      "desc": "המוקד של הרובע. בערבים חמימים הכיכר מתמלאת בצעירים שיושבים עם בירה באוויר הפתוח.",
+      "rating": "4.8/5"
+    },
+    {
+      "id": "site_night_2",
+      "destinationId": "dest_night",
+      "name": "בר צפיר (Zephyr)",
+      "name_en": "Zephyr Bar",
+      "desc": "אחד מברי הקוקטיילים המוערכים במינכן, מציע מיקסולוגיה יצירתית ואווירה אינטימית.",
+      "rating": "4.7/5"
+    },
+    {
+      "id": "site_night_3",
+      "destinationId": "dest_night",
+      "name": "מועדון פראדיסו",
+      "name_en": "Paradiso Tanzbar",
+      "desc": "מועדון ריקודים ובר טרנדי עם עיצוב רטרו-שיק, המושך קהל מקומי אופנתי.",
+      "rating": "4.5/5"
+    },
+    {
+      "id": "site_night_4",
       "destinationId": "dest_night",
       "name": "בר 'הולי הום'",
       "name_en": "Holy Home Bar",
-      "desc": "בר שכונתי קולי עם אווירה מעולה בלב רובע גלוקנבאך.",
+      "desc": "בר שכונתי מיתולוגי וקולי עם מוזיקה אלטרנטיבית ואווירה לא מחייבת.",
       "rating": "4.6/5"
     }
   ]
