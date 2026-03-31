@@ -1,0 +1,215 @@
+{
+  "destination": "טירול, אוסטריה",
+  "categories": [
+    {
+      "id": "cat_1",
+      "name": "אקסטרים, ספורט והרפתקאות",
+      "emoji": "🪂",
+      "desc": "בירת האקסטרים של אירופה. מפארקי מים מטורפים, דרך רפטינג נהרות ועד ספורט חורף וקיץ על קרחונים בגובה אלפי מטרים.",
+      "image_keyword": "Tyrol extreme sports Area 47",
+      "image_url": "https://www.tyrol.tl/images/cms/main/1280/B_oetzt_area_panorama_16.jpg"
+    },
+    {
+      "id": "cat_2",
+      "name": "רכב, אופנועים ודרכים אלפיניות",
+      "emoji": "🏍️",
+      "desc": "גן עדן לחובבי מנועים. כבישי נהיגה פנורמיים מפותלים, מעברי הרים עוצרי נשימה ומוזיאון האופנועים הגבוה באירופה.",
+      "image_keyword": "Tyrol alpine road grossglockner motorcycle",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTatbtP01sdx9XS7-vQInIhTtB3-vgAd1mmqw&s"
+    },
+    {
+      "id": "cat_3",
+      "name": "חיים עירוניים, היסטוריה ותרבות",
+      "emoji": "🏰",
+      "desc": "השילוב המושלם בין אורבניות לאלפים. עיירות היסטוריות, ארמונות אימפריאליים, רחובות עתיקים ומוזיאונים מרתקים.",
+      "image_keyword": "Innsbruck old town history",
+      "image_url": "https://cdn.getyourguide.com/img/tour/bd16184efa801260f69a5e2594648e87d4cf9912f7c7d797609819d3f207ee0f.jpg/68.jpg"
+    },
+    {
+      "id": "cat_4",
+      "name": "קולינריה טירולית ואווירה",
+      "emoji": "🥨",
+      "desc": "מסעדות שף עירוניות, בתי קפה וינאיים קלאסיים, ומבשלות בירה מסורתיות המציעות את המיטב של המטבח האוסטרי.",
+      "image_keyword": "Tyrolean food strudel beer",
+      "image_url": "https://www.giallozafferano.com/images/286-28623/strauben-tyrolean-fritters_1200x800.jpg"
+    },
+    {
+      "id": "cat_5",
+      "name": "טבע פראי, אגמים ופסגות",
+      "emoji": "🏔️",
+      "desc": "חוויית האלפים במלוא עוצמתה. רכבלים לפסגות מושלגות גם בקיץ, אגמים צלולים ומסלולי הליכה בטבע הבלתי נתפס של אוסטריה.",
+      "image_keyword": "Tyrol alps lake nature",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-wFgkH6sV7EaVC54PGbH-ZFU2rlJUvt-xjw&s"
+    }
+  ],
+  "destinations": [
+    {
+      "id": "dest_innsbruck",
+      "categoryId": "cat_3",
+      "name": "אינסברוק (Innsbruck)",
+      "desc": "בירת טירול. עיר שוקקת המשלבת אדריכלות אימפריאלית, עיר עתיקה ויפהפייה, מוזיאונים, וחיי עיר תוססים למרגלות ההרים.",
+      "image_keyword": "Innsbruck city mountains",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo6pjqFFK2Q1GN68KbpTG08E7qrsJxZeSDlA&s"
+    },
+    {
+      "id": "dest_oetztal",
+      "categoryId": "cat_1",
+      "name": "עמק אוץ (Ötztal)",
+      "desc": "מוקד האקסטרים והפעילות של טירול. כולל את פארק AREA 47, מוזיאון אופנועים נדיר, וספא אקווה דום המפורסם.",
+      "image_keyword": "Oetztal valley austria",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkArm8_W_i33bHauhmgmTRC-xbDJsi8uN9w&s"
+    },
+    {
+      "id": "dest_alpine_roads",
+      "categoryId": "cat_2",
+      "name": "מעברי ההרים והכבישים האלפיניים",
+      "desc": "רשת של כבישי אגרה מפותלים ומרהיבים, המציעים את חוויית הנהיגה והרכיבה הטובה בעולם בין פסגות ועמקים.",
+      "image_keyword": "Grossglockner high alpine road pass",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr0lhP0aOmKFICCf0HKvx84lZ94lEjYEYxFw&s"
+    },
+    {
+      "id": "dest_wattens",
+      "categoryId": "cat_3",
+      "name": "ואטנס והול אין טירול (Wattens & Hall)",
+      "desc": "עיירות עתיקות סמוכות לאינסברוק, ביתם של מוזיאון הקריסטלים של סברובסקי ומטבעת הכסף ההיסטורית.",
+      "image_keyword": "Swarovski crystal worlds Hall in Tirol",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMAOAkOmXhluaz437jyoy-8PRHuLn3wHXQRw&s"
+    },
+    {
+      "id": "dest_kitzbuhel",
+      "categoryId": "cat_4",
+      "name": "קיצביל (Kitzbühel) וסביבתה",
+      "desc": "עיירת סקי ונופש יוקרתית וציורית. מציעה מרכז היסטורי משומר, מסעדות גורמה, בתי קפה מעולים ואווירה אקסקלוסיבית.",
+      "image_keyword": "Kitzbuhel town center",
+      "image_url": "https://www.kitzbueheler-alpen.com/media/facebook/kitzbuehel-vorderstadt-e-tirol-werbung-jens-schwarz.jpg"
+    }
+  ],
+  "sites": [
+    {
+      "id": "site_innsbruck_1",
+      "destinationId": "dest_innsbruck",
+      "name": "גג הזהב והעיר העתיקה",
+      "name_en": "Golden Roof & Altstadt Innsbruck",
+      "desc": "סמלה של העיר. מרפסת מעוטרת ב-2,657 רעפי נחושת מוזהבים מלב העיר העתיקה, מוקפת בתי קפה, חנויות ומבנים היסטוריים.",
+      "rating": "4.7/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Zsv-G-qjqk9IaIhHoKUgk4z0G3NRFFIPng&s"
+    },
+    {
+      "id": "site_innsbruck_2",
+      "destinationId": "dest_innsbruck",
+      "name": "ארמון הופבורג",
+      "name_en": "Hofburg Innsbruck",
+      "desc": "הארמון הקיסרי המפואר של משפחת הבסבורג. סיור מרתק בחדרי המלוכה, אולמות הנשף וההיסטוריה של האימפריה.",
+      "rating": "4.6/5",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Hofburg_Innsbruck_Austria.jpg"
+    },
+    {
+      "id": "site_innsbruck_3",
+      "destinationId": "dest_innsbruck",
+      "name": "רכבל נורדקטה (Nordkette)",
+      "name_en": "Nordkette Cable Car",
+      "desc": "מעבר אדריכלי מדהים (שעיצבה זאהה חדיד) מלב העיר העירונית אל פסגת הר מושלגת בגובה 2,256 מטר תוך 20 דקות בלבד.",
+      "rating": "4.8/5",
+      "image_url": "https://www.innsbruck.info/fileadmin/_processed_/a/d/csm_poi-10255289-image_1739085979_310016f2d0.jpg"
+    },
+    {
+      "id": "site_innsbruck_4",
+      "destinationId": "dest_innsbruck",
+      "name": "מוזיאון הפעמונים גראסמאייר",
+      "name_en": "Grassmayr Bell Museum",
+      "desc": "מוזיאון טכנולוגי-היסטורי ייחודי של משפחה שמייצרת פעמוני ענק לכנסיות ברחבי העולם כבר 400 שנה. כולל תצוגת יציקה.",
+      "rating": "4.7/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYE7E_59zoyYvTMF_luhRcFk1AVBDBJMTlcA&s"
+    },
+    {
+      "id": "site_oetztal_1",
+      "destinationId": "dest_oetztal",
+      "name": "פארק האקסטרים AREA 47",
+      "name_en": "AREA 47",
+      "desc": "פארק האקסטרים הגדול באוסטריה! מתקני מים מטורפים, קפיצות בנג'י, אומגות, רפטינג, ופארק חבלים עצום.",
+      "rating": "4.8/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjr7ulaGRloAsY-m-qQ8yaDl_iv7cHPaCxuw&s"
+    },
+    {
+      "id": "site_oetztal_2",
+      "destinationId": "dest_oetztal",
+      "name": "מוזיאון האופנועים 'טופ מאונטיין'",
+      "name_en": "Top Mountain Motorcycle Museum",
+      "desc": "חובה לחובבי מנועים! מוזיאון האופנועים הגבוה באירופה (2,175 מ'), מציג אוסף נדיר ועצום של אופנועים קלאסיים ומכוניות וינטג'.",
+      "rating": "4.9/5",
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/27/cf/0b/photo1jpg.jpg?w=1200&h=-1&s=1"
+    },
+    {
+      "id": "site_oetztal_3",
+      "destinationId": "dest_oetztal",
+      "name": "אקווה דום (Aqua Dome)",
+      "name_en": "Aqua Dome Tirol Therme",
+      "desc": "אחרי האקסטרים והנהיגה: מתחם ספא תרמי ענק ומרשים עם בריכות מחוממות צפות באוויר הפתוח מול נוף האלפים.",
+      "rating": "4.7/5",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/AQUA_DOME_Au%C3%9Fen_Schalen_2.jpg/1280px-AQUA_DOME_Au%C3%9Fen_Schalen_2.jpg"
+    },
+    {
+      "id": "site_roads_1",
+      "destinationId": "dest_alpine_roads",
+      "name": "כביש האלפים הגבוה גרוסגלוקנר",
+      "name_en": "Grossglockner High Alpine Road",
+      "desc": "אחד מכבישי הנהיגה היפים והמפורסמים בעולם. 48 קילומטרים של פיתולים חדים (Hairpins) המטפסים אל פסגת אוסטריה.",
+      "rating": "4.9/5",
+      "image_url": "https://fuutazbsb.filerobot.com/Freigegeben/Grossglockner-Hochalpenstrasse-35c513e7-828b-4444-861d-616a0269dcc5?gravity=auto&w=1728&h=740&func=crop&q=75"
+    },
+    {
+      "id": "site_roads_2",
+      "destinationId": "dest_alpine_roads",
+      "name": "מעבר הרים טימלסיוך",
+      "name_en": "Timmelsjoch High Alpine Pass",
+      "desc": "כביש אגרה מרהיב המחבר בין אוסטריה לאיטליה. גן עדן לאופנוענים ורכבי ספורט, עם נקודות תצפית אדריכליות בדרך.",
+      "rating": "4.8/5",
+      "image_url": "https://www.oetztal.com/cache-buster-3/infrastruktur/hochgurgl/timmelsjoch-hochalpenstrasse-timmelsjoch-erfahrung/3144/image-thumb__3144__nuiLightboxImage/timmelsjochstrasse-d0034a47.79b65980.jpg"
+    },
+    {
+      "id": "site_wattens_1",
+      "destinationId": "dest_wattens",
+      "name": "עולמות הקריסטל של סברובסקי",
+      "name_en": "Swarovski Crystal Worlds",
+      "desc": "מוזיאון אמנות מודרנית מרהיב שנבנה בתוך גבעה בצורת ענק יורק מים. חדרי פלאות נוצצים וטכנולוגיית תאורה מתקדמת.",
+      "rating": "4.6/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJBSflgEwJGlOTA9xoAOYrCRZtMVY70jNdw&s"
+    },
+    {
+      "id": "site_wattens_2",
+      "destinationId": "dest_wattens",
+      "name": "מוזיאון מטבעת הול (Hasegg Castle)",
+      "name_en": "Hall Mint Museum",
+      "desc": "מוזיאון טכנולוגי-היסטורי בטירה עתיקה, המציג את ההיסטוריה של ייצור המטבעות ואת מכונת הטביעה הראשונה בעולם.",
+      "rating": "4.5/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSf7OQQHeSIA6u2D-RGPmBNOsz_nV6tEI9A&s"
+    },
+    {
+      "id": "site_kitz_1",
+      "destinationId": "dest_kitzbuhel",
+      "name": "המרכז ההיסטורי של קיצביל",
+      "name_en": "Kitzbühel Altstadt",
+      "desc": "שילוב של אורבניות יוקרתית באווירה כפרית. שיטוט בין בוטיקים, מכוניות יוקרה החונות ברחוב, ובתי קפה ציוריים.",
+      "rating": "4.7/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdwAJyBdiOjdP9c2zOcQHMHHoyBxObosWDTg&s"
+    },
+    {
+      "id": "site_kitz_2",
+      "destinationId": "dest_kitzbuhel",
+      "name": "מסעדת שטיפטסקלר (Stiftskeller)",
+      "name_en": "Stiftskeller Innsbruck",
+      "desc": "מוסד קולינרי מפורסם (ממוקם באינסברוק) המציע אוכל טירולי מסורתי באווירת בירגארטן וחללים היסטוריים עם בירה מעולה.",
+      "rating": "4.6/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTATzZcXugKyW-HxFs7ULaYVFpGf6K5CBaOGg&s"
+    },
+    {
+      "id": "site_kitz_3",
+      "destinationId": "dest_kitzbuhel",
+      "name": "מחלבת החוויות צילרטל",
+      "name_en": "Erlebnissennerei Zillertal",
+      "desc": "חוויה קולינרית מודרנית: סיור במפעל גבינות ומוצרי חלב טירולי, צפייה בתהליך הייצור וטעימות מהתוצרת האלפינית הטרייה.",
+      "rating": "4.6/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIffxm4tELwNLWmqOun5oUjQo1C1rw_Vkh1w&s"
+    }
+  ]
+}
