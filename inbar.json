@@ -7,35 +7,40 @@
       "name": "רכב, טכנולוגיה והנדסה",
       "emoji": "🏎️",
       "desc": "הלב הפועם של התעשייה הגרמנית. מוזיאוני רכב מהמתקדמים בעולם ופלאי הנדסה.",
-      "image_keyword": "Munich BMW world technology museum"
+      "image_keyword": "Munich BMW world technology museum",
+      "image_url": "https://bmw.scene7.com/is/image/BMW/06_BMW-Welt_PULSE-Event_2025_c_fabianstoffers_DJI_0531?wid=2560&hei=1705"
     },
     {
       "id": "cat_2",
       "name": "לב העיר: היסטוריה, שווקים וקפה",
       "emoji": "☕",
       "desc": "הקסם של העיר העתיקה, הכיכרות המרכזיות ותרבות הקפה והבירה המקומית.",
-      "image_keyword": "Munich Altstadt Marienplatz cafe"
+      "image_keyword": "Munich Altstadt Marienplatz cafe",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXwzkLpC5dlREqR-yIXlyE3_U_mZZlWdCX7Q&s"
     },
     {
       "id": "cat_3",
       "name": "אמנות, תרבות ומוזיאונים",
       "emoji": "🏛️",
       "desc": "סיור עומק ברובע המוזיאונים (Kunstareal) ובארמונות המלוכה הבוואריים.",
-      "image_keyword": "Munich Kunstareal art museums"
+      "image_keyword": "Munich Kunstareal art museums",
+      "image_url": "https://www.muenchen.travel/var/ger_muc/storage/images/_aliases/stage_large/1/6/3/7/4377361-1-ger-DE/9b69efc6013e-kunstareal-still-foto-redline-enterprises.jpg"
     },
     {
       "id": "cat_4",
       "name": "ריאות ירוקות ופנאי",
       "emoji": "🌳",
       "desc": "הפארקים העצומים של מינכן, הגנים האנגליים וחופים על גדות נהר האיזאר.",
-      "image_keyword": "Munich Englischer Garten park"
+      "image_keyword": "Munich Englischer Garten park",
+      "image_url": "https://www.muenchen.travel/var/ger_muc/storage/images/_aliases/stage_large/5/2/5/1/521525-1-ger-DE/englischer-garten-mit-stadtpanorama-2171s-foto-joerg-lutz.jpg"
     },
     {
       "id": "cat_5",
       "name": "שופינג, בילויים וחיי לילה",
       "emoji": "🛍️",
       "desc": "מרחובות היוקרה ועד לרובעים ההיפסטריים עם הברים והמועדונים הכי שווים.",
-      "image_keyword": "Munich nightlife shopping streets"
+      "image_keyword": "Munich nightlife shopping streets",
+      "image_url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/25/c9/00/32/caption.jpg"
     }
   ],
   "destinations": [
@@ -44,56 +49,64 @@
       "categoryId": "cat_1",
       "name": "מתחם BMW והפארק האולימפי",
       "desc": "שילוב של חדשנות מוטורית עם פארק רחב ידיים ואדריכלות איקונית.",
-      "image_keyword": "BMW Welt and Olympic Park Munich"
+      "image_keyword": "BMW Welt and Olympic Park Munich",
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/4a/07/ce/bmw-welt.jpg?w=900&h=500&s=1"
     },
     {
       "id": "dest_motor",
       "categoryId": "cat_1",
       "name": "מוטורוורלד ומרכז התחבורה",
       "desc": "גן עדן לחובבי רכבי אספנות, אופנועים והיסטוריה של כלי תחבורה.",
-      "image_keyword": "Motorworld Munich classic cars"
+      "image_keyword": "Motorworld Munich classic cars",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNJKqWV4yxw6cpZYosaSpW65v9y83IoqRhQg&s"
     },
     {
       "id": "dest_marien",
       "categoryId": "cat_2",
       "name": "מריאנפלאץ והעיר העתיקה",
       "desc": "המרכז ההיסטורי של העיר עם בניין העירייה המרהיב, כנסיות עתיקות וסמטאות שוקקות.",
-      "image_keyword": "Marienplatz Munich Old Town"
+      "image_keyword": "Marienplatz Munich Old Town",
+      "image_url": "https://www.civitatis.com/f/alemania/munich/guia/marienplatz.jpg"
     },
     {
       "id": "dest_viktual",
       "categoryId": "cat_2",
       "name": "שוק ויקטואליאנמרקט וסביבתו",
       "desc": "לב הקולינריה והקפה של מינכן. שוק פתוח תוסס, בתי בירה היסטוריים ומעדניות.",
-      "image_keyword": "Viktualienmarkt Munich food market"
+      "image_keyword": "Viktualienmarkt Munich food market",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkMAemLd2WYX_9OCOfBTVa2gQd5CD-ofjTDQ&s"
     },
     {
       "id": "dest_art",
       "categoryId": "cat_3",
       "name": "רובע האמנות (Kunstareal)",
       "desc": "ריכוז מטורף של מוזיאונים לאמנות קלאסית, מודרנית ועיצוב.",
-      "image_keyword": "Pinakothek der Moderne Munich"
+      "image_keyword": "Pinakothek der Moderne Munich",
+      "image_url": "https://www.muenchen.de/sites/default/files/styles/facebook/public/2023-03/pinakothek-der-modernecmyrzikundjarisch.jpg?h=c6980913"
     },
     {
       "id": "dest_residenz",
       "categoryId": "cat_3",
       "name": "ארמון הרזידנץ והתיאטרון",
       "desc": "הצצה לחיי הפאר של מלכי בוואריה בתוך קומפלקס ארמונות ענק בלב העיר.",
-      "image_keyword": "Munich Residenz palace interior"
+      "image_keyword": "Munich Residenz palace interior",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoSjEcS553t7I5k9ulYIwbkDP7xBQPwX0I6A&s"
     },
     {
       "id": "dest_garden",
       "categoryId": "cat_4",
       "name": "הגן האנגלי (Englischer Garten)",
       "desc": "אחד הפארקים העירוניים הגדולים בעולם, כולל גלישת גלים בנהר ואווירה פסטורלית.",
-      "image_keyword": "English Garden Munich surfing"
+      "image_keyword": "English Garden Munich surfing",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgUqqaPOg7vhBRRjY22qeA5tggcvHcB9EtJg&s"
     },
     {
       "id": "dest_night",
       "categoryId": "cat_5",
       "name": "רובע גלוקנבאך ומרכז הבילויים",
       "desc": "האזור הכי טרנדי בעיר לברים, מועדונים, בתי קפה שכונתיים ואווירה היפסטרית.",
-      "image_keyword": "Glockenbachviertel Munich night"
+      "image_keyword": "Glockenbachviertel Munich night",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNq2SC3opGtqiMTNqCuO4zFKSeC7Rz8rw1HQ&s"
     }
   ],
   "sites": [
@@ -103,7 +116,8 @@
       "name": "מוזיאון BMW",
       "name_en": "BMW Museum",
       "desc": "תערוכה מרשימה של מכוניות, אופנועים ומנועים מכל הזמנים בתוך מבנה דמוי קערה איקוני.",
-      "rating": "4.8/5"
+      "rating": "4.8/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLsf_fEh5dG1bHVxs9gyPkzGn0a9x8QYLJNg&s"
     },
     {
       "id": "site_bmw_2",
@@ -111,7 +125,8 @@
       "name": "עולם BMW",
       "name_en": "BMW Welt",
       "desc": "מרכז חווייתי עתידני עם דגמי הרכב החדשים ביותר ואפשרות לחוות טכנולוגיה מקרוב (כניסה חינם).",
-      "rating": "4.7/5"
+      "rating": "4.7/5",
+      "image_url": "https://bmw.scene7.com/is/image/BMW/06_BMW-Welt_PULSE-Event_2025_c_fabianstoffers_DJI_0531?wid=2560&hei=1705"
     },
     {
       "id": "site_bmw_3",
@@ -119,7 +134,8 @@
       "name": "המגדל האולימפי",
       "name_en": "Olympic Tower",
       "desc": "תצפית פנורמית מדהימה מגובה רב על כל מינכן, הפארק האולימפי ועל הרי האלפים.",
-      "rating": "4.6/5"
+      "rating": "4.6/5",
+      "image_url": "https://www.muenchen.travel/var/ger_muc/storage/images/_aliases/stage_large/3/9/5/8/78593-1-ger-DE/olympiapark-olympiaturm-75080341-500px-sanjin-kusan-3000.jpg"
     },
     {
       "id": "site_motor_1",
@@ -127,7 +143,8 @@
       "name": "מוטורוורלד מינכן",
       "name_en": "Motorworld München",
       "desc": "חלל תעשייתי ענק המאכלס עשרות רכבי ספורט נדירים, מכוניות קלאסיות ואקזוטיות. גן עדן לחובבי הגה.",
-      "rating": "4.9/5"
+      "rating": "4.9/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkxpG_7Q-yucaA4WDUCWHHd9PT_GsYJDrZtQ&s"
     },
     {
       "id": "site_motor_2",
@@ -135,7 +152,8 @@
       "name": "מרכז התחבורה (המוזיאון הגרמני)",
       "name_en": "Deutsches Museum Verkehrszentrum",
       "desc": "שלוחה המוקדשת כולה לתחבורה. אוסף עצום של אופנועים היסטוריים, מכוניות וינטג' וקטרים.",
-      "rating": "4.6/5"
+      "rating": "4.6/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNK3OZKBWZq5gU1wQklqhyLPBmJLmFjxixfg&s"
     },
     {
       "id": "site_motor_3",
@@ -143,7 +161,8 @@
       "name": "מרכז התעופה של המוזיאון הגרמני",
       "name_en": "Flugwerft Schleißheim",
       "desc": "תצוגה מרתקת של מטוסים, מסוקים וכלי טיס היסטוריים בתוך האנגר תעופה מקורי.",
-      "rating": "4.7/5"
+      "rating": "4.7/5",
+      "image_url": "https://www.deutsches-museum.de/assets/_processed_/0/d/csm_Militaerflugzeug_Kalter_Krieg_Eurofighter_EF-2000_DA-1_FWS_Exponate_021_0d21052de4.jpg"
     },
     {
       "id": "site_marien_1",
@@ -151,7 +170,8 @@
       "name": "בניין העירייה החדש והגליקנשפיל",
       "name_en": "Neues Rathaus & Glockenspiel",
       "desc": "מבנה נאו-גותי מרהיב בכיכר המרכזית, המפורסם בזכות מופע בובות מכני בשעון המגדל.",
-      "rating": "4.8/5"
+      "rating": "4.8/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKlkJJjkc_ULX9PD2x3bGQg4GxeZHfFoGzbg&s"
     },
     {
       "id": "site_marien_2",
@@ -159,7 +179,8 @@
       "name": "כנסיית פטר הקדוש (אלטר פטר)",
       "name_en": "St. Peter's Church",
       "desc": "הכנסייה העתיקה בעיר. טיפוס מאתגר במדרגות יוביל אתכם לתצפית הכי יפה על מרכז העיר.",
-      "rating": "4.7/5"
+      "rating": "4.7/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvNLqaLzmm2FO2RsI8Ea2x3bgj4Gj2ve0u1g&s"
     },
     {
       "id": "site_marien_3",
@@ -167,7 +188,8 @@
       "name": "קתדרלת פראואנקירכה",
       "name_en": "Frauenkirche",
       "desc": "סמלה של מינכן. קתדרלה עצומה עם שני מגדלי בצל תאומים המזדקרים מעל קו הרקיע.",
-      "rating": "4.6/5"
+      "rating": "4.6/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStV5dBuMTYBSgx_yjUMJyijhJumyw8-h2XHQ&s"
     },
     {
       "id": "site_marien_4",
@@ -175,7 +197,8 @@
       "name": "כיכר אודאונספלאץ",
       "name_en": "Odeonsplatz",
       "desc": "כיכר איטלקית באופיה, מוקפת ארמונות וכנסיית התיאטינר הבארוקית בצבע צהוב בוהק.",
-      "rating": "4.7/5"
+      "rating": "4.7/5",
+      "image_url": "https://www.muenchen.de/sites/default/files/styles/facebook/public/2022-06/201203_Odeonsplatz_Shutterstock_141715471.jpg?h=84071268"
     },
     {
       "id": "site_marien_5",
@@ -183,7 +206,8 @@
       "name": "כנסיית אסאם",
       "name_en": "Asamkirche",
       "desc": "פנינת רוקוקו נסתרת וקטנה במדרחוב, מעוטרת בעושר בלתי נתפס של זהב, ציורים ופסלים.",
-      "rating": "4.8/5"
+      "rating": "4.8/5",
+      "image_url": "https://www.muenchen.travel/var/ger_muc/storage/images/_aliases/stage_large/2/7/9/6/76972-1-ger-DE/asamkirche-innenansicht-1658-foto-vittorio-sciosia-3000.jpg"
     },
     {
       "id": "site_viktual_1",
@@ -191,7 +215,8 @@
       "name": "שוק ויקטואליאנמרקט",
       "name_en": "Viktualienmarkt",
       "desc": "שוק האוכל הפתוח של מינכן. מקום מושלם להסתובב בין דוכני גבינות, נקניקיות ובירגארטן תוסס.",
-      "rating": "4.8/5"
+      "rating": "4.8/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHalPDihATdodzWKps_3yc0nwUFgQSSgPj_w&s"
     },
     {
       "id": "site_viktual_2",
@@ -199,7 +224,8 @@
       "name": "קפה פרישחאט",
       "name_en": "Cafe Frischhut",
       "desc": "מוסד מפורסם בצמוד לשוק, הידוע במאפי ה-Schmalznudeln המסורתיים והקפה המעולה שלו.",
-      "rating": "4.6/5"
+      "rating": "4.6/5",
+      "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/07/4a/c9/56/schmalznudel-cafe-frischhut.jpg"
     },
     {
       "id": "site_viktual_3",
@@ -207,7 +233,8 @@
       "name": "בית הבירה הופברויהאוס",
       "name_en": "Hofbräuhaus München",
       "desc": "אולם הבירה המפורסם ביותר בעולם. חוויה בווארית רועשת, שמחה ואותנטית עם תזמורת חיה.",
-      "rating": "4.5/5"
+      "rating": "4.5/5",
+      "image_url": "https://www.hofbraeuhaus.de/wp-content/uploads/2023/08/hofbraeuhaus-schwemme-692x1024.png"
     },
     {
       "id": "site_viktual_4",
@@ -215,7 +242,8 @@
       "name": "מעדניית דלמייר",
       "name_en": "Dallmayr Delicatessen",
       "desc": "מעדניית גורמה ובית קפה היסטורי. חוויה של קפה קלוי במקום, פרלינים ועיצוב אלגנטי.",
-      "rating": "4.7/5"
+      "rating": "4.7/5",
+      "image_url": "https://www.dallmayr.com/fileadmin/_processed_/1/e/csm_aussenfasade_2b6fe9bcef.webp"
     },
     {
       "id": "site_art_1",
@@ -223,7 +251,8 @@
       "name": "פינקוטק דר מודרנה",
       "name_en": "Pinakothek der Moderne",
       "desc": "מוזיאון ענק המשלב אמנות מודרנית, עיצוב תעשייתי וארכיטקטורה תחת קורת גג אחת.",
-      "rating": "4.7/5"
+      "rating": "4.7/5",
+      "image_url": "https://www.muenchen.de/sites/default/files/styles/facebook/public/2022-06/Pinakothek-der-Moderne.png?h=707772c7"
     },
     {
       "id": "site_art_2",
@@ -231,7 +260,8 @@
       "name": "הפינקוטק הישן",
       "name_en": "Alte Pinakothek",
       "desc": "אחד האוספים החשובים בעולם של יצירות מופת אירופאיות קלאסיות.",
-      "rating": "4.8/5"
+      "rating": "4.8/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSj3-VZa1yfg0kudVt4-qvAx7eD3ho06uCOQ&s"
     },
     {
       "id": "site_art_3",
@@ -239,7 +269,8 @@
       "name": "מוזיאון המדע (המוזיאון הגרמני)",
       "name_en": "Deutsches Museum",
       "desc": "מוזיאון הטכנולוגיה והמדע הגדול בעולם (נמצא על אי בנהר, קרוב לרובע האמנות).",
-      "rating": "4.8/5"
+      "rating": "4.8/5",
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/59/13/07/deutsches-museum.jpg?w=900&h=500&s=1"
     },
     {
       "id": "site_residenz_1",
@@ -247,7 +278,8 @@
       "name": "ארמון הרזידנץ",
       "name_en": "Munich Residenz",
       "desc": "הארמון העירוני הגדול בגרמניה. סיור בעשרות חדרים מפוארים ששימשו את מלכי בוואריה.",
-      "rating": "4.7/5"
+      "rating": "4.7/5",
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/ae/8f/19/the-great-hall.jpg?w=700&h=400&s=1"
     },
     {
       "id": "site_residenz_2",
@@ -255,7 +287,8 @@
       "name": "אוצר הרזידנץ",
       "name_en": "Treasury of the Residenz",
       "desc": "תצוגה מסנוורת של כתרי מלכות, תכשיטים, חרבות וזהב של השושלת המלכותית.",
-      "rating": "4.6/5"
+      "rating": "4.6/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnxQev-l40rQ3zdUtkJYV5djNs_vB9PxD7kQ&s"
     },
     {
       "id": "site_residenz_3",
@@ -263,7 +296,8 @@
       "name": "תיאטרון קוביליה",
       "name_en": "Cuvilliés Theatre",
       "desc": "פנינה ארכיטקטונית בתוך הארמון. תיאטרון רוקוקו עוצר נשימה ביופיו.",
-      "rating": "4.8/5"
+      "rating": "4.8/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTDGqSvAjk01qEN11CUBXbFJJ3VT-P_sPf2w&s"
     },
     {
       "id": "site_residenz_4",
@@ -271,7 +305,8 @@
       "name": "גן החצר (Hofgarten)",
       "name_en": "Hofgarten",
       "desc": "גן רנסאנס סימטרי ויפהפה בצמוד לארמון, מושלם למנוחה קלה לצלילי נגני רחוב.",
-      "rating": "4.7/5"
+      "rating": "4.7/5",
+      "image_url": "https://www.civitatis.com/f/alemania/munich/guia/hofgarten-m.jpg"
     },
     {
       "id": "site_garden_1",
@@ -279,7 +314,8 @@
       "name": "גל האייסבאך",
       "name_en": "Eisbachwelle",
       "desc": "תופעה ייחודית בעולם: צפייה בגולשים מקצועיים התופסים גל קבוע וגועש בלב הפארק.",
-      "rating": "4.9/5"
+      "rating": "4.9/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvEfAtX5cMo7cUENU7PzVpr8U4Ofy-ysOZUg&s"
     },
     {
       "id": "site_garden_2",
@@ -287,7 +323,8 @@
       "name": "המגדל הסיני וגן הבירה",
       "name_en": "Chinesischer Turm",
       "desc": "מבנה עץ איקוני בלב הפארק המוקף באחד מגני הבירה הגדולים והשמחים במינכן.",
-      "rating": "4.5/5"
+      "rating": "4.5/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSIuqLypr08OI0xPyedFdBHDPGZLbSY6mJMg&s"
     },
     {
       "id": "site_night_1",
@@ -295,7 +332,8 @@
       "name": "כיכר גרטנרפלאץ",
       "name_en": "Gärtnerplatz",
       "desc": "המוקד של הרובע. בערבים חמימים הכיכר מתמלאת בצעירים שיושבים עם בירה באוויר הפתוח.",
-      "rating": "4.8/5"
+      "rating": "4.8/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe-y4Dh5QT7DGDG1EHaW99oldUqakmKs4taA&s"
     },
     {
       "id": "site_night_2",
@@ -303,7 +341,8 @@
       "name": "בר צפיר (Zephyr)",
       "name_en": "Zephyr Bar",
       "desc": "אחד מברי הקוקטיילים המוערכים במינכן, מציע מיקסולוגיה יצירתית ואווירה אינטימית.",
-      "rating": "4.7/5"
+      "rating": "4.7/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyD_UuY9aLJQfqyWkAmlNCEEkepmxucErIiA&s"
     },
     {
       "id": "site_night_3",
@@ -311,7 +350,8 @@
       "name": "מועדון פראדיסו",
       "name_en": "Paradiso Tanzbar",
       "desc": "מועדון ריקודים ובר טרנדי עם עיצוב רטרו-שיק, המושך קהל מקומי אופנתי.",
-      "rating": "4.5/5"
+      "rating": "4.5/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5rYi7FNjb5nF7LfdRiPOdAUF41QJpy0Jhw&s"
     },
     {
       "id": "site_night_4",
@@ -319,7 +359,8 @@
       "name": "בר 'הולי הום'",
       "name_en": "Holy Home Bar",
       "desc": "בר שכונתי מיתולוגי וקולי עם מוזיקה אלטרנטיבית ואווירה לא מחייבת.",
-      "rating": "4.6/5"
+      "rating": "4.6/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMNoEJp9URbdfmsl1BFK6chUbR5wAtKi9Sg&s"
     }
   ]
 }
