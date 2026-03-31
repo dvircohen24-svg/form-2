@@ -1,147 +1,197 @@
 {
-  "userEmail": "",
+  "userEmail": "barkatash1008@gmail.com",
   "destination": "מינכן",
   "categories": [
     {
-      "desc": "גן עדן לחובבי מנועים וטכנולוגיה. גלו את ההיסטוריה, העיצוב המרהיב והעתיד של תעשיית הרכב והאופנועים הגרמנית, לצד פלאי מדע והנדסה.",
-      "emoji": "🏎️",
       "id": "cat_1",
-      "image_keyword": "Munich BMW cars motorcycles technology",
-      "image_url": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=900",
-      "name": "עולם הרכב, אופנועים וטכנולוגיה"
+      "name": "רכב, טכנולוגיה והנדסה",
+      "emoji": "🏎️",
+      "desc": "הלב הפועם של התעשייה הגרמנית. מוזיאוני רכב מהמתקדמים בעולם ופלאי הנדסה.",
+      "image_keyword": "Munich BMW world technology museum"
     },
     {
-      "desc": "ספגו את הקצב המקומי ברחובות ההומים. שילוב מושלם של אדריכלות עתיקה, בתי קפה בוטיק איכותיים, שווקי אוכל תוססים ואווירה אורבנית ייחודית.",
-      "emoji": "☕",
       "id": "cat_2",
-      "image_keyword": "Munich street cafe urban lifestyle",
-      "image_url": "https://images.unsplash.com/photo-1505275350441-83dcda8eeef5?w=900",
-      "name": "קצב העיר: קפה ואווירה אורבנית"
+      "name": "לב העיר: היסטוריה, שווקים וקפה",
+      "emoji": "☕",
+      "desc": "הקסם של העיר העתיקה, הכיכרות המרכזיות ותרבות הקפה והבירה המקומית.",
+      "image_keyword": "Munich Altstadt Marienplatz cafe"
     },
     {
-      "desc": "הישאבו לעושרה התרבותי של מינכן דרך מוזיאונים ברמה עולמית, המציגים אמנות קלאסית ומודרנית, היסטוריה בווארית מרתקת ומוצגים נדירים.",
-      "emoji": "🏛️",
       "id": "cat_3",
-      "image_keyword": "Munich museum art architecture",
-      "image_url": "https://images.unsplash.com/photo-1590409059737-f8e21a8d0554?w=900",
-      "name": "מוזיאונים, אמנות והיסטוריה"
+      "name": "אמנות, תרבות ומוזיאונים",
+      "emoji": "🏛️",
+      "desc": "סיור עומק ברובע המוזיאונים (Kunstareal) ובארמונות המלוכה הבוואריים.",
+      "image_keyword": "Munich Kunstareal art museums"
+    },
+    {
+      "id": "cat_4",
+      "name": "ריאות ירוקות ופנאי",
+      "emoji": "🌳",
+      "desc": "הפארקים העצומים של מינכן, הגנים האנגליים וחופים על גדות נהר האיזאר.",
+      "image_keyword": "Munich Englischer Garten park"
+    },
+    {
+      "id": "cat_5",
+      "name": "שופינג, בילויים וחיי לילה",
+      "emoji": "🛍️",
+      "desc": "מרחובות היוקרה ועד לרובעים ההיפסטריים עם הברים והמועדונים הכי שווים.",
+      "image_keyword": "Munich nightlife shopping streets"
     }
   ],
   "destinations": [
     {
+      "id": "dest_bmw",
       "categoryId": "cat_1",
-      "desc": "מתחם הדגל של תעשיית הרכב הבווארית. כאן תוכלו לראות, להרגיש ולחוות את המכוניות והאופנועים של BMW, לצד האדריכלות העתידנית של הפארק האולימפי הסמוך.",
-      "id": "dest_1",
-      "image_keyword": "BMW Welt Museum Munich",
-      "image_url": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=900",
-      "name": "מתחם BMW והפארק האולימפי"
+      "name": "מתחם BMW והפארק האולימפי",
+      "desc": "שילוב של חדשנות מוטורית עם פארק רחב ידיים ואדריכלות איקונית.",
+      "image_keyword": "BMW Welt and Olympic Park Munich"
     },
     {
+      "id": "dest_motor",
       "categoryId": "cat_1",
-      "desc": "אזורים המוקדשים כולם לאהבת המנוע - מתחמי תצוגה ענקיים של רכבי ספורט, אספנות ויוקרה, ומוזיאונים המציגים את התפתחות התחבורה והאופנועים.",
-      "id": "dest_2",
-      "image_keyword": "Motorworld Munich classic cars",
-      "image_url": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=900",
-      "name": "מוטורוורלד ומרכז התחבורה"
+      "name": "מוטורוורלד ומרכז התחבורה",
+      "desc": "גן עדן לחובבי רכבי אספנות, אופנועים והיסטוריה של כלי תחבורה.",
+      "image_keyword": "Motorworld Munich classic cars"
     },
     {
+      "id": "dest_marien",
       "categoryId": "cat_2",
-      "desc": "הלב הפועם של מינכן. כיכרות היסטוריות, סמטאות ציוריות, מדרחוב קניות שוקק, וריכוז גבוה של בתי קפה מסורתיים ומשובחים לצד שוק האוכל המפורסם.",
-      "id": "dest_3",
-      "image_keyword": "Marienplatz Viktualienmarkt Munich",
-      "image_url": "https://images.unsplash.com/photo-1528728329032-2972f65dfb3f?w=900",
-      "name": "העיר העתיקה (Altstadt)"
+      "name": "מריאנפלאץ והעיר העתיקה",
+      "desc": "המרכז ההיסטורי של העיר עם בניין העירייה המרהיב והכנסייה עם מגדלי הבצל.",
+      "image_keyword": "Marienplatz Munich Old Town"
     },
     {
+      "id": "dest_viktual",
+      "categoryId": "cat_2",
+      "name": "שוק ויקטואליאנמרקט וסביבתו",
+      "desc": "לב הקולינריה והקפה של מינכן. שוק פתוח תוסס עם דוכני גורמה.",
+      "image_keyword": "Viktualienmarkt Munich food market"
+    },
+    {
+      "id": "dest_art",
       "categoryId": "cat_3",
-      "desc": "רובע האמנות והמדע של העיר, המרכז בתוכו את כמה ממוזיאוני האמנות, העיצוב והטכנולוגיה החשובים ביותר באירופה.",
-      "id": "dest_4",
-      "image_keyword": "Deutsches Museum Pinakothek Munich",
-      "image_url": "https://images.unsplash.com/photo-1580536442654-e67bb93fce17?w=900",
-      "name": "רובע האמנות (Kunstareal) ואי המוזיאונים"
+      "name": "רובע האמנות (Kunstareal)",
+      "desc": "ריכוז מטורף של מוזיאונים לאמנות קלאסית, מודרנית ועיצוב.",
+      "image_keyword": "Pinakothek der Moderne Munich"
+    },
+    {
+      "id": "dest_residenz",
+      "categoryId": "cat_3",
+      "name": "ארמון הרזידנץ והתיאטרון",
+      "desc": "הצצה לחיי הפאר של מלכי בוואריה בתוך קומפלקס ארמונות ענק.",
+      "image_keyword": "Munich Residenz palace interior"
+    },
+    {
+      "id": "dest_garden",
+      "categoryId": "cat_4",
+      "name": "הגן האנגלי (Englischer Garten)",
+      "desc": "אחד הפארקים העירוניים הגדולים בעולם, כולל גלישת גלים בנהר.",
+      "image_keyword": "English Garden Munich surfing"
+    },
+    {
+      "id": "dest_night",
+      "categoryId": "cat_5",
+      "name": "רובע גלוקנבאך ומרכז הבילויים",
+      "desc": "האזור הכי טרנדי בעיר לברים, מועדונים וחנויות מעצבים עצמאיות.",
+      "image_keyword": "Glockenbachviertel Munich night"
     }
   ],
   "sites": [
     {
-      "desc": "מקדש לחובבי מותג הרכב. המוזיאון מציג למעלה מ-100 שנות היסטוריה, כולל דגמי מכוניות קלאסיות, רכבי מרוץ פורמולה 1 ואוסף אופנועים מרשים.",
-      "destinationId": "dest_1",
-      "id": "dest_1_site_1",
-      "image_url": "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?w=900",
-      "name": "מוזיאון BMW - היסטוריה ומורשת",
+      "id": "site_1",
+      "destinationId": "dest_bmw",
+      "name": "מוזיאון BMW",
       "name_en": "BMW Museum",
+      "desc": "תערוכה מרשימה של מכוניות, אופנועים ומנועים מכל הזמנים.",
       "rating": "4.8/5"
     },
     {
-      "desc": "אולם תצוגה עתידני ומרהיב בו תוכלו להתרשם מקרוב מהדגמים החדשים ביותר של מכוניות ואופנועי BMW, מיני ורולס רויס. הכניסה למבנה המרשים חינמית.",
-      "destinationId": "dest_1",
-      "id": "dest_1_site_2",
-      "image_url": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=900",
-      "name": "BMW Welt - תצוגת רכבי העתיד",
+      "id": "site_2",
+      "destinationId": "dest_bmw",
+      "name": "עולם BMW",
       "name_en": "BMW Welt",
+      "desc": "מרכז חווייתי עתידני עם דגמי הרכב החדשים ביותר (כניסה חינם).",
       "rating": "4.7/5"
     },
     {
-      "desc": "סיור מרתק אל מאחורי הקלעים המאפשר צפייה בפס הייצור של מכוניות BMW. חוויה מכנית ורובוטית מדהימה (דורש הזמנה מראש).",
-      "destinationId": "dest_1",
-      "id": "dest_1_site_3",
-      "image_url": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?w=900",
-      "name": "סיור מודרך במפעל BMW",
-      "name_en": "BMW Group Plant Tour",
-      "rating": "4.9/5"
-    },
-    {
-      "desc": "גן עדן של ממש לחובבי רכב. מתחם תעשייתי משופץ המאכלס עשרות רכבי ספורט נדירים, מכוניות קלאסיות ואקזוטיות, חנויות ציוד וסדנאות שיפורים.",
-      "destinationId": "dest_2",
-      "id": "dest_2_site_1",
-      "image_url": "https://images.unsplash.com/photo-1563720223185-11003d516935?w=900",
-      "name": "מוטורוורלד מינכן (Motorworld)",
-      "name_en": "Motorworld München",
-      "rating": "4.9/5"
-    },
-    {
-      "desc": "שלוחה של המוזיאון הגרמני המוקדשת כולה לתחבורה. כאן תמצאו אוסף עצום של אופנועים היסטוריים, מכוניות וינטג', קטרים וכרכרות באולמות ענק.",
-      "destinationId": "dest_2",
-      "id": "dest_2_site_2",
-      "image_url": "https://images.unsplash.com/photo-1541443131876-44b03de101c5?w=900",
-      "name": "מרכז התחבורה (Verkehrszentrum)",
-      "name_en": "Deutsches Museum Verkehrszentrum",
+      "id": "site_3",
+      "destinationId": "dest_bmw",
+      "name": "המגדל האולימפי",
+      "name_en": "Olympic Tower",
+      "desc": "תצופית פנורמית מדהימה על כל מינכן ועל הרי האלפים.",
       "rating": "4.6/5"
     },
     {
-      "desc": "שוק האוכל המרכזי והצבעוני של מינכן. מקום מושלם להסתובב בין דוכני בוטיק, לאכול נקניקייה בווארית ולשבת באחד מדוכני הקפה המשובחים הקולים פולים במקום.",
-      "destinationId": "dest_3",
-      "id": "dest_3_site_1",
-      "image_url": "https://images.unsplash.com/photo-1533501257404-5d5d85d77833?w=900",
-      "name": "שוק ויקטואליאנמרקט וקפה בוטיק",
-      "name_en": "Viktualienmarkt",
+      "id": "site_4",
+      "destinationId": "dest_marien",
+      "name": "בניין העירייה החדש והגליקנשפיל",
+      "name_en": "Neues Rathaus & Glockenspiel",
+      "desc": "מופע בובות מכני בשעון המגדל בכיכר המרכזית.",
       "rating": "4.8/5"
     },
     {
-      "desc": "מוסד קולינרי ובית קפה היסטורי ומפואר, הפועל עוד מימי המלוכה הבווארית. חוויה אירופאית קלאסית של קפה איכותי, עוגות מרהיבות ואווירת יוקרה.",
-      "destinationId": "dest_3",
-      "id": "dest_3_site_2",
-      "image_url": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?w=900",
-      "name": "מעדניית ובית הקפה דלמאייר",
-      "name_en": "Dallmayr Delicatessen & Cafe",
+      "id": "site_5",
+      "destinationId": "dest_marien",
+      "name": "כנסיית פטר הקדוש (אלטר פטר)",
+      "name_en": "St. Peter's Church",
+      "desc": "טיפוס במדרגות לתצפית הכי יפה על כיכר מריאנפלאץ.",
       "rating": "4.7/5"
     },
     {
-      "desc": "אחד ממוזיאוני המדע והטכנולוגיה הגדולים בעולם. מציג אולמות ענק המוקדשים לחלל, תעופה, הנדסה ופיזיקה - ביקור חובה לכל מוח סקרן.",
-      "destinationId": "dest_4",
-      "id": "dest_4_site_1",
-      "image_url": "https://images.unsplash.com/photo-1580536442654-e67bb93fce17?w=900",
-      "name": "המוזיאון הגרמני (Deutsches Museum)",
+      "id": "site_6",
+      "destinationId": "dest_viktual",
+      "name": "קפה פרישחאט",
+      "name_en": "Cafe Frischhut",
+      "desc": "מוסד מפורסם הידוע במאפי ה-Schmalznudeln המסורתיים והקפה המעולה שלו.",
+      "rating": "4.6/5"
+    },
+    {
+      "id": "site_7",
+      "destinationId": "dest_art",
+      "name": "פינקוטק דר מודרנה",
+      "name_en": "Pinakothek der Moderne",
+      "desc": "מוזיאון ענק המשלב אמנות מודרנית, עיצוב וארכיטקטורה.",
+      "rating": "4.7/5"
+    },
+    {
+      "id": "site_8",
+      "destinationId": "dest_art",
+      "name": "הפינקוטק הישן",
+      "name_en": "Alte Pinakothek",
+      "desc": "אחד האוספים החשובים בעולם של יצירות מופת אירופאיות.",
+      "rating": "4.8/5"
+    },
+    {
+      "id": "site_9",
+      "destinationId": "dest_art",
+      "name": "מוזיאון המדע (המוזיאון הגרמני)",
       "name_en": "Deutsches Museum",
+      "desc": "מוזיאון הטכנולוגיה והמדע הגדול בעולם (נמצא על אי בנהר).",
       "rating": "4.8/5"
     },
     {
-      "desc": "ביקור בפינקוטק הישן או בפינקוטק המודרני, מהמוזיאונים החשובים באירופה, המציגים יצירות אמנות קלאסיות של ציירים מפורסמים לצד אמנות ועיצוב מודרניים.",
-      "destinationId": "dest_4",
-      "id": "dest_4_site_2",
-      "image_url": "https://images.unsplash.com/photo-1566415707011-f111e1319c83?w=900",
-      "name": "מוזיאוני האמנות: אלטה ונויה פינקוטק",
-      "name_en": "Alte & Neue Pinakothek",
-      "rating": "4.7/5"
+      "id": "site_10",
+      "destinationId": "dest_garden",
+      "name": "גל האייסבאך (גולשי הנהר)",
+      "name_en": "Eisbachwelle",
+      "desc": "צפייה בגולשים המקצועיים שגולשים על גל קבוע בלב העיר.",
+      "rating": "4.9/5"
+    },
+    {
+      "id": "site_11",
+      "destinationId": "dest_garden",
+      "name": "המגדל הסיני וגן הבירה",
+      "name_en": "Chinesischer Turm",
+      "desc": "מבנה עץ איקוני בלב הפארק עם גן בירה ענק ואווירה בווארית.",
+      "rating": "4.5/5"
+    },
+    {
+      "id": "site_12",
+      "destinationId": "dest_night",
+      "name": "בר 'הולי הום'",
+      "name_en": "Holy Home Bar",
+      "desc": "בר שכונתי קולי עם אווירה מעולה בלב רובע גלוקנבאך.",
+      "rating": "4.6/5"
     }
   ]
 }
