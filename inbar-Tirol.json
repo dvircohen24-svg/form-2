@@ -106,6 +106,38 @@
       "desc": "עיר היסטורית ויפהפייה על גדות נהר האין, הידועה בעיקר בזכות המבצר העצום שחולש עליה ומדרחוב עתיק.",
       "image_keyword": "Kufstein fortress Tyrol",
       "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/cb/94/25/kufstein-fortress.jpg?w=600&h=-1&s=1"
+    },
+    {
+      "id": "dest_zillertal",
+      "categoryId": "cat_1",
+      "name": "עמק צילרטל (Zillertal)",
+      "desc": "עמק ארוך ומלא אקסטרים: אומגות ענק, רכבות הרים אלפיניות, מצנחי רחיפה ופארקי חבלים.",
+      "image_keyword": "Zillertal alps extreme sports",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Z0-AchU0iGRx5Yg9HAj4W6wK2WDK5IeIZQ&s"
+    },
+    {
+      "id": "dest_ischgl",
+      "categoryId": "cat_4",
+      "name": "אישגל (Ischgl)",
+      "desc": "בירת הקולינריה והלייפסטייל של האלפים. ריכוז יוצא דופן של מסעדות גורמה, כוכבי מישלן ומסעדות שף.",
+      "image_keyword": "Ischgl gourmet food fine dining",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSirapdlnejqKsKfzShGuCfQdW1-tHL6kixIA&s"
+    },
+    {
+      "id": "dest_stubai",
+      "categoryId": "cat_5",
+      "name": "עמק שטובאי (Stubaital)",
+      "desc": "עמק קרחוני עוצר נשימה, אידיאלי לתצפיות נוף גבוהות במיוחד וטיולי הליכה קצרים ונגישים.",
+      "image_keyword": "Stubai glacier top of tyrol",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO9BmuQFKTvh8-SSQzggn8VxNXGcfvmeIGfQ&s"
+    },
+    {
+      "id": "dest_karwendel",
+      "categoryId": "cat_5",
+      "name": "אזור קרוונדל (Karwendel)",
+      "desc": "אזור טבע מרהיב המצטיין בנקיקים, ערוצי נחל עם גשרי עץ תלויים, ומסלולי הליכה קלילים וציוריים.",
+      "image_keyword": "Wolfsklamm gorge tyrol",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGzt-5ga3qqoK-8fYlGJvC8ZWtcOqH9J86ug&s"
     }
   ],
   "sites": [
@@ -297,6 +329,60 @@
       "desc": "סמטה היסטורית ורומנטית בעיר העתיקה, מלאה בבתי עץ צבעוניים מצוירים (Lüftlmalerei) ובתי יין מסורתיים.",
       "rating": "4.6/5",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkx74lZIWEHb7e57EozynNKsT_ihx7HqKyUQ&s"
+    },
+    {
+      "id": "site_zillertal_1",
+      "destinationId": "dest_zillertal",
+      "name": "אומגת אלמפליגר (Almflieger)",
+      "name_en": "Almflieger Gerlosstein",
+      "desc": "גרסה משודרגת ואקסטרימית של אומגה (Flying Fox) המרחפת מעל עמק צילרטל בגובה ובמהירויות גבוהות.",
+      "rating": "4.8/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeDA57fUqFTBg4ObUuJxv2ar-CcQGX0F18Ag&s"
+    },
+    {
+      "id": "site_zillertal_2",
+      "destinationId": "dest_zillertal",
+      "name": "רכבת ההרים ארנה קוסטר",
+      "name_en": "Arena Coaster",
+      "desc": "רכבת הרים אלפינית באורך 1.5 ק\"מ עם סיבובים חדים, קפיצות וגלים, מתאימה לכל המשפחה.",
+      "rating": "4.7/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZgLj3z-vI7CiXMK2J2yzLGNICyCL7evbPOA&s"
+    },
+    {
+      "id": "site_ischgl_1",
+      "destinationId": "dest_ischgl",
+      "name": "מסעדת פצנאונרשטובה",
+      "name_en": "Paznaunerstube Ischgl",
+      "desc": "אחת ממסעדות הגורמה הטובות באוסטריה, מעוטרת בכוכבי מישלן, המציעה מטבח אלפיני עילי.",
+      "rating": "4.9/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_YbLEwK5xnKDVtzXM_mWhw8QQ7cXxKBQ2pA&s"
+    },
+    {
+      "id": "site_ischgl_2",
+      "destinationId": "dest_ischgl",
+      "name": "מסעדת שלוסהרנשטובה",
+      "name_en": "Schlossherrnstube Ischgl",
+      "desc": "חוויית Fine Dining יוקרתית ורומנטית, המשלבת תוצרת טירולית מקומית ויצירתיות קולינרית ברמה הגבוהה ביותר.",
+      "rating": "4.8/5",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIpl2mCzSdREtyHdS1Sjgr6mME2YT4edh0sg&s"
+    },
+    {
+      "id": "site_stubai_1",
+      "destinationId": "dest_stubai",
+      "name": "תצפית 'טופ אוף טירול'",
+      "name_en": "Top of Tyrol Viewing Platform",
+      "desc": "פלטפורמת תצפית תלויה באוויר בגובה 3,210 מטר. עולים ברכבל, והולכים כ-7 דקות לתצפית 360 מעלות על 109 פסגות שונות.",
+      "rating": "4.9/5",
+      "image_url": "https://www.stubaier-gletscher.com/fileadmin/_processed_/4/f/csm_Stubaier_Gletscher-Sommer-2023-andreschoenherr_DJI_20230629081351_0072_D.jpg_798998c0c1.jpg"
+    },
+    {
+      "id": "site_karwendel_1",
+      "destinationId": "dest_karwendel",
+      "name": "נקיק וולפסקלאם (Wolfsklamm)",
+      "name_en": "Wolfsklamm Gorge",
+      "desc": "מנקיקי הנהר היפים ביותר בטירול. הליכה חווייתית של כשעה-שעתיים על גשרי עץ צרים ממש מעל מים שוצפים ומפלים.",
+      "rating": "4.8/5",
+      "image_url": "https://www.tyrol.com/images/58ZjPOObTh4/g:ce/aHR0cHM6Ly91cGxvYWRzLm1hcHNlcnZpY2VzLmV1L25lZm9zX3Rpcm9sL3NpdGUtZmlsZXMvMTA1MS91cGxvYWRzLzE2MDgyN19pY2htYWNoZWZvdG9zLmNvbV8wMDUuanBn"
     }
   ]
 }
