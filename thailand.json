@@ -7,28 +7,28 @@
       "name": "דרום תאילנד - יערות גשם ואיים",
       "emoji": "🌴",
       "desc": "אזור הדרום מציע מפגש עוצר נשימה בין יערות גשם עתיקים, מצוקי אבן גיר נישאים וחופים טרופיים. מושלם לטיולי טבע מתגלגלים.",
-      "image_url": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWKw6DDjJC_OwoJcvoenGrr5OJZhKD1A6Kg&s"
     },
     {
       "id": "cat_2",
       "name": "צפון תאילנד - הרים, תרבות ושבטים",
       "emoji": "⛰️",
       "desc": "הצפון ההררי עשיר בהיסטוריה, מפלים נסתרים, כפרים אותנטיים ונופים ירוקים אינסופיים. שילוב מנצח של תרבות וטבע.",
-      "image_url": "https://images.unsplash.com/photo-1513569771920-c9e1d31714cb?w=800"
+      "image_url": "https://www.elal.com/magazine/wp-content/uploads/2017/05/shutterstock_284505191.jpg"
     },
     {
       "id": "cat_3",
       "name": "מרכז תאילנד - קולינריה, טבע ואורבניות",
       "emoji": "🍜",
       "desc": "הלב הפועם של תאילנד. עיר שוקקת ולצידה שמורות טבע עשירות בבעלי חיים והיסטוריה מרתקת, נגישות מאוד בנסיעה.",
-      "image_url": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=800"
+      "image_url": "https://www.lametayel.co.il/limages/a044c7775c1085f1f52aff35c9200ed2.png?size=460x320"
     },
     {
       "id": "cat_4",
       "name": "יעדים פופולריים שאינם מומלצים להרכב זה",
       "emoji": "⚠️",
       "desc": "יעדים מוכרים בתאילנד שאינם מומלצים לטיול הנוכחי בשל מרחק רב מקאו סוק, חוסר התאמה לילדים צעירים או אופי בילוי שונה מהמבוקש.",
-      "image_url": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=800"
+      "image_url": "https://thaitours.co.il/wp-content/uploads/2024/05/pai-picture-scaled.jpg"
     }
   ],
   "destinations": [
@@ -37,84 +37,84 @@
       "categoryId": "cat_1",
       "name": "שמורת טבע קאו סוק",
       "desc": "פארק לאומי יפהפה המכיל את יער הגשם העתיק בעולם ואגם טורקיז עצום. חווית חובה לאוהבי טבע וחיות בר.",
-      "image_url": "https://images.unsplash.com/photo-1542640244-7e672d6cb466?w=800"
+      "image_url": "https://thaitours.co.il/wp-content/uploads/2025/06/WhatsApp-Image-2022-07-13-at-5.06.36-PM-1024x683.jpeg.webp"
     },
     {
       "id": "dest_1_2",
       "categoryId": "cat_1",
       "name": "קאו לאק (Khao Lak)",
       "desc": "יעד מושלם למשפחות בקרבת קאו סוק. חופים רחבים, טבע בתולי ואווירה רגועה בהרבה מפוקט השכנה.",
-      "image_url": "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgCiUX1D6PBytO_woNGwv8aOGsWKDMvteJMQ&s"
     },
     {
       "id": "dest_1_3",
       "categoryId": "cat_1",
       "name": "קו לנטה (Koh Lanta)",
       "desc": "אי משפחתי קלאסי בצד אנדמן. שטוח, מים רדודים, ונוח מאוד להתניידות עם ילדים קטנים.",
-      "image_url": "https://images.unsplash.com/photo-1537236585140-5e3669dc4e50?w=800"
+      "image_url": "https://cdn.audleytravel.com/1050/749/79/16028832-beach-on-koh-lanta.webp"
     },
     {
       "id": "dest_2_1",
       "categoryId": "cat_2",
       "name": "צ'יאנג מאי",
       "desc": "בירת הצפון. עיר רגועה המוקפת בהרים, מפורסמת במקדשיה, בחוות הפילים ובסצנת האוכל המקומית המעולה.",
-      "image_url": "https://images.unsplash.com/photo-1513569771920-c9e1d31714cb?w=800"
+      "image_url": "https://siam-tours.com/wp-content/uploads/2023/03/1-%D7%A6%D7%90%D7%A0%D7%92-%D7%9E%D7%90%D7%99_506152054.jpg"
     },
     {
       "id": "dest_2_2",
       "categoryId": "cat_2",
       "name": "הפארק הלאומי דוי אינתנון",
       "desc": "ההר הגבוה ביותר בתאילנד. מסלולי הליכה קלילים ביערות עננים, מפלים עצומים ופגודות מלכותיות.",
-      "image_url": "https://images.unsplash.com/photo-1518182170546-076616fdcbfe?w=800"
+      "image_url": "https://www.gotravel.co.il/userfiles/_big_8EA47FF2EFFB7F1FB45322EC97466549.jpg"
     },
     {
       "id": "dest_2_3",
       "categoryId": "cat_2",
       "name": "צ'יאנג דאו",
       "desc": "עיירה ציורית המוקפת צוקי אבן גיר ענקיים. מציעה מערות נטיפים, מעיינות חמים וטבע צפוני פראי ופחות ממוסחר.",
-      "image_url": "https://images.unsplash.com/photo-1590523278191-995cbcda646b?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/99/fa/ec/caption.jpg?w=1400&h=1400&s=1"
     },
     {
       "id": "dest_3_1",
       "categoryId": "cat_3",
       "name": "בנגקוק",
       "desc": "עיר הבירה המשלבת בין מזרח למערב. מקדשים על המים, אוכל רחוב, פארקים ענקיים ואטרקציות נהדרות לילדים.",
-      "image_url": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=800"
+      "image_url": "https://www.lametayel.co.il/limages/a044c7775c1085f1f52aff35c9200ed2.png?size=460x320"
     },
     {
       "id": "dest_3_2",
       "categoryId": "cat_3",
       "name": "קנצ'נבורי",
       "desc": "מחוז ירוק ממערב לבנגקוק. ידוע במפלי ארוואן המפורסמים, ספארי פתוח, וההיסטוריה של נהר הקוואי.",
-      "image_url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800"
+      "image_url": "https://www.lametayel-thailand.com/wp-content/uploads/2022/07/wsi-imageoptim-shutterstock_245223406.jpg"
     },
     {
       "id": "dest_3_3",
       "categoryId": "cat_3",
       "name": "שמורת קאו יאי (Khao Yai)",
       "desc": "הפארק הלאומי הוותיק בתאילנד, במרחק נסיעה מבנגקוק. סיכוי מצוין לראות פילים חופשיים, קופי גיבון ומפלים.",
-      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+      "image_url": "https://www.agoda.com/wp-content/uploads/2024/01/Featured-image-Haew-Narok-Waterfall-Khao-Yai-National-Park-1244x700.jpg"
     },
     {
       "id": "dest_4_1",
       "categoryId": "cat_4",
       "name": "פאי (Pai)",
       "desc": "הערה: פחות מומלץ. הדרך אליה מצ'יאנג מאי כוללת 762 סיבובים חדים - אתגר קשה לילדים בני 5 ו-7 הנוטים לבחילות.",
-      "image_url": "https://images.unsplash.com/photo-1516815231560-8f41ec531527?w=800"
+      "image_url": "https://mizrahnik.co.il/wp-content/uploads/2025/02/WhatsApp-Image-2025-02-25-at-11.06.25.webp"
     },
     {
       "id": "dest_4_2",
       "categoryId": "cat_4",
       "name": "פאטאיה (Pattaya)",
       "desc": "הערה: לא מתאים להרכב. עיר ממוסחרת מאוד המוכרת בעיקר בזכות חיי הלילה שלה. רחוקה מאוד מהוואיב של 'טיול טבע'.",
-      "image_url": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=800"
+      "image_url": "https://cdn.getyourguide.com/image/format=auto,fit=crop,gravity=auto,quality=60,width=400,height=265,dpr=2/tour_img/b968bb513b879288.jpeg"
     },
     {
       "id": "dest_4_3",
       "categoryId": "cat_4",
       "name": "קופנגן (Koh Phangan)",
       "desc": "הערה: פחות מומלץ. נמצאת בצד מפרץ תאילנד. מעבר מקאו סוק דורש נסיעות יבשתיות ומעבורות ארוכות שמעייפות ילדים.",
-      "image_url": "https://images.unsplash.com/photo-1537236585140-5e3669dc4e50?w=800"
+      "image_url": "https://img.hostelworldblog.com/blog/wp-content/uploads/2024/09/dreamstime_s_313562413.jpg"
     }
   ],
   "sites": [
@@ -124,7 +124,7 @@
       "name": "שייט באגם צ'או לאן",
       "desc": "שייט בסירה מסורתית בין צוקים נישאים מתוך מי הטורקיז. חובה לכל משפחה המבקרת בקאו סוק.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1542640244-7e672d6cb466?w=800"
+      "image_url": "https://thaitours.co.il/wp-content/uploads/2022/07/WhatsApp-Image-2022-07-13-at-5.47.20-PM-1024x683.jpeg"
     },
     {
       "id": "site_1_1_2",
@@ -132,7 +132,7 @@
       "name": "שייט קאנו בנהר סוק",
       "desc": "המדריך משיט אתכם ברוגע על הנהר, הזדמנות לחפש נחשים וקופים על העצים בבטחה.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?w=800"
+      "image_url": "https://www.lametayel.co.il/limages/900c4377ec0f8005b2360f30fc4cf8fa.jpg?type=r&size=0x656"
     },
     {
       "id": "site_1_1_3",
@@ -140,7 +140,7 @@
       "name": "מרכז הצלת פילים (ללא רכיבה)",
       "desc": "מפגש אתי בו הילדים יכולים להאכיל, ללטף ואפילו לרחוץ פילים בבוץ. מרגש וחינוכי.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?w=800"
+      "image_url": "https://www.lametayel-thailand.com/wp-content/uploads/2023/03/05-10-1200x675.jpg"
     },
     {
       "id": "site_1_1_4",
@@ -148,7 +148,7 @@
       "name": "סיור הליכה לילי בג'ונגל",
       "desc": "הרפתקה עם פנסים בשולי השמורה למציאת צפרדעים, חרקים זוהרים וחיות לילה.",
       "rating": "4.5/5",
-      "image_url": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=800"
+      "image_url": "https://isratours.net/wp-content/uploads/2025/01/%D7%A1%D7%A4%D7%90%D7%A8%D7%99-%D7%A7%D7%90%D7%95-%D7%A1%D7%95%D7%A7.jpg"
     },
     {
       "id": "site_1_1_5",
@@ -156,7 +156,7 @@
       "name": "סדנת בישול בג'ונגל",
       "desc": "בישול ארוחה תאילנדית בתוך צינורות במבוק על אש פתוחה בחיק הטבע. חוויה טעימה לכל המשפחה.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1559314809-0d155014e29e?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7IsDp59-TjtJPBunt3hknN_RpgpRPBbarMA&s"
     },
     {
       "id": "site_1_2_1",
@@ -164,7 +164,7 @@
       "name": "מרכז שימור צבי ים (חיל הים)",
       "desc": "ביקור בבסיס צבאי שבו משקמים צבים פצועים ומגדלים צבים צעירים עד לשחרורם לטבע.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?w=800"
+      "image_url": "https://arewethereyetkids.com/wp-content/uploads/2023/10/young_sea_turtles_khao_lak_turtle_sanctuary.jpg"
     },
     {
       "id": "site_1_2_2",
@@ -172,7 +172,7 @@
       "name": "האמזונס הקטן (Little Amazon)",
       "desc": "שייט קאנו בתעלות מים מתחת לעצי באניאן ענקיים דמויי מנגרובים. מתאים מאוד לקטנים.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1518182170546-076616fdcbfe?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZdgguiKKOES82VmFivloBULIp26eNDpU_tA&s"
     },
     {
       "id": "site_1_2_3",
@@ -180,7 +180,7 @@
       "name": "מפלי טון פלינג (Ton Pling)",
       "desc": "מפלים קטנים, יפים ונגישים מאוד. הילדים יכולים להשתכשך בבריכות הטבעיות בבטחה.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTueDj7hHhVW1T9nEI378ZMC8tFQNnZnZm2sw&s"
     },
     {
       "id": "site_1_2_4",
@@ -188,7 +188,7 @@
       "name": "שייט לאיי סימילאן (בעונה)",
       "desc": "יום קסום באיים היפים בתאילנד. מים צלולים ודגים צבעוניים שרואים כבר מהחוף הרדוד.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800"
+      "image_url": "https://www.lametayel-thailand.com/wp-content/uploads/2022/10/fixedw_large_4x.jpg"
     },
     {
       "id": "site_1_2_5",
@@ -196,7 +196,7 @@
       "name": "מוזיאון ספינת הצונאמי",
       "desc": "ספינת משמר שנסחפה קילומטרים לתוך היבשה בצונאמי ב-2004, המשמשת כאנדרטה חינוכית מרתקת.",
       "rating": "4.4/5",
-      "image_url": "https://images.unsplash.com/photo-1551868472-886ecf116530?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/44/f6/6f/tsunami-museum.jpg?w=900&h=500&s=1"
     },
     {
       "id": "site_1_3_1",
@@ -204,7 +204,7 @@
       "name": "מרכז רווחת החיות (Lanta Animal Welfare)",
       "desc": "מרכז הצלה לכלבים וחתולים עזובים. ילדים יכולים לסייר, ללמוד על הטיפול וללטף את החיות.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1570481662006-a3a1374699e8?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6dQ4j-5mybjhx7K_mtWlv3ZN4m2KQ71wTtA&s"
     },
     {
       "id": "site_1_3_2",
@@ -212,7 +212,7 @@
       "name": "פארק לאומי מו קו לנטה",
       "desc": "בקצה האי נמצא המגדלור המפורסם. ישנו מסלול טבע קצר, חופים יפים והרבה קופים (לשמור על החפצים).",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
+      "image_url": "https://cdn.getyourguide.com/image/format=auto,fit=crop,gravity=auto,quality=60,width=350,height=290/tour_img/64aa83bc006a3.jpeg"
     },
     {
       "id": "site_1_3_3",
@@ -220,7 +220,7 @@
       "name": "העיר העתיקה של לנטה",
       "desc": "בתי עץ סיניים מסורתיים הבנויים על כלונסאות מעל המים. אווירה שקטה, מזכרות ואוכל ים מעולה.",
       "rating": "4.5/5",
-      "image_url": "https://images.unsplash.com/photo-1518063032540-3b10b0e513a9?w=800"
+      "image_url": "https://cdn.getyourguide.com/img/tour/64b501ad8d172.jpeg/68.jpg"
     },
     {
       "id": "site_1_3_4",
@@ -228,7 +228,7 @@
       "name": "שייט לאי רוק (Koh Rok)",
       "desc": "הפלגה לאי קטן עם חול רך כקמח ומים מושלמים לשנירקול למתחילים - חוויה מדהימה לילדים.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1537236585140-5e3669dc4e50?w=800"
+      "image_url": "https://cdn.sanity.io/images/nxpteyfv/goguides/66bde740dd996ca61f8fe962660846b3a284cc71-1600x1067.jpg"
     },
     {
       "id": "site_1_3_5",
@@ -236,7 +236,7 @@
       "name": "חוף קלונג דאו (Klong Dao)",
       "desc": "החוף המשפחתי האולטימטיבי. רצועת חול רחבה מאוד, מים רדודים להמון מטרים קדימה, ושפע מסעדות משפחתיות.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800"
+      "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/330277501.jpg?k=9b13d4041b8bb206d0310d188b1c4dd88dcfd855d0cb7e3e80742ee74ca96312&o=&hp=1"
     },
     {
       "id": "site_2_1_1",
@@ -244,7 +244,7 @@
       "name": "מקדש דוי סוטפ",
       "desc": "מקדש מוזהב על ראש ההר המשקיף על צ'יאנג מאי. אפשר לעלות ברכבל במקום במדרגות, הילדים יאהבו את הפעמונים.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1590523278191-995cbcda646b?w=800"
+      "image_url": "https://p-thailand.co.il/wp-content/uploads/2021/01/Wat-Phra-That-Doi-Suthep-1024x536.jpg"
     },
     {
       "id": "site_2_1_2",
@@ -252,7 +252,7 @@
       "name": "שוק יום ראשון",
       "desc": "השוק הססגוני בעיר. המון אוכל רחוב, צעצועי עץ, נגני רחוב וגסטרונומיה מקומית מופלאה בערב.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1518063032540-3b10b0e513a9?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26lsn0L8FE4iYRKB-gv1WMy7hWwaMMlbM-w&s"
     },
     {
       "id": "site_2_1_3",
@@ -260,7 +260,7 @@
       "name": "כפר האומנים בוסאנג",
       "desc": "צפייה בייצור מטריות הנייר הצבעוניות של תאילנד. הילדים יכולים לצייר על מניפות ומטריות בעצמם.",
       "rating": "4.4/5",
-      "image_url": "https://images.unsplash.com/photo-1551868472-886ecf116530?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcIvu76x7M3d9kGjzBbWCJxFk9Ok0AyFzDsg&s"
     },
     {
       "id": "site_2_1_4",
@@ -268,7 +268,7 @@
       "name": "ספארי הלילה של צ'יאנג מאי",
       "desc": "פארק זואולוגי מרשים. נסיעה בקרוניות חשמליות בשעות הערב לפגוש חיות בר חופשיות מטווח אפס.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHRhacZ3h3DIESoeWFTehOuto2wukcEmBkkw&s"
     },
     {
       "id": "site_2_1_5",
@@ -276,7 +276,7 @@
       "name": "פארק המים טוב טרק (Tube Trek)",
       "desc": "אתנחתא מרעננת מהטבע - פארק מים ענק בסגנון חלל, מעולה כדי לתת לילדים לפרוק אנרגיות.",
       "rating": "4.5/5",
-      "image_url": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3BQigdsJtGelFcw7xDhAFKhCgzPtM0BuOkQ&s"
     },
     {
       "id": "site_2_2_1",
@@ -284,7 +284,7 @@
       "name": "פסגת דוי אינתנון",
       "desc": "הנקודה הגבוהה ביותר בתאילנד. הליכה קצרה וקרירה בתוך יער עננים מהאגדות.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1518182170546-076616fdcbfe?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnBDEBrh7nUO1A3Jqr7xsYtxQsbZgLHOYOnQ&s"
     },
     {
       "id": "site_2_2_2",
@@ -292,7 +292,7 @@
       "name": "הפגודות התאומות",
       "desc": "שתי פגודות מלכותיות המוקפות בגנים בוטניים יפהפיים. יש דרגנועים, כך שהעליה קלה מאוד לילדים.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1543781741-949449f10e42?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj90RHUd5_bG_6ADVAL9V9uwjA7lTeDoUGZQ&s"
     },
     {
       "id": "site_2_2_3",
@@ -300,7 +300,7 @@
       "name": "מפל וואצ'יראתן (Wachirathan)",
       "desc": "מפל אדיר ועוצמתי שניתן לצפות בו ממש מהחניה, ללא צורך בהליכה מאומצת. מרהיב במיוחד בעונת הגשמים.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs-rXwuSInZpa7XtCqyPsYnjDVmvLk6UX2rA&s"
     },
     {
       "id": "site_2_2_4",
@@ -308,7 +308,7 @@
       "name": "מפל סיריטאן (Sirithan)",
       "desc": "מפל נוסף ומרשים באזור, מוקף בצמחיית ג'ונגל עבותה ומאפשר תצפית מעץ טבעית.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0RRm9mFnJ0yxlJBRnKa_RMknBfYUj5dSpQ&s"
     },
     {
       "id": "site_2_2_5",
@@ -316,7 +316,7 @@
       "name": "שוק שבטי ההרים (Hmong Market)",
       "desc": "הזדמנות לקנות פירות אקזוטיים ופינוקים ישירות מהחקלאים של שבטי ההרים המקומיים.",
       "rating": "4.4/5",
-      "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGrIBMos0pS0g9GtyUJFSUp_oP1K0YZKlEEg&s"
     },
     {
       "id": "site_2_3_1",
@@ -324,7 +324,7 @@
       "name": "מערת צ'יאנג דאו",
       "desc": "מערת נטיפים עמוקה ומרשימה. חלקים ממנה מוארים וניתנים לחקירה בקלות עם מדריך עששית מקומי.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=800"
+      "image_url": "https://cdn.getyourguide.com/img/tour/baaa8c358d2ed596636f06ae99f57a3926a07e2326c1f1c38b73e843c6bef482.jpg/68.jpg"
     },
     {
       "id": "site_2_3_2",
@@ -332,7 +332,7 @@
       "name": "המעיינות החמים פונג ארנג (Pong Arng)",
       "desc": "בריכות טבעיות של מים חמים וצלולים בלב היער. נקי, מוסדר ומצוין לטבילה מרגיעה עם המשפחה.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
+      "image_url": "https://i0.wp.com/gotothailand.com/wp-content/uploads/2018/06/Pong-Arng-Hot-Spring-Chiang-Dao2.jpg?ssl=1"
     },
     {
       "id": "site_2_3_3",
@@ -340,7 +340,7 @@
       "name": "שייט רפסודות במבוק",
       "desc": "שייט ציורי ורגוע על נהר הפינג בעזרת רפסודות במבוק ארוכות שניווטות על ידי מקומיים.",
       "rating": "4.5/5",
-      "image_url": "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxwXuUntN0FL8BIIf75aRyTm7eWotUC1pLgQ&s"
     },
     {
       "id": "site_2_3_4",
@@ -348,7 +348,7 @@
       "name": "מקדש וואט טאם פה פלונג",
       "desc": "מקדש הבנוי בתוך סלע. העלייה אליו כוללת 500 מדרגות מוקפות בטבע ירוק, עם ציטוטים בודהיסטיים לאורך הדרך.",
       "rating": "4.4/5",
-      "image_url": "https://images.unsplash.com/photo-1590523278191-995cbcda646b?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm1BOeRDzjYj76_bc2d54YONOG7vkImq0IEg&s"
     },
     {
       "id": "site_2_3_5",
@@ -356,7 +356,7 @@
       "name": "כפר האומנים ושבטי פלונג",
       "desc": "מפגש עם תרבות מקומית נעימה ופחות מתוירת, סדנאות אריגה וקדרות מסורתיות.",
       "rating": "4.3/5",
-      "image_url": "https://images.unsplash.com/photo-1551868472-886ecf116530?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyTpgetqXZhamEidsF_nRlwU4nT0Wqsixe_Q&s"
     },
     {
       "id": "site_3_1_1",
@@ -364,7 +364,7 @@
       "name": "עולם הים בנגקוק (Sea Life)",
       "desc": "אקווריום ענק הממוקם ממש מתחת לקניון, עם מנהרת כרישים תת ימית, פינגווינים ויצורי ים מדהימים.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1570481662006-a3a1374699e8?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-YllmTP6VkbOXFtsBXF_hvcW8U5KtH4y8w&s"
     },
     {
       "id": "site_3_1_2",
@@ -372,7 +372,7 @@
       "name": "שייט בתעלות בנגקוק (Khlong Tour)",
       "desc": "שייט בסירת זנב-ארוך בתעלות העתיקות של העיר. אפשר להאכיל דגי שפמנון בנהר ולראות לטאות כוח שוחות.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1596484552834-6a58f850e0a1?w=800"
+      "image_url": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/10/5d/55/fb.jpg"
     },
     {
       "id": "site_3_1_3",
@@ -380,7 +380,7 @@
       "name": "פארק לומפיני",
       "desc": "הריאה הירוקה של בנגקוק. אפשר לשכור סירות פדלים בצורת ברבור ולפגוש לטאות כוח ענקיות המסתובבות חופשי.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/b8/3b/d3/lumpini-park-4.jpg?w=1200&h=-1&s=1"
     },
     {
       "id": "site_3_1_4",
@@ -388,7 +388,7 @@
       "name": "מוזיאון הילדים של בנגקוק",
       "desc": "מוזיאון חינמי לחלוטין עם מתחמי מים (להביא בגד ים!), חפירת דינוזאורים ומשחקי מדע לקטנים.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/44/b4/34/children-s-discovery.jpg?w=900&h=500&s=1"
     },
     {
       "id": "site_3_1_5",
@@ -396,7 +396,7 @@
       "name": "מקדש הבודהה השוכב (Wat Pho)",
       "desc": "מקדש שבו שוכן פסל בודהה זהב עצום באורך 46 מטר. חוויה ויזואלית שמרשימה מאוד ילדים.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1543781741-949449f10e42?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIDTzgAMzuf5AAUE-ScY91Ca3VfXH3xrOnjw&s"
     },
     {
       "id": "site_3_2_1",
@@ -404,7 +404,7 @@
       "name": "מפלי ארוואן (Erawan Falls)",
       "desc": "אחד המפלים היפים בתאילנד עם שבעה מפלסים של בריכות טורקיז, שניתן להתרחץ ולגלוש בהן בטבעיות.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfFoTjIKsK3ZPG6GstjkcjKhrpRXgLFTUOCA&s"
     },
     {
       "id": "site_3_2_2",
@@ -412,7 +412,7 @@
       "name": "ספארי פארק קנצ'נבורי",
       "desc": "גן חיות פתוח שבו נוסעים באוטובוס והג'ירפות מכניסות את הראש מהחלון כדי לאכול גזרים מהידיים שלכם.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/98/01/d9/caption.jpg?w=500&h=500&s=1"
     },
     {
       "id": "site_3_2_3",
@@ -420,7 +420,7 @@
       "name": "שייט רפסודות קלאסי בנהר הקוואי",
       "desc": "פעילות מרגיעה לכל המשפחה של שייט ציורי על הנהר ההיסטורי עם נופים ירוקים משני הצדדים.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?w=800"
+      "image_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482670479.jpg?k=83ea3e4d1017ddb078a4b3ca4cbd81864a6d91360d5473085eac2791d11aa6e9&o="
     },
     {
       "id": "site_3_2_4",
@@ -428,7 +428,7 @@
       "name": "הגשר על נהר הקוואי",
       "desc": "הליכה על הגשר ההיסטורי המפורסם והצטלמות עליו, לעיתים חולפת רכבת איטית ליד המבקרים.",
       "rating": "4.5/5",
-      "image_url": "https://images.unsplash.com/photo-1543781741-949449f10e42?w=800"
+      "image_url": "https://yourthaiguide.com/wp-content/uploads/2012/10/bridge-over-the-river-kwai.webp"
     },
     {
       "id": "site_3_2_5",
@@ -436,7 +436,7 @@
       "name": "מערת קראסה (Krasae Cave)",
       "desc": "מערה עם פסל בודהה ממש על פסי הרכבת הצמודים לתהום, נוף נהדר ותחושה של הרפתקה.",
       "rating": "4.4/5",
-      "image_url": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3bp4JFBygoaVs8ZvjTaGFAmyrnhF8AphZzQ&s"
     },
     {
       "id": "site_3_3_1",
@@ -444,7 +444,7 @@
       "name": "סיור צפייה בחיות בר קאו יאי",
       "desc": "נסיעה בשמורה הפתוחה, סיכוי מעולה לפגוש בטבע פילים, קופים, צבאים ואפילו ציפורי קלאו ציוריות.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1542640244-7e672d6cb466?w=800"
+      "image_url": "https://cdn.getyourguide.com/image/format=auto,fit=crop,gravity=center,quality=60,width=400,height=265,dpr=2/tour_img/62039d2221274.jpeg"
     },
     {
       "id": "site_3_3_2",
@@ -452,7 +452,7 @@
       "name": "מפל האו סוואט (Haew Suwat)",
       "desc": "המפל המפורסם שבו צולם הסרט 'החוף'. נגיש בהליכה קצרה בתוך הג'ונגל, מראה מרשים של מים נופלים.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800"
+      "image_url": "https://images.locationscout.net/2018/06/haew-suwat-waterfall-thailand.webp?h=1400&q=80"
     },
     {
       "id": "site_3_3_3",
@@ -460,7 +460,7 @@
       "name": "חוות פרימו פיאצה (Primo Piazza)",
       "desc": "חווה איטלקית כפרית בלב תאילנד. הילדים יכולים להאכיל אלפקות, כבשי מרינו וחמורים ידידותיים.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1551868472-886ecf116530?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ19CUz_-nHeMFjU6rqon0ZjsCHSNEQe-T0yg&s"
     },
     {
       "id": "site_3_3_4",
@@ -468,7 +468,7 @@
       "name": "תצפית פה דיאו דאי (Pha Diao Dai)",
       "desc": "שביל דק-עץ נוח המוביל לתצפית צוק עוצרת נשימה על יערות הפארק מגבוה.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtTT2Cjz4cMuoZz4xkbKUB7r4Va7_5YabuLA&s"
     },
     {
       "id": "site_3_3_5",
@@ -476,7 +476,7 @@
       "name": "שוק הלילה של פאק צ'ונג",
       "desc": "שוק מקומי אותנטי מחוץ לשמורה, מושלם לסיום יום הטבע עם אוכל רחוב מצוין וגסטרונומיה מקומית.",
       "rating": "4.5/5",
-      "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-sELq_jKL53ytMR5vrymSUvN9k113qJ7FCw&s"
     },
     {
       "id": "site_4_1_1",
@@ -484,7 +484,7 @@
       "name": "קניון פאי (Pai Canyon)",
       "desc": "מסלול הליכה צר על רכסי אבן חול ללא מעקות בטיחות מעל תהום (מסוכן לילדים קטנים).",
       "rating": "4.5/5",
-      "image_url": "https://images.unsplash.com/photo-1516815231560-8f41ec531527?w=800"
+      "image_url": "https://shippedaway.com/wp-content/uploads/2024/02/Pai-Canyon-Thailand-13.jpg"
     },
     {
       "id": "site_4_1_2",
@@ -492,7 +492,7 @@
       "name": "המעיינות החמים פאי",
       "desc": "מים רותחים בבריכות העליונות, לעיתים חם מדי עבור עורם העדין של ילדים.",
       "rating": "4.3/5",
-      "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJZ2zHYIMwUcs3mm3sN4KcouBkl_JldP_6JQ&s"
     },
     {
       "id": "site_4_1_3",
@@ -500,7 +500,7 @@
       "name": "גשר הזיכרון של פאי",
       "desc": "נקודת עצירה לתמונות, אך פחות מעניין או מרגש עבור הילדים.",
       "rating": "4.2/5",
-      "image_url": "https://images.unsplash.com/photo-1543781741-949449f10e42?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtbcxyNhaLITC1qMi2ubh7Qvf4JPVDrY1xLw&s"
     },
     {
       "id": "site_4_1_4",
@@ -508,7 +508,7 @@
       "name": "מפל מור פאנג",
       "desc": "מפל סלעי שמשמש כמגלשת מים טבעית, אך עלול להיות מסוכן עקב החלקה.",
       "rating": "4.4/5",
-      "image_url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800"
+      "image_url": "https://thailandbalev.co.il/wp-content/uploads/2024/09/2560px-Mo_Paeng_Waterfall_Mae_Hong_Son_Thailand.jpg"
     },
     {
       "id": "site_4_1_5",
@@ -516,7 +516,7 @@
       "name": "הכפר הסיני (Santichon)",
       "desc": "כפר תיירותי עם נדנדות עץ, נחמד אך ממוסחר מאוד ולא שווה את הדרך הקשה לפאי.",
       "rating": "4.1/5",
-      "image_url": "https://images.unsplash.com/photo-1551868472-886ecf116530?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGY54pvYf1FYLI3leqriWDTveYZN3TUy8bg&s"
     },
     {
       "id": "site_4_2_1",
@@ -524,7 +524,7 @@
       "name": "מדרחוב פאטאיה (Walking Street)",
       "desc": "רחוב הבילויים והמועדונים של תאילנד. אינו מתאים בשום פנים ואופן לילדים.",
       "rating": "4.0/5",
-      "image_url": "https://images.unsplash.com/photo-1517400508447-f8dd518b86e3?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/43/44/db/photo0jpg.jpg?w=900&h=500&s=1"
     },
     {
       "id": "site_4_2_2",
@@ -532,7 +532,7 @@
       "name": "מקדש האמת (Sanctuary of Truth)",
       "desc": "מבנה עץ אדיר ממדים, יפה ארכיטקטונית אך עלול לשעמם ילדים בני 5 ו-7 במהירות.",
       "rating": "4.5/5",
-      "image_url": "https://images.unsplash.com/photo-1590523278191-995cbcda646b?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRab5IU81rh2o_Am9AOPDCu8OJVIBAIyv6pNw&s"
     },
     {
       "id": "site_4_2_3",
@@ -540,7 +540,7 @@
       "name": "הגן הבוטני נונג נוצ'",
       "desc": "גנים יפים אך עצומים וחסרי צל ברובם, כוללים פעילויות רכיבה על פילים שפחות תואמות ל'טבע מתגלגל' אתי.",
       "rating": "4.3/5",
-      "image_url": "https://images.unsplash.com/photo-1518182170546-076616fdcbfe?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGYFyF7zSgLg6IQ07yupWzt5gwzyJOE2p1jA&s"
     },
     {
       "id": "site_4_2_4",
@@ -548,7 +548,7 @@
       "name": "השוק הצף פאטאיה",
       "desc": "מוקם במיוחד עבור תיירים. ממוסחר ועמוס מאוד, פחות אותנטי משווקים אחרים.",
       "rating": "4.1/5",
-      "image_url": "https://images.unsplash.com/photo-1518063032540-3b10b0e513a9?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/53/6d/b7/pattaya-floating-market.jpg?w=900&h=-1&s=1"
     },
     {
       "id": "site_4_2_5",
@@ -556,7 +556,7 @@
       "name": "פארק המים רמאיאנה",
       "desc": "פארק מים מצוין, אך ניתן למצוא חלופות דומות באזורים מתאימים יותר לטיול.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1502680390469-be75c86b636f?w=800"
+      "image_url": "https://thailand-express.com/wp-content/uploads/2025/02/Photo_3.png.webp"
     },
     {
       "id": "site_4_3_1",
@@ -564,7 +564,7 @@
       "name": "מסיבת הפול מון - האד רין",
       "desc": "מסיבות חוף רועשות עם אלכוהול לצעירים, רחוק מאוד מהאווירה המשפחתית.",
       "rating": "4.2/5",
-      "image_url": "https://images.unsplash.com/photo-1517400508447-f8dd518b86e3?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGsUlgiw3lSjW-cYw6CAX9kUrAUTbB3KJnaQ&s"
     },
     {
       "id": "site_4_3_2",
@@ -572,7 +572,7 @@
       "name": "הפארק הלאומי הימי אנג טונג",
       "desc": "יפהפה, אך השייט לשם בסירה מהירה ארוך ועלול לגרום למחלת ים לילדים צעירים.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1537236585140-5e3669dc4e50?w=800"
+      "image_url": "https://p-thailand.co.il/wp-content/uploads/2021/01/Angthong-National-Marine-Park.jpg"
     },
     {
       "id": "site_4_3_3",
@@ -580,7 +580,7 @@
       "name": "מפל פאנג וואנג (Phaeng)",
       "desc": "מצריך הליכה תלולה בג'ונגל שלעיתים בעונות יבשות אין בו מים כלל.",
       "rating": "4.1/5",
-      "image_url": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuF06dlOGAnROEEK0s-4cGbWzz8QipSJmc1g&s"
     },
     {
       "id": "site_4_3_4",
@@ -588,7 +588,7 @@
       "name": "חוף מליבו (Malibu Beach)",
       "desc": "חוף יפה, אבל אינו מצדיק את הלוגיסטיקה המסובכת של הגעה לאי מהצד המערבי.",
       "rating": "4.4/5",
-      "image_url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800"
+      "image_url": "https://img.freepik.com/premium-photo/palms-sand-malibu-beach-koh-phangan-island-suratthani_652249-676.jpg"
     },
     {
       "id": "site_4_3_5",
@@ -596,7 +596,7 @@
       "name": "שוק הלילה תונג סלה",
       "desc": "שוק אוכל נחמד, אך השווקים בצ'יאנג מאי ובבנגקוק הרבה יותר עשירים ומגוונים.",
       "rating": "4.3/5",
-      "image_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800"
+      "image_url": "https://photos.smugmug.com/Walking-Street-Market-Thong-Sa/i-Md7bxmv/0/eae647a2/X3/Saturday-Walking-Street-Market-Thong-Sala-July-30-2016-Koh-Phangan-015-X3.jpg"
     }
   ]
 }
