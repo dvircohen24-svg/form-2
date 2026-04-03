@@ -1,0 +1,414 @@
+{
+  "userEmail": "",
+  "destination": "תאילנד",
+  "categories": [
+    {
+      "desc": "קטגוריה זו מתמקדת בנופים עוצרי נשימה, פעילויות חוץ מרגשות, טיולים רגליים בג'ונגלים, מפלים נסתרים וחוויות טבע בלתי נשכחות המתאימות למשפחות ואוהבי אקסטרים.",
+      "emoji": "🏞️",
+      "id": "cat_1",
+      "image_keyword": "thailand jungle lake landscape",
+      "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=900",
+      "name": "טבע והרפתקאות"
+    },
+    {
+      "desc": "חוויה מעמיקה של המורשת העשירה של תאילנד, כולל מקדשים עתיקים, ארמונות מלכותיים, שווקים מסורתיים וסיפורים מהעבר.",
+      "emoji": "🏯",
+      "id": "cat_2",
+      "image_keyword": "thai ancient temple",
+      "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=900",
+      "name": "תרבות והיסטוריה"
+    },
+    {
+      "desc": "מסע גסטרונומי אל לב המטבח התאילנדי המפורסם, מסעדות מקומיות, שווקי רחוב צבעוניים ואינטראקציה עם האוכלוסייה המקומית.",
+      "emoji": "🍜",
+      "id": "cat_3",
+      "image_keyword": "thai street food market",
+      "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=900",
+      "name": "חוויה קולינרית וחיי מקום"
+    },
+    {
+      "desc": "יעדים המציעים פעילויות מהנות לכל המשפחה, חופים רגועים, בריכות שחייה ואטרקציות ידידותיות לילדים המאפשרות שילוב של מנוחה וכיף.",
+      "emoji": "👨‍👩‍👧‍👦",
+      "id": "cat_4",
+      "image_keyword": "thailand family beach resort",
+      "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=900",
+      "name": "כיף משפחתי ורוגע"
+    }
+  ],
+  "destinations": [
+    {
+      "categoryId": "cat_1",
+      "desc": "שמורה טרופית מהממת הכוללת יער גשם עתיק, צוקי גיר דרמטיים ואגם צ'או לנג הציורי. חובה לראות, מציעה לינה בבתי רפסודות, שיט קיאקים, וטרקים בג'ונגל, מתאים לכל המשפחה עם אופציות רגועות יותר לילדים צעירים.",
+      "id": "dest_1",
+      "image_keyword": "khao sok lake jungle",
+      "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=900",
+      "name": "שמורת קאו סוק (Khao Sok National Park)"
+    },
+    {
+      "categoryId": "cat_2",
+      "desc": "בירת הצפון התרבותית, מציעה שילוב מנצח של מקדשים עתיקים, שווקי לילה תוססים, סדנאות בישול ואפשרויות למפגש עם פילים. ישנם גם מסלולי טבע באזור והרפתקאות כמו אומגות (למבוגרים). ידידותי מאוד למשפחות.",
+      "id": "dest_2",
+      "image_keyword": "chiang mai old city temple",
+      "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=900",
+      "name": "צ'יאנג מאי (Chiang Mai)"
+    },
+    {
+      "categoryId": "cat_2",
+      "desc": "עיר הבירה התוססת של תאילנד, שבה הישן פוגש את החדש. בקרו בארמון המלכותי, במקדשי הבודהה השונים, שוטו בתעלות וטעמו אוכל רחוב מדהים. עם ילדים קטנים מומלץ לתכנן את הביקור בקפידה ולהתמקד באטרקציות המתאימות.",
+      "id": "dest_3",
+      "image_keyword": "bangkok grand palace street",
+      "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=900",
+      "name": "בנגקוק (Bangkok)"
+    },
+    {
+      "categoryId": "cat_1",
+      "desc": "אזור הדרום המפורסם בצוקי הגיר האדירים, החופים הלבנים והאיים הקסומים. אידיאלי לשייט בין איים (עם אופציות למשפחות), שנורקלינג, קיאקים ורחצה בחופים. מציע איזון בין טבע מרהיב וכיף משפחתי.",
+      "id": "dest_4",
+      "image_keyword": "krabi limestone beach",
+      "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=900",
+      "name": "קראבי / אאו נאנג (Krabi / Ao Nang)"
+    },
+    {
+      "categoryId": "cat_2",
+      "desc": "בירתה העתיקה של תאילנד, אתר מורשת עולמית של אונסק\"ו, המציעה מקדשים הרוסים ופסלי בודהה עצומים. ניתן לשכור אופניים ולסייר באתר (אפשרי עם ילדים גדולים יותר או עם עגלה צמודה).",
+      "id": "dest_5",
+      "image_keyword": "ayutthaya historical park",
+      "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=900",
+      "name": "איוטאיה (Ayutthaya)"
+    },
+    {
+      "categoryId": "cat_1",
+      "desc": "אזור מערב תאילנד המשלב היסטוריה מרתקת (גשר על נהר קוואי, מוזיאונים מתקופת מלחמת העולם השנייה) עם טבע עוצר נשימה (מפלי ארוואן המפורסמים, מערות ונהרות). מציע פעילויות חוץ רגועות יותר המתאימות למשפחות.",
+      "id": "dest_6",
+      "image_keyword": "erawan waterfall kanchanaburi",
+      "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=900",
+      "name": "קנצ'נבורי (Kanchanaburi)"
+    }
+  ],
+  "sites": [
+    {
+      "desc": "חוויה בלתי נשכחת של שייט בין צוקי גיר דרמטיים, חקר מערות נסתרות ולינה ייחודית בבונגלוס צפים על מי הטורקיז של האגם. פנינת טבע עוצרת נשימה. (טבע, נופים)",
+      "destinationId": "dest_1",
+      "id": "dest_1_site_1",
+      "image_url": "https://lh3.googleusercontent.com/places/ANXAkqHIoCaCA5LeLsiZRiVkq0e3ymFA8K3OWfzzWO0u_m4CLkW0rc9Kc3Hz54LFomrHV1EiHnfqjpDnpkmQEH9TXj7TI8kXnGp9zb8=s1600-w800",
+      "name": "שייט באגם צ'יאו לאן ולינה בבונגלוס צפים",
+      "name_en": "Cheow Lan Lake Boat Tour & Floating Bungalows",
+      "rating": "4.9/5"
+    },
+    {
+      "desc": "צאו למסע רגלי מרתק בלב יער הגשם העתיק בעולם, גלו צמחייה עשירה, מפלים נסתרים ואולי אף תפגשו חיות בר בסביבתן הטבעית. (טבע, נופים)",
+      "destinationId": "dest_1",
+      "id": "dest_1_site_2",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNF1dO7OhoSUweg0kNQ47yd18EAGsZjJwRahAEcQnbJEd7fh4yHsZtz0xlbQkMuXIYukKgkDiVCXToVwVMCOelUbx-qRalqx_mkXDdhyWCDTjT7e0DyjEmjnWVnPEi-l1zxTndKS_i1MSR98wWY=s1600-w800",
+      "name": "טרקים בג'ונגל של הפארק הלאומי קאו סוק",
+      "name_en": "Jungle Trekking in Khao Sok National Park",
+      "rating": "4.7/5"
+    },
+    {
+      "desc": "דרך רגועה ומהנה לחקור את נופי הנהר והג'ונגל שמסביב, כשאתם צפים בשלווה על המים ונהנים מהשקט והיופי הטבעי. (טבע, נופים)",
+      "destinationId": "dest_1",
+      "id": "dest_1_site_3",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNF1dO7OhoSUweg0kNQ47yd18EAGsZjJwRahAEcQnbJEd7fh4yHsZtz0xlbQkMuXIYukKgkDiVCXToVwVMCOelUbx-qRalqx_mkXDdhyWCDTjT7e0DyjEmjnWVnPEi-l1zxTndKS_i1MSR98wWY=s1600-w800",
+      "name": "שייט קיאקים או אבובים בנהר קאו סוק",
+      "name_en": "Kayaking or Tubing on Khao Sok River",
+      "rating": "4.6/5"
+    },
+    {
+      "desc": "תצפית פנורמית מרהיבה על נופי הג'ונגל הפראיים וצוקי הגיר הייחודיים המזדקרים מעל יער הגשם. מושלם לצילומים. (נופים)",
+      "destinationId": "dest_1",
+      "id": "dest_1_site_4",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNF1dO7OhoSUweg0kNQ47yd18EAGsZjJwRahAEcQnbJEd7fh4yHsZtz0xlbQkMuXIYukKgkDiVCXToVwVMCOelUbx-qRalqx_mkXDdhyWCDTjT7e0DyjEmjnWVnPEi-l1zxTndKS_i1MSR98wWY=s1600-w800",
+      "name": "נקודת התצפית של קאו סוק",
+      "name_en": "Khao Sok Viewpoint",
+      "rating": "4.5/5"
+    },
+    {
+      "desc": "התנסו בטעמים האותנטיים של תאילנד בשיעור בישול מעשי. למדו להכין מנות מסורתיות מחומרי גלם טריים והביאו הביתה פיסה מהתרבות הקולינרית המקומית. (גסטרונומיה, תרבות)",
+      "destinationId": "dest_1",
+      "id": "dest_1_site_5",
+      "image_url": "https://lh3.googleusercontent.com/places/ANXAkqE7eumBH66UnkN8Lm_5RxjZUtmagFTxW9MlW21s8ktARCTViLp7H5kZnj6LoXIGqRG5fbQqYI0t7YDuwohoi52w4BiPseWUYPU=s1600-w638",
+      "name": "שיעור בישול תאילנדי מקומי",
+      "name_en": "Local Thai Cooking Class",
+      "rating": "4.8/5"
+    },
+    {
+      "desc": "חוויה מרגשת וחינוכית במקלט המוקדש לרווחת הפילים. למדו על אורח חייהם, האכילו אותם וצפו בהם בסביבה טבעית ומכבדת, ללא רכיבה. (טבע, תרבות, היסטוריה - דרך סיפור הפילים)",
+      "destinationId": "dest_1",
+      "id": "dest_1_site_6",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNH-DpgkPnrEMSNVxiB6xSYglZFIRSqPsEtJBJbMm3B3BkGvlozjMKAES6UAw5hwiamT0aEy0qcEUinqqkGmMIs8F3fz0K07aDlKfSeECrLfJb_dlVCsDE6tHpALDkx0DqIlnItIYAWIVB58RQ=s1600-w800",
+      "name": "ביקור במקלט פילים אתי",
+      "name_en": "Ethical Elephant Sanctuary Visit",
+      "rating": "4.8/5"
+    },
+    {
+      "desc": "מקדש בודהיסטי מרהיב בראש ההר, מציע נופים עוצרי נשימה של צ'יאנג מאי וחוויה רוחנית עמוקה, אבן דרך תרבותית והיסטורית.",
+      "destinationId": "dest_2",
+      "id": "dest_2_site_1",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNHgCv_bj_j2TNR7hCvMRiTqjGE2yZbNIfZU6brdUwU7lRq9djbtpJeJvwdDX_1IMLkjMjW6_lx0HNWMs1vkThyw3WW2VD1lJoNyboZ4yPy1SyrGDvUDuSUO2eA6BNbQPaxJm0XE-BCQDXmRGfo=s1600-w800",
+      "name": "וואט פרה טאט דוי סוטפ",
+      "name_en": "Wat Phra That Doi Suthep",
+      "rating": "4.8/5"
+    },
+    {
+      "desc": "חקור את ליבה ההיסטורי של צ'יאנג מאי עם מקדשים עתיקים ומרשימים המשמרים את תרבות לאנה המפוארת.",
+      "destinationId": "dest_2",
+      "id": "dest_2_site_2",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNEATSlwIPObwbUOO7960fE5w1pW-QEQjpUhbzP9645jHRydGVHgoqWai-tgHmxeCEfeAiGxu0DO7a4mmI5LdO-l7LnI9Qm7jDhd_6A6VDWB-qQAnKwEd1bBoOLZuZfZAEodbCqy1Fcs1M9JMQ=s1600-w800",
+      "name": "מקדשי העיר העתיקה (וואט צ'די לואנג, וואט פרה סינג)",
+      "name_en": "Wat Chedi Luang and Wat Phra Singh Temples",
+      "rating": "4.7/5"
+    },
+    {
+      "desc": "הפסגה הגבוהה ביותר בתאילנד, מציעה מפלים מרהיבים, גנים מלכותיים, שבילי טבע ונופים עוצרי נשימה המשלבים טבע ותרבות.",
+      "destinationId": "dest_2",
+      "id": "dest_2_site_3",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNFo70d0HeNzlX2Qq4AqGyFFqUuyrBCrO71sPmOgoartY356b8r7UNM1KOBvyKUuFVAXJVbqKv-sFffnDrFm35JgaFOs9GdmNVMqmVwqtPWNmFQTr8waZC9SQGeT_Vmabe-X2YyjsJujtVdKiw=s1600-w751",
+      "name": "הפארק הלאומי דוי אינתאנון",
+      "name_en": "Doi Inthanon National Park",
+      "rating": "4.9/5"
+    },
+    {
+      "desc": "חוויה מרגשת ובלתי נשכחת עם פילים במקלט אתי, תוך למידה על שימור וטיפול בהם בסביבה טבעית.",
+      "destinationId": "dest_2",
+      "id": "dest_2_site_4",
+      "image_url": "https://lh3.googleusercontent.com/places/ANXAkqF1psOhczQ28hSsIElEvwwT8Axg3BHh6nbYIntlH09X8EMcNcTuCHm9Jy0VnwND-lvcxChX4CRHJ_ur5aPgr-pnevXot-aVdN0=s1600-w800",
+      "name": "מקלט פילים אתי (לדוגמה, Elephant Nature Park)",
+      "name_en": "Ethical Elephant Sanctuary (e.g., Elephant Nature Park)",
+      "rating": "4.9/5"
+    },
+    {
+      "desc": "למד להכין מנות תאילנדיות מסורתיות עם מרכיבים טריים, ובסיום תיהנה מארוחה מעשה ידיך. חוויה גסטרונומית ותרבותית מושלמת.",
+      "destinationId": "dest_2",
+      "id": "dest_2_site_5",
+      "image_url": "https://lh3.googleusercontent.com/places/ANXAkqE1vJZRd2GkHfuxLBpHoz8YBx2WOKs5oE6cPk4x1hx-wwaj1fA3KzpcqORILmNZ7Z7SZ3ormVork9TpKTKuYDJu36ty9lPUcD8=s1600-w504",
+      "name": "סדנת בישול תאילנדית",
+      "name_en": "Thai Cooking Class",
+      "rating": "4.9/5"
+    },
+    {
+      "desc": "שוק מקומי אותנטי המציע חוויה קולינרית ותרבותית עשירה, עם מגוון אוכל רחוב, פירות, ירקות טריים ותבלינים.",
+      "destinationId": "dest_2",
+      "id": "dest_2_site_6",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNGImQ2ueHp-bQRxgzwmd2iqmD-aWsSXXEKoqC3GHH_may-tAUyEmdI36qJ1zzRKAC5Bv2MN-qWGfjo9cvC0OyFmK7UDqRA6bz9wXgjjBQcIHcUUlDFocS-4uOSWQqsaciUh7RQc1QeBA_vHKQ=s1600-w800",
+      "name": "שוק וורורוט (קאד לואנג)",
+      "name_en": "Warorot Market (Kad Luang)",
+      "rating": "4.6/5"
+    },
+    {
+      "desc": "חוויה תרבותית תוססת עם דוכני אוכל רחוב, מלאכות יד, מזכרות ומופעי רחוב באווירה לילית קסומה.",
+      "destinationId": "dest_2",
+      "id": "dest_2_site_7",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNH4P4YxFlNB1s27MMu4fw2Cn12lsfoZpxkwWlDSuu8bZcYh1jyQH3KK4nAdRMSTigtwd6Jvof8xEquPd7cXk5zqHoQnM8kVVYMOaAm5AT9NjPSUeibrxsInyTjXh5uxIHa-ticvqjGKByMVzYA=s1600-w800",
+      "name": "שוק הלילה של צ'יאנג מאי / שוק יום ראשון",
+      "name_en": "Chiang Mai Night Bazaar / Sunday Walking Street",
+      "rating": "4.5/5"
+    },
+    {
+      "desc": "מתחם ארמונות מפואר ומקדש בודהה האזמרגד, מוקד רוחני והיסטורי מהחשובים בתאילנד, המציג אדריכלות תאילנדית מרהיבה.",
+      "destinationId": "dest_3",
+      "id": "dest_3_site_1",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNEY8arBsV-YceO9Ju7uupVtb08cTwp96lPGOpOw_dAPrb7SYHcKCzOsNtXaAAWOCT8oIrIATjT6u_O2je9U58seqIPszavTvlViHjPPYAZEKqR3Rfd24AwvRQXHmsnJswETRb33lZzHb4Tqx4c=s1600-w800",
+      "name": "הארמון הגדול ומקדש בודהה האזמרגד (וואט פרה קאו)",
+      "name_en": "The Grand Palace and Wat Phra Kaeo (Temple of the Emerald Buddha)",
+      "rating": "4.7/5"
+    },
+    {
+      "desc": "מקדש איקוני על גדות נהר הצ'או פראיה, המפורסם במגדל הפאנג'ים המעוטר בקרמיקה צבעונית, ומציע נופים עוצרי נשימה במיוחד בשקיעה.",
+      "destinationId": "dest_3",
+      "id": "dest_3_site_2",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNEMptZ1IWyEAzEayvH_ckoGkHOlFRi-g_lHxzkvimASEGLiGaDl2Z9hMQZu3SgQDoOEfizD7_LCU72xglApBqpwa_5LU8b8VbCzxH81fc9k0HEdrOOiPJeSk3trJ2WHF_X374BbTS0nLazIAyYGF-QIrw=s1600-w800",
+      "name": "מקדש ואט ארון (מקדש השחר)",
+      "name_en": "Wat Arun Ratchawararam Ratchawaramahawihan (Temple of Dawn)",
+      "rating": "4.6/5"
+    },
+    {
+      "desc": "ביתו של פסל בודהה השוכב הענק והמרשים, אחד המקדשים העתיקים והגדולים בבנגקוק, ואף מקום הולדתו של העיסוי התאילנדי המסורתי.",
+      "destinationId": "dest_3",
+      "id": "dest_3_site_3",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNFCu5t-lZrpOsES3zLf-APE2wCQhkNI7wACN1Kn8c3QFuo-UzP9EGttQYTsFvss_GI8GLLHdGYETmPvvNVLMYM_0J2Ea0d0uywiaQrIaqHHG5ABhE1ABOh4GgUJ-NmEh95U6O3iuNyIYyxZhhexN6gTnQ=s1600-w800",
+      "name": "מקדש ואט פו (בודהה השוכב)",
+      "name_en": "Wat Pho (Temple of the Reclining Buddha)",
+      "rating": "4.6/5"
+    },
+    {
+      "desc": "חוויה קולינרית תוססת וצבעונית בשכונת צ'יינה טאון ההיסטורית, עם מגוון אינסופי של מאכלי רחוב אותנטיים וטעמים מיוחדים.",
+      "destinationId": "dest_3",
+      "id": "dest_3_site_4",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNEdavzYtOL715C5DtslmJjlznIHmWqR4SKws2YXkRoMqT2B0AGjG1ilS7Hwu8ra2T3kJ5ij6AQn2O98O_AOz4GmmuWDg2olTAR4aIJqU9MlyoX3d_aXQYTO08XdGUXOE7UKkXFe3eQsEZNmlg=s1600-w800",
+      "name": "צ'יינה טאון (יאווראט) - סיור קולינרי",
+      "name_en": "Yaowarat (Bangkok Chinatown) Street Food Tour",
+      "rating": "4.5/5"
+    },
+    {
+      "desc": "שייט רומנטי על נהר הצ'או פראיה, המשלב ארוחת ערב משובחת עם נופים ליליים מרהיבים של האתרים ההיסטוריים המוארים של בנגקוק.",
+      "destinationId": "dest_3",
+      "id": "dest_3_site_5",
+      "image_url": "https://lh3.googleusercontent.com/places/ANXAkqH20aCphPGkoKdCGtxDnGFsfYWD0yUWoA80KYnleKIOVE_smnsSIA9a84bia6ozypM__gbEBePqsKlZpLwD6X5Dm6sLbV_ZdF4=s1600-w800",
+      "name": "שייט ארוחת ערב בנהר צ'או פראיה",
+      "name_en": "Chao Phraya River Dinner Cruise",
+      "rating": "4.4/5"
+    },
+    {
+      "desc": "מוזיאון היסטורי המציג את ביתו המסורתי של איש העסקים האמריקאי שתרם לתעשיית המשי התאילנדית, מוקף בגנים טרופיים יפים ואמנות אסייתית.",
+      "destinationId": "dest_3",
+      "id": "dest_3_site_6",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNEEv_pkDt4iXM3SF1T_GnFUW43Rugg-aYL4lUgvtAK7ZyG4r1k5H00KxM7bs-_Vh7styzuTUm1fkuNIgbYgoNAw-ftsFW4TKlf8rjFm76DOxEyGZIfkiSMrwz0MkfHp1oKPZrAiuYyX9itrbw=s1600-w800",
+      "name": "בית ג'ים תומפסון",
+      "name_en": "Jim Thompson House Museum",
+      "rating": "4.5/5"
+    },
+    {
+      "desc": "אחד החופים המפורסמים והיפים ביותר בתאילנד, המוקף בצוקי גיר דרמטיים ומציע נופים עוצרי נשימה, מסלולי טיפוס והזדמנויות לשחייה ושנורקלינג. גישה רק באמצעות סירת לונגטייל.",
+      "destinationId": "dest_4",
+      "id": "dest_4_site_1",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNEglSSBHPp6y6IfVVK-08_JMV8U1Gy8tNvkicsvSD2h_r53Q3qesu-taG71AXDcuZaFykP2Q50BgnbyQc8KjG7GoLDQWPj6okoqB0q8I4-FdaXj9gfCeRnQP_CHQqjfoSOxDRxjQxWp0mnTGQ=s1600-w800",
+      "name": "חוף ריילי (Railay Beach)",
+      "name_en": "Railay Beach",
+      "rating": "4.9/5"
+    },
+    {
+      "desc": "שייט יום קלאסי בסירת לונגטייל או ספידבואט המבקר באי קו פודה (Koh Poda), אי העוף (Chicken Island), טאפ איילנד (Tup Island) וחוף מערת פרה נאנג (Phra Nang Cave Beach). חוויה מושלמת של חופים בתוליים, מי טורקיז ושנורקלינג.",
+      "destinationId": "dest_4",
+      "id": "dest_4_site_2",
+      "image_url": "https://lh3.googleusercontent.com/places/ANXAkqGDK9rhTfpbRBxKaD2e-LZZOSmpDKKbYSb1QGmyqh61i4Ry4LSskKlhnSdq0fBxT28TO8Q-Qjk1SprMV3oxJdajPNCqGQLhDa4=s1600-w800",
+      "name": "טיול 4 האיים",
+      "name_en": "Four Islands Tour",
+      "rating": "4.8/5"
+    },
+    {
+      "desc": "מקדש בודהיסטי מפורסם השוכן בלב יער גשם. המקום כולל מערות טבעיות ופסל בודהה ענק בפסגת הר, אליה מטפסים 1,237 מדרגות לתצפית פנורמית מדהימה על קראבי והסביבה.",
+      "destinationId": "dest_4",
+      "id": "dest_4_site_3",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNGd1qGhgnGGBDGma8vtviwOqXAnZELdYnVvQVx89cg_L9fiZ826hGP1mfsbq9g013u5YoltaL9hTc6Utm08NLqYdLqTwQVWJTmwHh0XWUNmezjGzQQXzwLXMgTK0jgusgjIBN9CoYazqqO9=s1600-w800",
+      "name": "מקדש מערת הנמר (Wat Tham Suea)",
+      "name_en": "Tiger Cave Temple (Wat Tham Suea)",
+      "rating": "4.6/5"
+    },
+    {
+      "desc": "פניני טבע נסתרות בתוך יער גשם טרופי. הבריכה הטורקיז היא מעיין טבעי שניתן לשחות בו, ואילו הבריכה הכחולה הקסומה יותר, צלולה ועמוקה, מציעה מחזה ויזואלי מהפנט של גווני כחול-ירוק.",
+      "destinationId": "dest_4",
+      "id": "dest_4_site_4",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNFNpf3DVXMGH0vC1YFILctBWPPVvoSpAh33KVwiIWJlbkgf4sLwrEFI4gIbS-Zekm4hgoFoSG-t_NLagBlPjt4sBFbyw-VxImVfA09I5FCnQS2VrJT3AbUfxcLh0XCj-kpTBmgNWogUcsiB=s1600-w800",
+      "name": "הבריכה הטורקיז והבריכה הכחולה (Emerald Pool & Blue Pool)",
+      "name_en": "Emerald Pool and Blue Pool",
+      "rating": "4.7/5"
+    },
+    {
+      "desc": "חוויה קולינרית ותרבותית אותנטית. השוק מציע מגוון עצום של מאכלי רחוב תאילנדיים, פירות אקזוטיים, מופעי מוזיקה חיה ומזכרות מקומיות. פתוח בעיקר בסופי שבוע בערב.",
+      "destinationId": "dest_4",
+      "id": "dest_4_site_5",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNFT6zfutfn81LMOE0dw16I8QkCUkqdWjsOfmyHQemUDslQiGXce1oMEG5eJImFgDjViExnBDYX81sgdCUtJmyt9KieLJ7Mciokq1vw4exm4BqyPzjxpfPJwwcf-FVAyoYoG8s2-Qv0b5-Asmw=s1600-w800",
+      "name": "שוק הלילה של קראבי (Krabi Night Market)",
+      "name_en": "Krabi Walking Street / Night Market",
+      "rating": "4.5/5"
+    },
+    {
+      "desc": "קבוצת איים מרהיבה עם לגונות נסתרות ומי טורקיז צלולים, המוקפים בצוקי גיר מרשימים. מושלם לשחייה, שנורקלינג ולחקירת המפרצים השקטים בסירות קיאק. נחשב לטיול מעט פחות המוני מ-4 האיים.",
+      "destinationId": "dest_4",
+      "id": "dest_4_site_6",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNHrV9I2uqY_OSZJ9lmy_dUfkCwdgxEkGrzKsVdhezKwUaw4FlaD8H7adESsYnrFGaLH6YWg88zmNFfwxD2YVHotqrHdqxGWkSyy3RoXRlLGkWLbHmQG1rVsr1Qf-FSPYmqzf9RNS3QBiXccWIdDvzFmwQ=s1600-w800",
+      "name": "טיול לאיי הונג (Hong Islands)",
+      "name_en": "Hong Islands Tour",
+      "rating": "4.8/5"
+    },
+    {
+      "desc": "לב ליבה של ממלכת איוטאיה העתיקה. הפארק העצום כולל שרידי מקדשים, ארמונות ובודהות מרשימים, כמו ראש הבודהה השתול בעץ בואט מהאתאט והצ'דיות המלכותיות בואט פרה סי סאנפט, ומספר את סיפורה המפואר של תאילנד.",
+      "destinationId": "dest_5",
+      "id": "dest_5_site_1",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNEL0hFeT8Sq2TsFJnls-ellkNp761JmtTPzohbWNrN5iKV0c1ybs0l3HlqE1BEgyoiYJR19RR7e9iw2RGUbiFtKunGNTnWmpgWNg1kgkyh_ijdzRpXGEqFE85_EANQTaK0YuDTL7k-XIwbDcPyT8rdJNA=s1600-w800",
+      "name": "הפארק ההיסטורי של איוטאיה",
+      "name_en": "Ayutthaya Historical Park",
+      "rating": "4.9/5"
+    },
+    {
+      "desc": "מקדש מלכותי ומרשים בסגנון קמרי השוכן על גדת הנהר צ'או פראיה. מומלץ במיוחד בשעות בין הערביים, כששמש השוקעת מאירה את המבנים העתיקים בזהב ומעניקה חווית נוף בלתי נשכחת.",
+      "destinationId": "dest_5",
+      "id": "dest_5_site_2",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNGlgSvDdA_0chOPs7tE63VrBfoizEvoKZqNtarSWGdHkfPAzAAPafJgvQO5zvq0aZXSVfgV26I75_TiBslthTTlNQjZYMzGWWQPmVyOs15NzvzO_bp8kYausCDvSINTQHqtOE_sLoh55Z-0AIw=s1600-w800",
+      "name": "מקדש ואט צ'אי ווטנאראם",
+      "name_en": "Wat Chaiwatthanaram",
+      "rating": "4.8/5"
+    },
+    {
+      "desc": "מתחם ארמונות קיץ יפהפה ששימש את מלכי תאילנד, המשלב סגנונות אדריכליים תאילנדיים, סיניים ואירופאיים. זהו אתר היסטורי ונופי קסום עם גנים מטופחים, אגמים ומבנים אלגנטיים.",
+      "destinationId": "dest_5",
+      "id": "dest_5_site_3",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNHCRWCs8JuJEEy1E0-UFr2TDGecyNHaeao4oJ0CE8RuuFlvXg6OPmdQDHJDR3kynBALbgvYfoZbTT3t4D07jLpDk6D4Iqn24PLLfe1jz_16arb0sBe5yOAc692KsUL9hs91qzh4qre4SAEb=s1600-w800",
+      "name": "ארמון בנג פה-אין המלכותי",
+      "name_en": "Bang Pa-in Royal Palace",
+      "rating": "4.7/5"
+    },
+    {
+      "desc": "חוויה ייחודית לצפייה בשרידים ההיסטוריים ובנופים הכפריים מהנהר. דרך מרתקת לחוות את העיר מזווית אחרת, בייחוד בשקיעה, ולהתרשם מהשילוב של טבע והיסטוריה.",
+      "destinationId": "dest_5",
+      "id": "dest_5_site_4",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNHzy2MeO9IQTDC-yyda2xFmJ-sNPwx-0Xinqmy8q0YjPPj_QXA_-OT-19Txp72333aJ5KyMACSg1DUmd2pZGdgS9f43RujLggeia1Je8hLuDeTUQbmMEYvQeKvgpNLr0Apk7DoWdPEi1P1f7w=s1600-w800",
+      "name": "שייט מסביב לאי איוטאיה",
+      "name_en": "Boat trip around Ayutthaya Island",
+      "rating": "4.6/5"
+    },
+    {
+      "desc": "טעימה מהמטבח המקומי המשובח של איוטאיה. שוק הלילה מציע מגוון עצום של מאכלים תאילנדיים מסורתיים, פירות טרופיים וחוויות גסטרונומיות אותנטיות במחירים נוחים, לצד אווירה תוססת.",
+      "destinationId": "dest_5",
+      "id": "dest_5_site_5",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNHd01xAm1CT3LZVIYUK6XhpmjlXq9NGpB7ZhfW1QhWcu4UauMTZurpR6L485aHv4f-xnHf6dxzmjKS6VJMFcZF45uwChWZFsgpJVacVU4Fembp4JpzSjoqm1vRdduJtuSEVcdJ538MpTGY6oMtYw36fPA=s1600-w800",
+      "name": "שוק הלילה של איוטאיה וחוויה קולינרית",
+      "name_en": "Ayutthaya Night Market and Local Gastronomy",
+      "rating": "4.5/5"
+    },
+    {
+      "desc": "אתר היסטורי איקוני המהווה תזכורת מצמררת למלחמת העולם השנייה ולבניית 'מסילת המוות'. חוויה מרתקת המשלבת סיפורי גבורה ואנושיות.",
+      "destinationId": "dest_6",
+      "id": "dest_6_site_1",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNHHptJUhsodh73j5o5qR0BvIDBVgr4yeYp1OkGshHIN68Ne6zr2GUgnSkCBJlhNAZw3jWm56t1j8JJdrDt5gTVHX9m3-DGhq2Pt8ocaDy3hPRzW-2aw7vnG62OKakGBRzv5LAk0ISvMkvYVew=s1600-w800",
+      "name": "גשר נהר קוואי",
+      "name_en": "Bridge over the River Kwai",
+      "rating": "4.5/5"
+    },
+    {
+      "desc": "גן עדן טבעי עם שבעה מפלסים של מפלים טורקיז מרהיבים, בריכות טבעיות לשחייה, ושבילי הליכה יפהפיים ביערות גשם עבותים. חוויה מרעננת בלב הטבע.",
+      "destinationId": "dest_6",
+      "id": "dest_6_site_2",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNFius6NcPdmBmwbVoS7hBl4kmoyL0D3ejz7vR2AdAI-cQ_eihSAxhKtk5oGhAlCnp96GazdJdX266bbDutLuUyyiBCPj5-BxW-S8lX7FsYo77yymlkE8XqhkEW0Kpxz0P6S-JqGhY0vhEg1im4=s1600-w678",
+      "name": "הפארק הלאומי ארוואן (מפלי ארוואן)",
+      "name_en": "Erawan National Park (Erawan Falls)",
+      "rating": "4.8/5"
+    },
+    {
+      "desc": "אתר זיכרון מרגש המוקדש לסבלם של שבויי המלחמה שבנו את מסילת המוות. המסלול ההיסטורי עובר בנופים דרמטיים ומציע חוויה מעמיקה ונוגעת ללב.",
+      "destinationId": "dest_6",
+      "id": "dest_6_site_3",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNFXnuWv7a00rG0RQ3m6fyyZU20swYbkGDFJRBdXygNEtgG20fWYTeb_fWQaSe49Q7TefRp_e4Y32bFxVBEb9j9CH4ZXZudwzCuPOHxKXWc6joYiWkbzWarmNylnd3uShF6tOhIzfRTkO-5E=s1600-w800",
+      "name": "מרכז המבקרים ומצבת הזיכרון הלפייר פאס",
+      "name_en": "Hellfire Pass Interpretive Centre and Memorial Museum",
+      "rating": "4.7/5"
+    },
+    {
+      "desc": "מקדש בודהיסטי מרשים הניצב על ראש גבעה ומציע נוף פנורמי עוצר נשימה על הסביבה, כולל שדות אורז ירוקים. כולל פסל בודהה ענק ומערה נסתרת.",
+      "destinationId": "dest_6",
+      "id": "dest_6_site_4",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNG-WGB0MS7subXTj5Z_Xvbe74_76RQnrVtPbBmKRkub2Qpo9cSfCwwTctxK6uGjiNk4Y1V2-pWEhwXUYTbnHiy3aaI8iONCExY50AXjHDqBaqHs6epeNTFuE9ujcNrFMRIR9KtE_LIBhrV8XfM=s1600-w800",
+      "name": "מקדש מערת הנמר (וואט תאם סואה)",
+      "name_en": "Wat Tham Suea (Tiger Cave Temple)",
+      "rating": "4.6/5"
+    },
+    {
+      "desc": "מוזיאון נוגע ללב המציג את תנאי המחיה הקשים של שבויי המלחמה במהלך בניית 'מסילת המוות' באמצעות שחזורים ותצוגות אותנטיות. חובה לחובבי היסטוריה.",
+      "destinationId": "dest_6",
+      "id": "dest_6_site_5",
+      "image_url": "https://lh3.googleusercontent.com/place-photos/AL8-SNF7YaI_Kz_c-6fvqPp0KhR5vQz2EQIBaonyc8RQUVYLPgLjfmdvrEbHgFZFg_wWGbJlL1UY7yPqxoeQFrwpyVFumdbuZx2AOVHe_OQd5qW-8T6kJcItfDeW5eeaJhGLfv6l9_LhFokb7a06=s1600-w800",
+      "name": "מוזיאון המלחמה JEATH",
+      "name_en": "JEATH War Museum",
+      "rating": "4.0/5"
+    },
+    {
+      "desc": "חוויה קולינרית רומנטית ומהנה בשייט רגוע לאורך נהר קוואי. הזדמנות ליהנות מארוחה תאילנדית משובחת תוך כדי צפייה בנופים היפים של הנהר עם רדת החשכה.",
+      "destinationId": "dest_6",
+      "id": "dest_6_site_6",
+      "image_url": "https://lh3.googleusercontent.com/places/ANXAkqEYOELaZcRgKqPRmYJVKUWKcgh7iSVOEjIViSGkJSVsSdyzsAT7kf8WKs1Ha19Oi_OEUxFot0yZDyzvcqn24rNjFIkcmTY9dik=s1600-w800",
+      "name": "שייט ארוחת ערב על נהר קוואי",
+      "name_en": "River Kwai Dinner Cruise",
+      "rating": "4.4/5"
+    }
+  ]
+}
