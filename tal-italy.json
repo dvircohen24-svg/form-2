@@ -1,0 +1,474 @@
+{
+  "userEmail": "9712701@gmail.com",
+  "destination": "איטליה",
+  "categories": [
+    {
+      "id": "cat_big_cities",
+      "name": "ערים גדולות וקצביות",
+      "emoji": "🏙️",
+      "desc": "שופינג, כיכרות הומות, ארכיטקטורה מרהיבה והקצב של איטליה האורבנית.",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "cat_history_art",
+      "name": "היסטוריה, אמנות וארכיאולוגיה",
+      "emoji": "🏛️",
+      "desc": "מסע בזמן בין האימפריה הרומית, ערש הרנסנס וערים שקפאו בזמן.",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "cat_tuscany",
+      "name": "קסם טוסקני וכרמים",
+      "emoji": "🍷",
+      "desc": "גבעות ירוקות מתגלגלות, עיירות אבן עתיקות, יין משובח ורוגע כפרי.",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "cat_south",
+      "name": "דרום איטליה והחופים",
+      "emoji": "🍋",
+      "desc": "כבישי חוף דרמטיים, מפרצים כחולים, עיירות צבעוניות ולימונצ'לו קר.",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "cat_nature",
+      "name": "אגמים וטבע אלפיני",
+      "emoji": "🏞️",
+      "desc": "אגמים צלולים מוקפים בהרים ופסגות דרמטיות בצפון המדינה.",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "cat_parks",
+      "name": "פארקי שעשועים ואדרנלין",
+      "emoji": "🎢",
+      "desc": "פארקי נושא ענקיים, רכבות הרים ופארקי מים לכל המשפחה.",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    }
+  ],
+  "destinations": [
+    {
+      "id": "dest_rome",
+      "categoryId": "cat_big_cities",
+      "name": "רומא",
+      "desc": "בירת איטליה - שילוב מנצח של עיר גדולה, קולינריה משובחת והיסטוריה עתיקה בכל פינה."
+    },
+    {
+      "id": "dest_milan",
+      "categoryId": "cat_big_cities",
+      "name": "מילאנו",
+      "desc": "בירת האופנה והעיצוב. קצב מהיר, שופינג יוקרתי, אדריכלות גותית מטורפת ותרבות מודרנית."
+    },
+    {
+      "id": "dest_venice",
+      "categoryId": "cat_big_cities",
+      "name": "ונציה",
+      "desc": "עיר התעלות הייחודית בעולם. ללכת לאיבוד בין גשרים, גונדולות וארמונות שקועים במים."
+    },
+    {
+      "id": "dest_florence",
+      "categoryId": "cat_history_art",
+      "name": "פירנצה",
+      "desc": "בירת חבל טוסקנה ומרכז הרנסנס העולמי. עיר של אמנות, מוזיאונים ופסלים."
+    },
+    {
+      "id": "dest_tuscany_val",
+      "categoryId": "cat_tuscany",
+      "name": "עיירות ונופי טוסקנה",
+      "desc": "מרחבי הכפר של טוסקנה: עמק אורצ'ה, אזור קיאנטי, וילות ודרכי נוף ציוריות."
+    },
+    {
+      "id": "dest_amalfi",
+      "categoryId": "cat_south",
+      "name": "חוף אמלפי וקאפרי",
+      "desc": "רצועת החוף המפורסמת ביותר בדרום איטליה, עיירות תלויות על צוקים ואיים יוקרתיים."
+    },
+    {
+      "id": "dest_naples_pompeii",
+      "categoryId": "cat_history_art",
+      "name": "נאפולי, וזוב ופומפיי",
+      "desc": "דרום איטליה ההיסטורית: עתיקות מתחת לאפר, הרי געש פעילים ואוכל רחוב תוסס."
+    },
+    {
+      "id": "dest_garda",
+      "categoryId": "cat_nature",
+      "name": "אגם גארדה",
+      "desc": "האגם הגדול באיטליה. מושלם לטיולי כוכב, עיירות נופש, טירה על המים ורכבלים להרים."
+    },
+    {
+      "id": "dest_dolomites",
+      "categoryId": "cat_nature",
+      "name": "רכס הדולומיטים",
+      "desc": "נוף אלפיני דרמטי. אגמי טורקיז, שבילי הליכה עוצרי נשימה ותצפיות מפסגות גבוהות."
+    }
+  ],
+  "sites": [
+    {
+      "id": "rome_1",
+      "destinationId": "dest_rome",
+      "name": "הקולוסיאום והפורום הרומאי",
+      "desc": "הסמל האייקוני של העיר. סיור מרתק באמפיתיאטרון העתיק בעולם ובשרידי מרכז האימפריה הרומית.",
+      "rating": "4.9/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "rome_2",
+      "destinationId": "dest_rome",
+      "name": "קריית הוותיקן והקפלה הסיסטינית",
+      "desc": "המדינה הקטנה בעולם. ביקור בבזיליקת פטרוס הקדוש והצצה לציורי התקרה המפורסמים של מיכלאנג'לו.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "rome_3",
+      "destinationId": "dest_rome",
+      "name": "מזרקת טרווי והפנתיאון",
+      "desc": "הליכה בין הסמטאות היפות של רומא אל המזרקה הכי מפורסמת באיטליה והמקדש העתיק המושלם.",
+      "rating": "4.9/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "rome_4",
+      "destinationId": "dest_rome",
+      "name": "פיאצה נאבונה והמדרגות הספרדיות",
+      "desc": "כיכרות הומות אדם, מזרקות מרשימות של ברניני, אומני רחוב וחנויות יוקרה סביב.",
+      "rating": "4.7/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "rome_5",
+      "destinationId": "dest_rome",
+      "name": "שכונת טרסטוורה (Trastevere)",
+      "desc": "השכונה הבוהמיינית של רומא. סמטאות ציוריות עטורות קיסוס, מסעדות מקומיות קטנות וחיי לילה תוססים.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "mil_1",
+      "destinationId": "dest_milan",
+      "name": "הדואומו של מילאנו (Duomo di Milano)",
+      "desc": "הקתדרלה הגותית העצומה והמרשימה של מילאנו. חובה לעלות לגג הקתדרלה לתצפית יוצאת דופן על העיר.",
+      "rating": "4.9/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "mil_2",
+      "destinationId": "dest_milan",
+      "name": "גלריית ויטוריו אמנואלה השני",
+      "desc": "קניון העתיק והיוקרתי ביותר באיטליה. תקרות זכוכית מרהיבות, חנויות מעצבים ובתי קפה היסטוריים.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "mil_3",
+      "destinationId": "dest_milan",
+      "name": "טירת ספורצסקו (Castello Sforzesco)",
+      "desc": "מבצר ענק בלב העיר המארח מספר מוזיאונים לאמנות ומוקף בפארק סמפיונה הירוק והרחב.",
+      "rating": "4.6/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "mil_4",
+      "destinationId": "dest_milan",
+      "name": "שכונת נאבילי (Navigli)",
+      "desc": "אזור התעלות התוסס של מילאנו. המקום המושלם לאפריטיבו בשקיעה, עם אינספור ברים, מסעדות ואווירה צעירה.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "mil_5",
+      "destinationId": "dest_milan",
+      "name": "הסעודה האחרונה (Santa Maria delle Grazie)",
+      "desc": "הזדמנות נדירה (דורש הזמנה מראש) לראות את ציור הקיר המקורי והמפורסם של לאונרדו דה וינצ'י.",
+      "rating": "4.9/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "ven_1",
+      "destinationId": "dest_venice",
+      "name": "כיכר ובזיליקת סן מרקו",
+      "desc": "הלב הפועם של ונציה. כיכר עצומה ומרשימה המוקפת בבתי קפה היסטוריים, ובזיליקה ביזנטית מרהיבה עטורת פסיפסי זהב.",
+      "rating": "4.9/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "ven_2",
+      "destinationId": "dest_venice",
+      "name": "תעלת הגראנדה וגשר ריאלטו",
+      "desc": "השדרה המרכזית של ונציה, שכולה מים. שייט בוואפורטו (אוטובוס מים) לאורכה ותצפית מגשר האבן המפורסם.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "ven_3",
+      "destinationId": "dest_venice",
+      "name": "ארמון הדוג'ה (Doge's Palace)",
+      "desc": "מרכז השלטון ההיסטורי של רפובליקת ונציה. סיור באולמות פאר ענקיים והליכה על 'גשר האנחות' המפורסם.",
+      "rating": "4.7/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "ven_4",
+      "destinationId": "dest_venice",
+      "name": "שייט לאיים מוראנו ובוראנו",
+      "desc": "בריחה קלה מהעיר לאיים הסמוכים: מוראנו המפורסמת באומנות ניפוח הזכוכית, ובוראנו הידועה בבתיה הצבועים בצבעים עזים.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "ven_5",
+      "destinationId": "dest_venice",
+      "name": "שייט רומנטי בגונדולה",
+      "desc": "החוויה הוונציאנית הקלאסית: שייט שקט בתעלות הצרות והנסתרות של העיר, הרחק מההמולה המרכזית.",
+      "rating": "4.6/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "flo_1",
+      "destinationId": "dest_florence",
+      "name": "גלריית אופיצי (Uffizi)",
+      "desc": "אחד ממוזיאוני האמנות החשובים בעולם. ביתם של יצירות המופת הגדולות ביותר של דה וינצ'י ובוטיצ'לי.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "flo_2",
+      "destinationId": "dest_florence",
+      "name": "הדואומו של פירנצה",
+      "desc": "הקתדרלה העצומה עם כיפת הלבנים האדומה המפורסמת של ברונלסקי שחולשת על קו הרקיע של העיר.",
+      "rating": "4.9/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "flo_3",
+      "destinationId": "dest_florence",
+      "name": "גלריית האקדמיה (פסל דוד)",
+      "desc": "ההזדמנות לראות מקרוב את פסל דוד המקורי והמרשים של מיכלאנג'לו, יצירת המופת של הרנסנס.",
+      "rating": "4.7/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "flo_4",
+      "destinationId": "dest_florence",
+      "name": "גשר פונטה וקיו (Ponte Vecchio)",
+      "desc": "הגשר העתיק והמפורסם החוצה את נהר הארנו, שלאורכו בנויות חנויות תכשיטים וזהב מסורתיות.",
+      "rating": "4.7/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "flo_5",
+      "destinationId": "dest_florence",
+      "name": "תצפית מפיאצלה מיכלאנג'לו",
+      "desc": "הנקודה הרומנטית והיפה ביותר לצפות ממנה על העיר פירנצה, מומלץ במיוחד בשעת השקיעה.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "tus_1",
+      "destinationId": "dest_tuscany_val",
+      "name": "עיירת המגדלים סן ג'ימיניאנו",
+      "desc": "מכונה 'מנהטן של ימי הביניים'. עיירת אבן יפהפייה עם מגדלים גבוהים וגלידריות מהטובות בעולם.",
+      "rating": "4.7/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "tus_2",
+      "destinationId": "dest_tuscany_val",
+      "name": "סיינה - כיכר קאמפו והדואומו",
+      "desc": "היריבה ההיסטורית של פירנצה, עם אחת הכיכרות המיוחדות באירופה וקתדרלה מדהימה ביופיה.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "tus_3",
+      "destinationId": "dest_tuscany_val",
+      "name": "נסיעת נוף בעמק אורצ'ה (Val d'Orcia)",
+      "desc": "הנוף הטוסקני מהגלויות: דרכים מתפתלות, שדרות ברושים, שדות חיטה וחוות אבן מבודדות.",
+      "rating": "4.9/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "tus_4",
+      "destinationId": "dest_tuscany_val",
+      "name": "טעימות יין בחבל קיאנטי",
+      "desc": "סיור בין כרמים ויקבים מסורתיים באזור היין המפורסם באיטליה, כולל טעימות וארוחות מקומיות.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "tus_5",
+      "destinationId": "dest_tuscany_val",
+      "name": "מעיינות החמים בסאטורניה",
+      "desc": "בריכות טבעיות מדורגות של מים טרמיים חמים בטבע הפתוח - חוויית ספא חינמית ופוטוגנית.",
+      "rating": "4.6/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "ama_1",
+      "destinationId": "dest_amalfi",
+      "name": "העיירה פוזיטנו (Positano)",
+      "desc": "הפנינה של חוף אמלפי. בתים צבעוניים המטפסים על הצוק, סמטאות תלולות, בוטיקים וחוף יפהפה.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "ama_2",
+      "destinationId": "dest_amalfi",
+      "name": "וילה רופולו בראבלו",
+      "desc": "עיירה שקטה השוכנת גבוה על ההר. הווילה מציעה גנים פורחים ואת נקודת התצפית עוצרת הנשימה ביותר בחוף.",
+      "rating": "4.9/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "ama_3",
+      "destinationId": "dest_amalfi",
+      "name": "שביל האלים (Path of the Gods)",
+      "desc": "אחד ממסלולי ההליכה היפים באירופה, עובר על צלע ההר גבוה מעל הים ומציע נוף פנורמי של קו החוף.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "ama_4",
+      "destinationId": "dest_amalfi",
+      "name": "שייט לאי קאפרי והמערה הכחולה",
+      "desc": "הפלגה לאי היוקרתי קאפרי. עלייה ברכבל יחיד לתצפית אדירה וסיור מרהיב אל תוך המערה הכחולה בסירה.",
+      "rating": "4.7/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "ama_5",
+      "destinationId": "dest_amalfi",
+      "name": "העיירה סורנטו (Sorrento)",
+      "desc": "עיירת חוף תוססת ורומנטית, מלאה בחנויות לימונצ'לו, מסעדות דגים מעולות ותצפיות על מפרץ נאפולי.",
+      "rating": "4.7/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "nap_1",
+      "destinationId": "dest_naples_pompeii",
+      "name": "הפארק הארכיאולוגי פומפיי",
+      "desc": "עיר רומית שלמה ומרתקת שקפאה בזמן לאחר שנקברה תחת אפר וולקני בשנת 79 לספירה.",
+      "rating": "4.9/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "nap_2",
+      "destinationId": "dest_naples_pompeii",
+      "name": "טיפוס להר הגעש וזוב",
+      "desc": "מסלול הליכה קצר ותלול מתחנת האוטובוסים ועד ללוע הר הגעש הפעיל שמתנשא מעל נאפולי.",
+      "rating": "4.6/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "nap_3",
+      "destinationId": "dest_naples_pompeii",
+      "name": "העיר העתיקה הרקולנאום",
+      "desc": "עיר עתיקה נוספת שנהרסה בהתפרצות הווזוב. קטנה ופחות עמוסה מפומפיי, אך השתמרה בצורה מדהימה עוד יותר.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "nap_4",
+      "destinationId": "dest_naples_pompeii",
+      "name": "סמטאות נאפולי ופיצה מקורית",
+      "desc": "שיטוט ברחוב 'ספאקאנאפולי' התוסס שחוצה את העיר העתיקה, ואכילת הפיצה הנפוליטנית המקורית והטובה בעולם.",
+      "rating": "4.7/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "nap_5",
+      "destinationId": "dest_naples_pompeii",
+      "name": "המוזיאון הארכיאולוגי של נאפולי",
+      "desc": "כאן נמצאים כל האוצרות, הפסיפסים וציורי הקיר המקוריים שנמצאו בחפירות של פומפיי והרקולנאום.",
+      "rating": "4.7/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "gar_1",
+      "destinationId": "dest_garda",
+      "name": "חצי האי סירמיונה",
+      "desc": "עיירה יפהפייה על לשון יבשה בתוך האגם, עם טירת סקאליג'רו המרשימה המוקפת מים מכל עבריה.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "gar_2",
+      "destinationId": "dest_garda",
+      "name": "רכבל מונטה באלדו (Monte Baldo)",
+      "desc": "רכבל המסתובב 360 מעלות ומעלה אתכם מול נוף אלפיני לפסגה שממנה רואים את כל האגם.",
+      "rating": "4.7/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "gar_3",
+      "destinationId": "dest_garda",
+      "name": "לימונה סול גארדה",
+      "desc": "עיירה ציורית על שפת האגם הצפוני הידועה בבתי הלימונים ההיסטוריים שלה ובנופי צוקים נופלים למים.",
+      "rating": "4.7/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "gar_4",
+      "destinationId": "dest_garda",
+      "name": "ריבה דל גארדה",
+      "desc": "העיירה הצפונית ביותר של האגם, מוקפת בהרים גבוהים. טיילת מקסימה, ספורט ימי ומרכז עתיק ויפה.",
+      "rating": "4.6/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "gar_5",
+      "destinationId": "dest_garda",
+      "name": "מפלי ורונה (Cascata del Varone)",
+      "desc": "הליכה בתוך מערות חצובות בסלע בעקבות מפלי מים עוצמתיים וגנים בוטניים ירוקים.",
+      "rating": "4.5/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "gar_6",
+      "destinationId": "dest_garda",
+      "name": "פארק השעשועים גארדלנד",
+      "desc": "פארק הנושא והשעשועים הגדול באיטליה, מציע אדרנלין ורכבות הרים שוות לצד מתקנים קלילים למשפחות.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "dol_1",
+      "destinationId": "dest_dolomites",
+      "name": "אגם בראייס (Lago di Braies)",
+      "desc": "האגם היפה והמצולם ביותר באלפים האיטלקיים. מים בצבע טורקיז עמוק מוקפים בפסגות סלע אנכיות.",
+      "rating": "4.9/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "dol_2",
+      "destinationId": "dest_dolomites",
+      "name": "טרה צ'ימה (Tre Cime di Lavaredo)",
+      "desc": "שלושת צוקי הענק המהווים את סמל הדולומיטים. מסלול הליכה מעגלי ושטוח יחסית עם נופים בלתי נשכחים.",
+      "rating": "4.9/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "dol_3",
+      "destinationId": "dest_dolomites",
+      "name": "תצפית סצ'דה (Seceda)",
+      "desc": "עלייה ברכבל לעבר קו רכס משונן וירוק להפליא, הנראה כאילו נחתך בסכין. תצפית אלפינית עוצרת נשימה.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "dol_4",
+      "destinationId": "dest_dolomites",
+      "name": "אלפה די סיוסי (Alpe di Siusi)",
+      "desc": "המרעה האלפיני הגבוה הגדול באירופה. כרי דשא ירוקים רחבי ידיים ונקודות תצפית פסטורליות המצוינות לטיול קליל.",
+      "rating": "4.8/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    },
+    {
+      "id": "dol_5",
+      "destinationId": "dest_dolomites",
+      "name": "מעבר הרים ג'יאו (Passo Giau)",
+      "desc": "אחד ממעברי ההרים היפים בדולומיטים. נסיעת נוף אל מעל קו העצים אל נופים דרמטיים ומסלולי טבע גבוהים.",
+      "rating": "4.7/5",
+      "image_url": "YOUR_IMAGE_LINK_HERE"
+    }
+  ]
+}
