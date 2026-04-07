@@ -31,35 +31,35 @@
       "name": "ניו יורק וסביבתה",
       "emoji": "🗽",
       "desc": "העיר שלא ישנה לעולם. אטרקציות אייקוניות, גורדי שחקים, שכונות טרנדיות, שופינג ואווירה מחשמלת.",
-      "image_url": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-gs5-fOX1u0_6WC-5cPpgVhec24xqvwi4Ig&s"
     },
     {
       "id": "cat_dc_philly",
       "name": "וושינגטון די.סי. ופילדלפיה",
       "emoji": "🏛️",
       "desc": "הלב ההיסטורי והשלטוני של אמריקה. אנדרטאות ענק, מוזיאונים ברמה עולמית ומורשת אדירה.",
-      "image_url": "https://images.unsplash.com/photo-1617581629397-a72507c3de9e?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQitPoB_0IlOu0igdRnNrv1SCj1AEaqV8PW5w&s"
     },
     {
       "id": "cat_upstate",
       "name": "אפסטייט ניו יורק ומפלי הניאגרה",
       "emoji": "🌊",
       "desc": "הטבע של צפון המדינה. אגמים פסטורליים, יקבים, מערכות מפלים עצומות וקניונים ירוקים.",
-      "image_url": "https://images.unsplash.com/photo-1596324838637-2900faeec143?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyHOlAlMQeT5m2vnUHWJPwn6ohYDJSu6Uc-w&s"
     },
     {
       "id": "cat_new_england",
       "name": "ניו אינגלנד ואקדיה",
       "emoji": "🦞",
       "desc": "הקסם של צפון-מזרח ארה\"ב. בוסטון, קו חוף סלעי מרהיב, מגדלורים, לווייתנים והרים ירוקים.",
-      "image_url": "https://images.unsplash.com/photo-1506450687353-3a5c88b7bc73?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCVip3HEWpxlMl3TF8DsbGUlnqIfasPkWy9w&s"
     },
     {
       "id": "cat_shenandoah",
       "name": "פארק שננדואה (וירג'יניה)",
       "emoji": "🐻",
       "desc": "טבע הררי ופראי דרומית לוושינגטון. יערות עבותים, דובים שחורים, מערות נטיפים וכבישי נוף.",
-      "image_url": "https://images.unsplash.com/photo-1600257321043-4e4277b0d876?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7xl3u8gTCsJOREybGaqiY3Ry6Bw9ouDP-kw&s"
     }
   ],
   "destinations": [
@@ -68,84 +68,84 @@
       "categoryId": "cat_nyc",
       "name": "מנהטן",
       "desc": "מרכז העניינים. סנטרל פארק, טיימס סקוור, מוזיאונים, תיאטראות ברודווי והאנרגיה המפורסמת בעולם.",
-      "image_url": "https://images.unsplash.com/photo-1546436836-07a91091f11c?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRavGcoXPtE52UUJW3KVkDZ8IzTqDw_Ehhr9A&s"
     },
     {
       "id": "dest_brooklyn",
       "categoryId": "cat_nyc",
       "name": "ברוקלין",
       "desc": "הצד ההיפסטרי והאמנותי של העיר מעבר לגשר, עם תצפיות מרהיבות לקו הרקיע של מנהטן.",
-      "image_url": "https://images.unsplash.com/photo-1516086786016-81c19b015116?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgPd8k0g2MEYXIjzXoyi3haYTJiisKHTclhA&s"
     },
     {
       "id": "dest_dc",
       "categoryId": "cat_dc_philly",
       "name": "וושינגטון הבירה",
       "desc": "בירת ארה\"ב, שדרת המול הלאומי, הבית הלבן, הקפיטול ומוזיאוני הסמית'סוניאן החינמיים.",
-      "image_url": "https://images.unsplash.com/photo-1617581629397-a72507c3de9e?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQitPoB_0IlOu0igdRnNrv1SCj1AEaqV8PW5w&s"
     },
     {
       "id": "dest_philly",
       "categoryId": "cat_dc_philly",
       "name": "פילדלפיה",
       "desc": "מקום הולדתה של האומה האמריקאית, העיר העתיקה, שוק האוכל האייקוני והמדרגות של 'רוקי'.",
-      "image_url": "https://images.unsplash.com/photo-1598285521639-509dc99c9c3e?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKynXC1mIbc_TaiqYAGXfnIXqdpein12rPpg&s"
     },
     {
       "id": "dest_niagara",
       "categoryId": "cat_upstate",
       "name": "אזור הניאגרה ומערב אפסטייט",
       "desc": "מפלי הניאגרה העוצמתיים על גבול קנדה ופארקי טבע סמוכים כמו 'לטשוורת'.",
-      "image_url": "https://images.unsplash.com/photo-1596324838637-2900faeec143?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyHOlAlMQeT5m2vnUHWJPwn6ohYDJSu6Uc-w&s"
     },
     {
       "id": "dest_finger_lakes",
       "categoryId": "cat_upstate",
       "name": "אגמי האצבעות",
       "desc": "אזור אגמים כפרי ומקסים במרכז המדינה, מפורסם בנקיקי נחל עמוקים, מסלולי טבע ויקבים.",
-      "image_url": "https://images.unsplash.com/photo-1629837593630-f201dd5c8502?w=800"
+      "image_url": "https://www.caravanim.co.il/Media/Uploads/wetkinsglen376x283.jpg"
     },
     {
       "id": "dest_1000_islands",
       "categoryId": "cat_upstate",
       "name": "אזור אלף האיים",
       "desc": "ארכיפלג ייחודי בצפון המדינה המציע שייט בין מאות איים קטנים עליהם בנויות טירות ובתי קיץ.",
-      "image_url": "https://images.unsplash.com/photo-1598007212484-bc4878a1bcce?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJdSmEQY_9KT7g_8yrFJjIwCEIud__2eHTSQ&s"
     },
     {
       "id": "dest_boston_coast",
       "categoryId": "cat_new_england",
       "name": "בוסטון וקו החוף",
       "desc": "העיר ההיסטורית בוסטון וחצי האי קייפ קוד – אזור מושלם לשייט לווייתנים ופירות ים.",
-      "image_url": "https://images.unsplash.com/photo-1501683419357-19ce1121d49c?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaH-ujB1Igi35F0DdNSC7lq7bWH4oniICmCA&s"
     },
     {
       "id": "dest_acadia",
       "categoryId": "cat_new_england",
       "name": "מיין ופארק אקדיה",
       "desc": "הפארק הלאומי היחיד בניו אינגלנד. נופים פראיים של אוקיינוס, הרים ועיירות דייגים תוססות.",
-      "image_url": "https://images.unsplash.com/photo-1506450687353-3a5c88b7bc73?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCVip3HEWpxlMl3TF8DsbGUlnqIfasPkWy9w&s"
     },
     {
       "id": "dest_white_mtn",
       "categoryId": "cat_new_england",
       "name": "ההרים הלבנים",
       "desc": "רכס הרים יפהפה במדינת ניו המפשייר, מפורסם בצבעי שלכת בוהקים וערוצי סלע מרהיבים.",
-      "image_url": "https://images.unsplash.com/photo-1574768224536-11f81016ed3d?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmkboEkdalLSF66jtQBLiQWxUsWH7wC98v9Q&s"
     },
     {
       "id": "dest_shenandoah_np",
       "categoryId": "cat_shenandoah",
       "name": "הפארק הלאומי שננדואה",
       "desc": "כביש התצפיות המפורסם 'דרך הרקיע', סיכוי למפגש עם חיות בר ומסלולי טבע לכל הרמות.",
-      "image_url": "https://images.unsplash.com/photo-1600257321043-4e4277b0d876?w=800"
+      "image_url": "https://travelbamerica.com/wp-content/uploads/2019/08/Shenandoah-National-Park4-1024x681-1.jpg"
     },
     {
       "id": "dest_luray_valley",
       "categoryId": "cat_shenandoah",
       "name": "מערות לוריי והעמק",
       "desc": "האזור למרגלות הפארק הלאומי, הכולל את מערות הנטיפים המפורסמות והגדולות ביותר באזור.",
-      "image_url": "https://images.unsplash.com/photo-1572912444654-e435ef2e6cd9?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMT5uWHXFrJy2yJHnyIDnwxSkhelOAQN7G3Q&s"
     }
   ],
   "sites": [
@@ -155,7 +155,7 @@
       "name": "פסל החירות ואליס איילנד",
       "desc": "סמל החירות האמריקאי והתחנה ההיסטורית של המהגרים לארה\"ב. ההגעה נעשית באמצעות שייט מעבורת.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1605130284535-11dd9eedc58a?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQusbwZOyAap1d8G4VxZkNOH0Vabh8qH4m5GQ&s"
     },
     {
       "id": "nyc_2",
@@ -163,7 +163,7 @@
       "name": "סנטרל פארק",
       "desc": "הריאה הירוקה בלב מנהטן. אגמים, מדשאות פיקניק, סוסים וכרכרות, ותצפיות קסומות אל מול גורדי השחקים.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1555109307-f7d9ab25c20e?w=800"
+      "image_url": "https://www.elal.com/magazine/wp-content/uploads/2017/03/new_york_806x463_0018_shutterstock_83936176.jpg"
     },
     {
       "id": "nyc_3",
@@ -171,7 +171,7 @@
       "name": "תצפית סאמיט (SUMMIT)",
       "desc": "התצפית החדשנית בניו יורק, המשלבת אמנות של חדרים מראות, רצפת זכוכית ונוף פנורמי מטורף.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1644558838384-51e4bfbe10a4?w=800"
+      "image_url": "https://www.civitatis.com/f/estados-unidos/nueva-york/guia/one-vanderbilt-the-summit-m.jpg"
     },
     {
       "id": "nyc_4",
@@ -179,7 +179,7 @@
       "name": "טיימס סקוור",
       "desc": "הלב הפועם של ניו יורק, עמוס בשלטי ניאון ענקיים, חנויות דגל ומרכז תיאטראות ברודווי.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1546436836-07a91091f11c?w=800"
+      "image_url": "https://www.lametayel.co.il/limages/8a0d48e973acba4ef5379578c05ce250.jpg?type=r&size=0x656"
     },
     {
       "id": "nyc_5",
@@ -187,7 +187,7 @@
       "name": "פארק ההיי ליין (High Line)",
       "desc": "פארק אורבני ומוגבה שנבנה על פסי רכבת משא נטושים, משלב אמנות ואדריכלות מודרנית מעל רחובות העיר.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1516086786016-81c19b015116?w=800"
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/High_Line_Park%2C_Section_1a.jpg"
     },
     {
       "id": "brk_1",
@@ -195,7 +195,7 @@
       "name": "גשר ברוקלין ופארק דמבו",
       "desc": "חציית הגשר ההיסטורי ברגל אל שכונת דמבו הטרנדית, משם נשקף נוף קו הרקיע של מנהטן במלוא הדרו.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1516086786016-81c19b015116?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/52/ce/26/brooklyn-bridge-park.jpg?w=900&h=-1&s=1"
     },
     {
       "id": "brk_2",
@@ -203,7 +203,7 @@
       "name": "שכונת וויליאמסבורג (Williamsburg)",
       "desc": "בירת ההיפסטרים העולמית. חנויות וינטג', אמנות רחוב מרהיבה ושוק האוכל סמורגסבורג בסופ\"ש.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1623071370830-17637841c7b1?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFqlrIlUUK8nV2scl0u0pSqgw_NczfgA1FZg&s"
     },
     {
       "id": "brk_3",
@@ -211,7 +211,7 @@
       "name": "הגנים הבוטניים של ברוקלין",
       "desc": "ריאה ירוקה ומטופחת, מפורסמת במיוחד בזכות פריחת עצי הדובדבן באביב והחממות המרהיבות.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1587311100996-5fc7a62df860?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLh4M41Fw-ljZdwxA7celENVXutw18zy9ZIg&s"
     },
     {
       "id": "brk_4",
@@ -219,7 +219,7 @@
       "name": "פרוספקט פארק (Prospect Park)",
       "desc": "התשובה של ברוקלין לסנטרל פארק. מדשאות ענק, יערות ושבילי אופניים רגועים בהרבה מבמנהטן.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1596773297624-913b86060c5a?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo6CR3wszf61dTQDuwcKnlfArwRI-xBALRKA&s"
     },
     {
       "id": "brk_5",
@@ -227,7 +227,7 @@
       "name": "קוני איילנד (Coney Island)",
       "desc": "טיילת חוף נוסטלגית עם פארק השעשועים 'לונה פארק' המקורי, רכבות הרים קלאסיות ודוכני נקניקיות.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1502901452140-52ce651de6dc?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9U3QMSLgXoGrnjBhNdBcXLXX58I4i6QDwGA&s"
     },
     {
       "id": "dc_1",
@@ -235,7 +235,7 @@
       "name": "המול הלאומי",
       "desc": "השדרה הירוקה והאייקונית הכוללת את אנדרטת לינקולן, האובליסק ובריכת ההשתקפות.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1617581629397-a72507c3de9e?w=800"
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WashingtonDCMallAerialNavyPhoto_crop.jpg/500px-WashingtonDCMallAerialNavyPhoto_crop.jpg"
     },
     {
       "id": "dc_2",
@@ -243,7 +243,7 @@
       "name": "מוזיאוני הסמית'סוניאן",
       "desc": "קומפלקס המוזיאונים החינמי הגדול בעולם הכולל בין היתר את מוזיאון הטבע, החלל והתעופה.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1582046875503-4f931d87f7bd?w=800"
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/2008-0601-DC-NatlPortGall.jpg"
     },
     {
       "id": "dc_3",
@@ -251,7 +251,7 @@
       "name": "גבעת הקפיטול",
       "desc": "הלב הפוליטי של ארה\"ב. משכן הקונגרס בעל הכיפה הלבנה וספריית הקונגרס המרהיבה.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1596701509930-b9dfce8d76e4?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9qjAJIP1TeBHQYFoPhdK0K49A057YZblTFQ&s"
     },
     {
       "id": "dc_4",
@@ -259,7 +259,7 @@
       "name": "שכונת ג'ורג'טאון (Georgetown)",
       "desc": "שכונה היסטורית ויפהפייה עם רחובות מרוצפי אבן, טיילת תוססת על קו המים, בוטיקים וקונדיטוריות.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1601053075253-273fdb8fb1b9?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY-UepxkwFYB_4NOLmEE-20dUwEEWEJ2haDw&s"
     },
     {
       "id": "dc_5",
@@ -267,7 +267,7 @@
       "name": "בית הקברות הלאומי ארלינגטון",
       "desc": "אתר לאומי מרגש מעבר לנהר. סיור בין מצבות הגיבורים וצפייה בטקס החלפת המשמר בקבר החייל האלמוני.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1558231269-e7d01dd34749?w=800"
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Arlington_House.jpg"
     },
     {
       "id": "phil_1",
@@ -275,7 +275,7 @@
       "name": "היכל העצמאות ופעמון החירות",
       "desc": "המקום המדויק בו נחתמה הכרזת העצמאות האמריקאית והפעמון המסמל את שחרור העבדים.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1598285521639-509dc99c9c3e?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAiFdiHu_j6zZIyOniWcXfKMmguAtpOPqyXQ&s"
     },
     {
       "id": "phil_2",
@@ -283,7 +283,7 @@
       "name": "מדרגות רוקי ומוזיאון האמנות",
       "desc": "ריצה במעלה 72 המדרגות האייקוניות מהסרט 'רוקי' וצילום עם הפסל בחזית מוזיאון פילדלפיה לאמנות.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1605333180470-345371bb8b6e?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/a0/96/b7/rocky-steps.jpg?w=900&h=500&s=1"
     },
     {
       "id": "phil_3",
@@ -291,7 +291,7 @@
       "name": "שוק רידינג טרמינל (Reading Terminal)",
       "desc": "אחד משוקי האוכל המקורים הוותיקים בארה\"ב. גן עדן לפילי-צ'יזסטייק מושחת ומאפים של קהילת האמיש.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1647463564177-33e145b41047?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f2/cb/4b/reading-terminal-market.jpg?w=500&h=-1&s=1"
     },
     {
       "id": "phil_4",
@@ -299,7 +299,7 @@
       "name": "בית הכלא המזרחי (Eastern State)",
       "desc": "סיור מרתק ומעט מצמרר בכלא ההיסטורי והנטוש, שבו היה כלוא בעבר אל קפונה.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1585834888147-3cf34d9ebf9d?w=800"
+      "image_url": "https://cdn.getyourguide.com/image/format=auto,fit=crop,gravity=center,quality=60,width=450,height=450,dpr=2/tour_img/8c85b6010feeb676.jpeg"
     },
     {
       "id": "phil_5",
@@ -307,7 +307,7 @@
       "name": "סמטת אלפרת' (Elfreth's Alley)",
       "desc": "הרחוב הראשי למגורים העתיק ביותר בארה\"ב שנותר בשלמותו. הליכה קסומה בין בתי לבנים מהמאה ה-18.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1604551108253-3c9f2ec67f70?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ESygOkYpxFtSJZROxpCBTwkiS7FQH_h57A&s"
     },
     {
       "id": "ups_1",
@@ -315,7 +315,7 @@
       "name": "מפלי הניאגרה ושייט עלמת הערפל",
       "desc": "פלא טבע עוצמתי. שייט מדהים שלוקח אתכם ממש אל תוך רסס המים האדירים של המפל.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1596324838637-2900faeec143?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAp7VYUXeqhIurQagTsZdYF_meZZfEE0aNtQ&s"
     },
     {
       "id": "ups_2",
@@ -323,7 +323,7 @@
       "name": "מערת הרוחות (Cave of the Winds)",
       "desc": "מסלול הליכה על דק עץ ממש בתחתית מפל ההינומה (בצד האמריקאי). מקבלים פונצ'ו ונרטבים מהעוצמה.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1563204921-137ef25b2931?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlnSgqLdB32jfaPtUuSpDXTg_wXNKOV4OvXg&s"
     },
     {
       "id": "ups_3",
@@ -331,7 +331,7 @@
       "name": "גוט איילנד (Goat Island)",
       "desc": "האי שמפריד בין המפלים האמריקאים לקנדיים. מציע שבילי הליכה ירוקים ותצפיות מרהיבות ממש על שפת המפל.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1613947473722-68f7bdc31a7c?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2csS_LEW-jyAcuDsVwuIS8H984AKb6Uqfig&s"
     },
     {
       "id": "ups_4",
@@ -339,7 +339,7 @@
       "name": "מבצר ניאגרה הישן (Old Fort Niagara)",
       "desc": "מצודה צבאית היסטורית מהמאה ה-18 היושבת על שפת אגם אונטריו, סמוך למפלים.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1627830600122-386d9a1c1d00?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpZOBRwajDq3IbkPg8ZeOLqTuWNPVuj8FmQ&s"
     },
     {
       "id": "ups_5",
@@ -347,7 +347,7 @@
       "name": "פארק לטשוורת' (Letchworth)",
       "desc": "מכונה 'הגרנד קניון של המזרח'. קניון ירוק ועמוק עם שלושה מפלים גדולים ונוף עוצר נשימה.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1601614768340-f1db12dfc2dc?w=800"
+      "image_url": "https://luxeadventuretraveler.com/wp-content/uploads/2024/10/Luxe-Adventure-Traveler-Letchworth-State-Park-Castile-New-York-2.jpg"
     },
     {
       "id": "fin_1",
@@ -355,7 +355,7 @@
       "name": "פארק ווטקינס גלן (Watkins Glen)",
       "desc": "מסלול הליכה קסום בנקיק סלע צר, החולף על פני 19 מפלים קטנים וגשרי אבן עתיקים.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1629837593630-f201dd5c8502?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcxhuNVyRQNHxgz4-gesUMFWpRsVq76egEFA&s"
     },
     {
       "id": "fin_2",
@@ -363,7 +363,7 @@
       "name": "דרך היין של אגם סנקה",
       "desc": "נסיעה ציורית לאורך האגם המציעה עשרות יקבי בוטיק מצוינים המגישים טעימות מול נוף פסטורלי.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1513028203058-294cdd88d3bb?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/17/8e/09/vineyard-vistas-abound.jpg?w=1200&h=-1&s=1"
     },
     {
       "id": "fin_3",
@@ -371,7 +371,7 @@
       "name": "מפל טוואנוק (Taughannock Falls)",
       "desc": "אחד המפלים הגבוהים ביותר מזרחית להרי הרוקי. מסלול מישורי וקליל עד לתחתית המפל האדיר.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1602715367623-1d222b0c262a?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvY-BWuYl9jOEfDWgBf8M4qYRu1E9bX-Nl6A&s"
     },
     {
       "id": "fin_4",
@@ -379,7 +379,7 @@
       "name": "מוזיאון הזכוכית של קורנינג",
       "desc": "מוזיאון מרהיב ואינטראקטיבי המציג את היסטוריית ייצור הזכוכית וכולל הדגמות ניפוח זכוכית בלייב.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1544413164-92e10c732c5f?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjxMu7PIdkB_skm4G4QtAEshlUO3YZB4HXOg&s"
     },
     {
       "id": "fin_5",
@@ -387,7 +387,7 @@
       "name": "העיירה אית'קה (Ithaca)",
       "desc": "עיירת קולג' שוקקת (ביתה של אוניברסיטת קורנל) המוקפת בטבע מרהיב, נקיקים ומפלים בתוך העיר.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1599818815147-386de6f859bd?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXsvYaLJF-1i_g_CjN46dFPFsTjIB0PQxndQ&s"
     },
     {
       "id": "isl_1",
@@ -395,7 +395,7 @@
       "name": "טירת בולדט (Boldt Castle)",
       "desc": "טירה מרהיבה שנבנתה על אי בודד מתוך סיפור אהבה טרגי. מגיעים באמצעות שייט וניתן לסייר בפנים.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1598007212484-bc4878a1bcce?w=800"
+      "image_url": "https://www.downshiftingpro.com/wp-content/uploads/2020/08/Powerhouse-and-Clock-Tower-of-Boldt-Castle-NY-@DownshiftingPRO.jpg"
     },
     {
       "id": "isl_2",
@@ -403,7 +403,7 @@
       "name": "שייט אלף האיים (Uncle Sam Boat Tours)",
       "desc": "שייט פסטורלי החולף על פני מאות איים קטנים שעליהם בתי קיץ פרטיים ויערות, על נהר הסנט לורנס.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1627993098342-83ffb2b292d3?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/f6/8e/5e/wellesley-island-aerial.jpg?w=1100&h=-1&s=1"
     },
     {
       "id": "isl_3",
@@ -411,7 +411,7 @@
       "name": "טירת סינגר (Singer Castle)",
       "desc": "טירה אמיתית ומרשימה על \"אי העצים הכהים\", ששימשה בעבר משפחה של תעשייני תפירה מפורסמים.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1579294877717-b08e244837b9?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFuMPmVZmDVvXrQjX7Qy9nFLeuxb-YA5nYtg&s"
     },
     {
       "id": "isl_4",
@@ -419,7 +419,7 @@
       "name": "מוזיאון הסירות העתיקות (Antique Boat Museum)",
       "desc": "תצוגה מרהיבה של מאות סירות עץ קלאסיות ויוקרתיות, כולל אפשרות לצאת לשייט בסירת מרוץ משוחזרת.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1558231269-e7d01dd34749?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwODTcbpqGf4gQ2uPxOU9lPsVk8-nRe6v6FA&s"
     },
     {
       "id": "isl_5",
@@ -427,7 +427,7 @@
       "name": "מגדל התצפית (1000 Islands Tower)",
       "desc": "מעלית לוקחת אתכם למגדל פנורמי בגובה 130 מטר המציע תצפית עוצרת נשימה על הארכיפלג כולו.",
       "rating": "4.5/5",
-      "image_url": "https://images.unsplash.com/photo-1624683058814-c157fcd59546?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxKVMzxnKpv3HPPKXqCTOgDoeYpvPu89mfg&s"
     },
     {
       "id": "ne_1",
@@ -435,7 +435,7 @@
       "name": "פסגת הר קאדילק (Cadillac Mountain)",
       "desc": "הנקודה הגבוהה בפארק אקדיה. המקום הראשון בארה\"ב שבו רואים את הזריחה בבוקר מעל האוקיינוס.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1506450687353-3a5c88b7bc73?w=800"
+      "image_url": "https://acadiamagic.com/images/384x216/cadillac-mountain-m1a8296.jpg"
     },
     {
       "id": "ne_2",
@@ -443,7 +443,7 @@
       "name": "בריכת ג'ורדן (Jordan Pond)",
       "desc": "אגם פסטורלי וצלול המוקף הרים עגולים. חובה לטייל סביבו ולאכול את הלחמניות (Popovers) במסעדה המקומית.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1601614768340-f1db12dfc2dc?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/0b/63/dd/jordan-pond.jpg?w=1200&h=-1&s=1"
     },
     {
       "id": "ne_3",
@@ -451,7 +451,7 @@
       "name": "מגדלור באס הרבור (Bass Harbor Head)",
       "desc": "המגדלור האייקוני והמצולם ביותר בפארק, היושב על צוק סלעי פראי במיוחד בשעות השקיעה.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1502690947674-6330ceaf5df4?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtJt3N7-XLsYv34kvvqbTUfx1JvioZSdsNEA&s"
     },
     {
       "id": "ne_4",
@@ -459,7 +459,7 @@
       "name": "חור הרעם (Thunder Hole)",
       "desc": "נקודה בחוף הסלעי שבה גלי האוקיינוס מתנפצים לתוך נקיק צר ויוצרים קול רעם אדיר ורסס גבוה.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1596324838637-2900faeec143?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ezVfrRh-DFJZlFHhr3x84tZzuS8XqljwOQ&s"
     },
     {
       "id": "ne_5",
@@ -467,7 +467,7 @@
       "name": "העיירה בר הארבור (Bar Harbor)",
       "desc": "עיירת דייגים תוססת המהווה שער לפארק אקדיה, מפורסמת בארוחות הלובסטרים והחנויות הימיות שלה.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1560946112-c2e36db3856d?w=800"
+      "image_url": "https://acadiamagic.com/images/1200x630/barharbor-0376.jpg"
     },
     {
       "id": "wht_1",
@@ -475,7 +475,7 @@
       "name": "ערוץ פלום גורג' (Flume Gorge)",
       "desc": "חווית טבע בהרים הלבנים: מסלול הליכה על גשרי עץ צרים התלויים בתוך קניון גרניט עמוק.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1574768224536-11f81016ed3d?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsimhzXk_tpDY2IqM4gUHhBmQ-gbZh4PK4jQ&s"
     },
     {
       "id": "wht_2",
@@ -483,7 +483,7 @@
       "name": "כביש קנקמגוס (Kancamagus Highway)",
       "desc": "אחד מכבישי הנוף היפים בארה\"ב (כביש 112). חוצה את היער הלאומי ומרהיב ביופיו בעונת השלכת בסתיו.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1506450687353-3a5c88b7bc73?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRzLX0F5yCnsD6kTWlqNqE98Nq1SidtbLCXw&s"
     },
     {
       "id": "wht_3",
@@ -491,7 +491,7 @@
       "name": "הר וושינגטון (Mt. Washington)",
       "desc": "ההר הגבוה באזור. ניתן לטפס לפסגה התלולה באמצעות רכב (מאתגר) או רכבת שיניים היסטורית (Cog Railway).",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1601614768340-f1db12dfc2dc?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQle-Yr0i11Wf311alt6sZAoEZNdcJDknjerw&s"
     },
     {
       "id": "wht_4",
@@ -499,7 +499,7 @@
       "name": "פארק פראנקוניה נוץ' (Franconia Notch)",
       "desc": "עמק הררי הכולל אגמים, רכבל לפסגת הר קאנון, ואת אתר האגן (The Basin) עם המים המסתחררים.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1596324838637-2900faeec143?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwHZNM6XlHvZ6YkCoHdoC6y-tr4lBNFPuBWg&s"
     },
     {
       "id": "wht_5",
@@ -507,7 +507,7 @@
       "name": "מרחצאות דיאנה (Diana's Baths)",
       "desc": "מסלול הליכה קליל בתוך היער המוביל לסדרה של מפלים מדורגים קטנים ובריכות שכשוך טבעיות בסלע.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1629837593630-f201dd5c8502?w=800"
+      "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/18/16/4e/diana-s-bath.jpg?w=900&h=500&s=1"
     },
     {
       "id": "bos_1",
@@ -515,7 +515,7 @@
       "name": "שביל החירות (Freedom Trail)",
       "desc": "סיור היסטורי המונחה על ידי קו לבנים אדומות ברצפה, העובר ב-16 אתרים של המהפכה האמריקאית בבוסטון.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1501683419357-19ce1121d49c?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMEbAjUdVK1B3kaWRHdSxbbCCwkru5efvFzA&s"
     },
     {
       "id": "bos_2",
@@ -523,7 +523,7 @@
       "name": "שייט לווייתנים (Whale Watching)",
       "desc": "אחת מהחוויות המרגשות באזור - יציאה לשייט פתוח מבוסטון או קייפ קוד לצפייה בלווייתנים ענקיים בטבע.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1589139268875-1e0e84b72db5?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTkwKdTYqioZLnKyaCDU-BJHMFiXU2CFfreQ&s"
     },
     {
       "id": "bos_3",
@@ -531,7 +531,7 @@
       "name": "כיכר הרווארד (Harvard Square)",
       "desc": "שיטוט בקמפוס האוניברסיטה היוקרתית בעולם, באווירה סטודנטיאלית תוססת של בתי קפה וחנויות ספרים.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1590089415225-401ed6f9db8e?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Jrdq3pqC1ueYX3iSieP-bDE6rZIphCd_-w&s"
     },
     {
       "id": "bos_4",
@@ -539,7 +539,7 @@
       "name": "שוק קווינסי (Quincy Market)",
       "desc": "מבנה שוק היסטורי בלב בוסטון. גן עדן של דוכני אוכל מהיר, מאכלי ים מפורסמים (Clam Chowder) ומופעי רחוב.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1601053075253-273fdb8fb1b9?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHuoPUg6dUIOVryQ83B5FSNer4IkPtzaOuDw&s"
     },
     {
       "id": "bos_5",
@@ -547,7 +547,7 @@
       "name": "אצטדיון פנוויי פארק (Fenway Park)",
       "desc": "מגרש הבייסבול הוותיק והאהוב ביותר באמריקה (ביתם של הרד-סוקס). שווה סיור מודרך גם אם אין משחק.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1502901452140-52ce651de6dc?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3UqPFxbqIuLP5E__COD83u_iggil3ege-w&s"
     },
     {
       "id": "shen_1",
@@ -555,7 +555,7 @@
       "name": "דרך הרקיע (Skyline Drive)",
       "desc": "כביש נופי אייקוני שנוסע ממש על רכס ההרים בפארק הלאומי, עם עשרות מפרצי עצירה לתצפיות מרשימות.",
       "rating": "4.9/5",
-      "image_url": "https://images.unsplash.com/photo-1600257321043-4e4277b0d876?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTywSTIPIVCQlsfsWCALvbyWGwFfuN7Y9QOrg&s"
     },
     {
       "id": "shen_2",
@@ -563,7 +563,7 @@
       "name": "מפלי דארק הולו (Dark Hollow)",
       "desc": "המסלול הפופולרי ביותר בפארק הכולל ירידה קצרה בתוך יער עבות עד למפל מים מדורג ויפהפה.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1554160352-78d102e3b2e3?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh_3Nby1vVbNKIP-umugkSPN3oyTgmJpnoiw&s"
     },
     {
       "id": "shen_3",
@@ -571,7 +571,7 @@
       "name": "תצפית הר ברפנס (Bearfence)",
       "desc": "מסלול הליכה המשלב טיפוס קליל וכיפי על סלעים, המציע בסופו נוף פנורמי של 360 מעלות על העמק.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1541416972288-66236b28bc2a?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ROl1DD8OqftNnvaBzA7qc3TV7TjXi657iA&s"
     },
     {
       "id": "shen_4",
@@ -579,7 +579,7 @@
       "name": "פסגת הוקסביל (Hawksbill Summit)",
       "desc": "הליכה בשביל ירוק ומוצל המוביל אל הנקודה הגבוהה ביותר בפארק הלאומי, עם מרפסת תצפית מאבן.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1506450687353-3a5c88b7bc73?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS02YJffS0Ot1CpTzViFo_FohBdqcTWQgHYZw&s"
     },
     {
       "id": "shen_5",
@@ -587,7 +587,7 @@
       "name": "ביג מדוז (Big Meadows)",
       "desc": "אזור אחו רחב וידידותי בלב הפארק. זו הנקודה הטובה ביותר בשעות הערב לצפות בצבאים ולעתים גם בדובים שחורים.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1596324838637-2900faeec143?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOyDuy8SFbDj6Lp5I-zR2f2tqhaLdTY5igWA&s"
     },
     {
       "id": "lur_1",
@@ -595,7 +595,7 @@
       "name": "מערות לוריי (Luray Caverns)",
       "desc": "מערכת מערות הנטיפים הגדולה ביותר במזרח ארה\"ב. אולמות תת-קרקעיים מוארים ובריכות השתקפות מושלמות.",
       "rating": "4.8/5",
-      "image_url": "https://images.unsplash.com/photo-1572912444654-e435ef2e6cd9?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStxQ5Nsh_Rte14gDfsYhGqaB_BVBPyzhspLw&s"
     },
     {
       "id": "lur_2",
@@ -603,7 +603,7 @@
       "name": "שייט אבובים בנהר שננדואה",
       "desc": "פעילות קיץ מושלמת בעמק. השכרת אבובים או סירות קאנו לשייט מרגיע ועצל במי נהר השננדואה המפורסם.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1629837593630-f201dd5c8502?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhYLoJFvU-kVcvlRGyhlxXErnJdKwzOywV8A&s"
     },
     {
       "id": "lur_3",
@@ -611,7 +611,7 @@
       "name": "פארק חיות הבר של לוריי (Luray Zoo)",
       "desc": "גן חיות שיקומי קטן ואינטימי בעמק, בו תוכלו לראות זוחלים, למורים וחיות בר מקומיות שחולצו.",
       "rating": "4.5/5",
-      "image_url": "https://images.unsplash.com/photo-1558231269-e7d01dd34749?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXfE_BvYA2Ut0c_p_cOBtcZbVW8SaxNsqUA&s"
     },
     {
       "id": "lur_4",
@@ -619,7 +619,7 @@
       "name": "מוזיאון הרכבים הקלאסיים",
       "desc": "צמוד למערות לוריי, מוזיאון המציג התפתחות תחבורתית של 140 שנה, עם כרכרות ורכבי וינטג'.",
       "rating": "4.6/5",
-      "image_url": "https://images.unsplash.com/photo-1601053075253-273fdb8fb1b9?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVx-KYpeHyGZx1-6rx-beFGyDbOS8prKD6HQ&s"
     },
     {
       "id": "lur_5",
@@ -627,7 +627,7 @@
       "name": "דרך היקבים (Blue Ridge Whisky Wine Loop)",
       "desc": "נסיעה בין חוות שמציעות טעימות של יינות ועד למבשלות וויסקי מסורתיות בעמק שננדואה.",
       "rating": "4.7/5",
-      "image_url": "https://images.unsplash.com/photo-1513028203058-294cdd88d3bb?w=800"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5_qIv1MZ1wcgTySh9g0wdd1iKtAfR-Pyjcw&s"
     }
   ]
 }
