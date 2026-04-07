@@ -169,7 +169,8 @@ async function loadUserData() {
   }
 
   try {
-    const response = await fetch(`${userId}.json`);
+    // הוספת מנגנון Cache Busting כדי למנוע שמירת JSON ישן בזיכרון
+    const response = await fetch(`${userId}.json?v=${new Date().getTime()}`);
     if (!response.ok) throw new Error("User file not found");
     
     DATA_FROM_ADMIN = await response.json();
@@ -185,6 +186,55 @@ async function loadUserData() {
 
 function init() {
   document.getElementById('destTitle').innerText = "הטיול שלך ל" + DATA_FROM_ADMIN.destination;
+  
+  // --- קוד חדש: הצגת ההערה והמסלולים המומלצים בצורה בטוחה ותואמת לאחור ---
+  const headerEl = document.querySelector('.header');
+
+  // 1. הוספת ההערה (Instructional Note)
+  if (DATA_FROM_ADMIN.instructional_note && !document.getElementById('instNote')) {
+    const noteEl = document.createElement('div');
+    noteEl.id = 'instNote';
+    noteEl.style.backgroundColor = 'var(--tlt)';
+    noteEl.style.color = 'var(--teal2)';
+    noteEl.style.padding = '15px 20px';
+    noteEl.style.borderRadius = '12px';
+    noteEl.style.marginTop = '20px';
+    noteEl.style.fontWeight = '500';
+    noteEl.style.border = '1px solid var(--teal)';
+    noteEl.innerText = DATA_FROM_ADMIN.instructional_note;
+    headerEl.appendChild(noteEl);
+  }
+
+  // 2. הוספת המסלולים המומלצים (Recommended Itineraries)
+  if (DATA_FROM_ADMIN.recommended_itineraries && !document.getElementById('recRoutes')) {
+    const routesContainer = document.createElement('div');
+    routesContainer.id = 'recRoutes';
+    routesContainer.style.marginBottom = '40px';
+
+    let html = `<div class="section-title" style="margin-top:0;">💡 מסלולים מומלצים לדוגמה</div>
+                <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 15px;">`;
+
+    DATA_FROM_ADMIN.recommended_itineraries.forEach(route => {
+      html += `
+        <div style="background: #fff; border: 2px solid var(--cream3); border-radius: 15px; padding: 20px; box-shadow: var(--sh);">
+          <h3 style="color: var(--teal); margin: 0 0 10px 0; font-size: 18px;">${route.title}</h3>
+          <p style="font-size: 14px; color: var(--ink2); margin: 0 0 15px 0;">${route.description}</p>
+          <div style="display: flex; gap: 10px; margin-bottom: 10px;">
+            <span style="background: var(--cream); padding: 4px 10px; border-radius: 8px; font-size: 12px; font-weight: bold; color: var(--ink3);">⏱️ ${route.duration}</span>
+          </div>
+          <div style="font-size: 13px; font-weight: 500; color: var(--ink); background: #faf9f7; padding: 10px; border-radius: 8px;">
+            🛣️ <span style="direction:ltr; display:inline-block;">${route.path}</span>
+          </div>
+        </div>
+      `;
+    });
+    html += `</div>`;
+    routesContainer.innerHTML = html;
+
+    // מכניס את אזור המסלולים ישר אחרי ההדר (לפני סעיף 1)
+    headerEl.insertAdjacentElement('afterend', routesContainer);
+  }
+  // --- סוף הקוד החדש ---
   
   // אתחול המצבים לפי המבנה החדש
   DATA_FROM_ADMIN.categories.forEach(c => { state.selectedCategories[c.id] = false; });
