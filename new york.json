@@ -1,0 +1,280 @@
+{
+  "userEmail": "traveler@example.com",
+  "destination": "ארה\"ב (החוף המזרחי)",
+  "categories": [
+    {
+      "id": "cat_urban",
+      "name": "ערים גדולות וגורדי שחקים",
+      "emoji": "🏙️",
+      "desc": "אורות ניאון, שופינג, תרבות, גורדי שחקים והקצב המהיר של העיר הגדולה.",
+      "image_url": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800"
+    },
+    {
+      "id": "cat_history",
+      "name": "היסטוריה, תרבות וממשל",
+      "emoji": "🏛️",
+      "desc": "מסע אל שורשי האומה האמריקאית - אנדרטאות ענק, מוזיאונים פתוחים והכרזת העצמאות.",
+      "image_url": "https://images.unsplash.com/photo-1617581629397-a72507c3de9e?w=800"
+    },
+    {
+      "id": "cat_nature_water",
+      "name": "מפלים ואגמים צלולים",
+      "emoji": "🌊",
+      "desc": "פלאי טבע עוצמתיים, שייט אל תוך מפלים אדירים, וערוצי נחל קסומים בסלע.",
+      "image_url": "https://images.unsplash.com/photo-1596324838637-2900faeec143?w=800"
+    },
+    {
+      "id": "cat_nature_coast",
+      "name": "טבע פראי וקו חוף",
+      "emoji": "🐋",
+      "desc": "עיירות דייגים ציוריות, מגדלורים, לווייתנים באוקיינוס והפארק הלאומי של צפון-המזרח.",
+      "image_url": "https://images.unsplash.com/photo-1506450687353-3a5c88b7bc73?w=800"
+    },
+    {
+      "id": "cat_mountains",
+      "name": "פסגות, יערות וחיות בר",
+      "emoji": "🐻",
+      "desc": "נסיעה נופית על רכסי הרים, מערות נטיפים ענקיות, יערות עבותים ומפלים נסתרים.",
+      "image_url": "https://images.unsplash.com/photo-1600257321043-4e4277b0d876?w=800"
+    }
+  ],
+  "destinations": [
+    {
+      "id": "dest_nyc",
+      "categoryId": "cat_urban",
+      "name": "ניו יורק סיטי",
+      "desc": "התפוח הגדול - גורדי שחקים, סנטרל פארק, מחזות זמר בברודווי ואווירה שלא עוצרת לרגע.",
+      "image_url": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800"
+    },
+    {
+      "id": "dest_dc_philly",
+      "categoryId": "cat_history",
+      "name": "וושינגטון די.סי. ופילדלפיה",
+      "desc": "הלב ההיסטורי של ארה\"ב. הבית הלבן, המול הלאומי, ופעמון החירות.",
+      "image_url": "https://images.unsplash.com/photo-1617581629397-a72507c3de9e?w=800"
+    },
+    {
+      "id": "dest_upstate",
+      "categoryId": "cat_nature_water",
+      "name": "אפסטייט ניו יורק ומפלי הניאגרה",
+      "desc": "טבע עוצמתי בצפון ארה\"ב, פארקים מדינתיים מרשימים ופלא הטבע העולמי בגבול קנדה.",
+      "image_url": "https://images.unsplash.com/photo-1596324838637-2900faeec143?w=800"
+    },
+    {
+      "id": "dest_new_england",
+      "categoryId": "cat_nature_coast",
+      "name": "ניו אינגלנד ואקדיה",
+      "desc": "רוד-טריפ מושלם: חופים סלעיים, שלכת מפורסמת, שייט לווייתנים והפארק הלאומי אקדיה.",
+      "image_url": "https://images.unsplash.com/photo-1506450687353-3a5c88b7bc73?w=800"
+    },
+    {
+      "id": "dest_shenandoah",
+      "categoryId": "cat_mountains",
+      "name": "הפארק הלאומי שננדואה",
+      "desc": "טבע פראי דרומית לוושינגטון. דרך הרקיע, מסלולי הרים, מערות נטיפים ודובים שחורים.",
+      "image_url": "https://images.unsplash.com/photo-1600257321043-4e4277b0d876?w=800"
+    }
+  ],
+  "sites": [
+    {
+      "id": "nyc_1",
+      "destinationId": "dest_nyc",
+      "name": "פסל החירות ואליס איילנד",
+      "desc": "סמל החירות האמריקאי והתחנה ההיסטורית של המהגרים לארה\"ב. ההגעה נעשית באמצעות שייט מעבורת.",
+      "rating": "4.7/5",
+      "image_url": "https://images.unsplash.com/photo-1605130284535-11dd9eedc58a?w=800"
+    },
+    {
+      "id": "nyc_2",
+      "destinationId": "dest_nyc",
+      "name": "סנטרל פארק",
+      "desc": "הריאה הירוקה בלב מנהטן. אגמים, מדשאות פיקניק, סוסים וכרכרות, ותצפיות קסומות אל מול גורדי השחקים.",
+      "rating": "4.9/5",
+      "image_url": "https://images.unsplash.com/photo-1555109307-f7d9ab25c20e?w=800"
+    },
+    {
+      "id": "nyc_3",
+      "destinationId": "dest_nyc",
+      "name": "תצפית סאמיט (SUMMIT)",
+      "desc": "התצפית החדשנית והטרנדית בניו יורק, המשלבת חדרים מלאים מראות, כדורי כסף ונוף פנורמי מטורף.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1644558838384-51e4bfbe10a4?w=800"
+    },
+    {
+      "id": "nyc_4",
+      "destinationId": "dest_nyc",
+      "name": "טיימס סקוור",
+      "desc": "הלב הפועם של ניו יורק, עמוס בשלטי ניאון ענקיים, חנויות דגל ומרכז תיאטראות ברודווי.",
+      "rating": "4.7/5",
+      "image_url": "https://images.unsplash.com/photo-1546436836-07a91091f11c?w=800"
+    },
+    {
+      "id": "nyc_5",
+      "destinationId": "dest_nyc",
+      "name": "פארק ההיי ליין (High Line)",
+      "desc": "פארק אורבני ומוגבה שנבנה על פסי רכבת משא נטושים, משלב אמנות ואדריכלות מודרנית מעל רחובות העיר.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1516086786016-81c19b015116?w=800"
+    },
+    {
+      "id": "dc_1",
+      "destinationId": "dest_dc_philly",
+      "name": "המול הלאומי והאנדרטאות",
+      "desc": "השדרה הירוקה בוושינגטון הכוללת את אנדרטת לינקולן, אנדרטת וושינגטון ובריכת ההשתקפות המפורסמת.",
+      "rating": "4.9/5",
+      "image_url": "https://images.unsplash.com/photo-1617581629397-a72507c3de9e?w=800"
+    },
+    {
+      "id": "dc_2",
+      "destinationId": "dest_dc_philly",
+      "name": "מוזיאוני הסמית'סוניאן",
+      "desc": "קומפלקס המוזיאונים החינמי הגדול בעולם (הכולל את מוזיאון הטבע, החלל, התעופה ועוד) לאורך המול הלאומי.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1617581629397-a72507c3de9e?w=800"
+    },
+    {
+      "id": "dc_3",
+      "destinationId": "dest_dc_philly",
+      "name": "גבעת הקפיטול וספריית הקונגרס",
+      "desc": "משכן הקונגרס בעל הכיפה האייקונית והספרייה הגדולה והמרשימה ביותר בעולם באדריכלות הפנים שלה.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1596701509930-b9dfce8d76e4?w=800"
+    },
+    {
+      "id": "phil_1",
+      "destinationId": "dest_dc_philly",
+      "name": "היכל העצמאות ופעמון החירות",
+      "desc": "בפילדלפיה: המקום בו נחתמה הכרזת העצמאות האמריקאית והפעמון האייקוני המסמל את שחרור העבדים.",
+      "rating": "4.7/5",
+      "image_url": "https://images.unsplash.com/photo-1598285521639-509dc99c9c3e?w=800"
+    },
+    {
+      "id": "phil_2",
+      "destinationId": "dest_dc_philly",
+      "name": "מדרגות רוקי ומוזיאון האמנות",
+      "desc": "מוזיאון ברמה עולמית, המפורסם בזכות המדרגות בחזיתו בהן צולם הסרט האייקוני 'רוקי'.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1605333180470-345371bb8b6e?w=800"
+    },
+    {
+      "id": "ups_1",
+      "destinationId": "dest_upstate",
+      "name": "מפלי הניאגרה ושייט עלמת הערפל",
+      "desc": "פלא טבע עולמי ועוצמתי. חובה לצאת לשייט שלוקח אתכם ממש אל תוך רסס המים האדירים של המפל.",
+      "rating": "4.9/5",
+      "image_url": "https://images.unsplash.com/photo-1596324838637-2900faeec143?w=800"
+    },
+    {
+      "id": "ups_2",
+      "destinationId": "dest_upstate",
+      "name": "פארק ווטקינס גלן",
+      "desc": "מסלול הליכה קסום בתוך ערוץ נחל צר עם חומות אבן. חולף על פני 19 מפלים קטנים וגשרי עץ רומנטיים.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1629837593630-f201dd5c8502?w=800"
+    },
+    {
+      "id": "ups_3",
+      "destinationId": "dest_upstate",
+      "name": "אזור אלף האיים וטירת בולדט",
+      "desc": "שייט פסטורלי על נהר הסנט לורנס בין מאות איים קטנים שעליהם בתי קיץ וטירה אמיתית אחת מדהימה.",
+      "rating": "4.7/5",
+      "image_url": "https://images.unsplash.com/photo-1598007212484-bc4878a1bcce?w=800"
+    },
+    {
+      "id": "ups_4",
+      "destinationId": "dest_upstate",
+      "name": "אגמי האצבעות ודרך היין",
+      "desc": "אזור כפרי של אגמים צרים וארוכים, המוקפים ביקבים, חוות ומרחבים ירוקים באפסטייט ניו יורק.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1513028203058-294cdd88d3bb?w=800"
+    },
+    {
+      "id": "ups_5",
+      "destinationId": "dest_upstate",
+      "name": "פארק לטשוורת' (Letchworth)",
+      "desc": "מכונה 'הגרנד קניון של המזרח'. קניון עמוק וירוק עם נהר, מפלים גבוהים ומסלולי תצפית מעולים.",
+      "rating": "4.9/5",
+      "image_url": "https://images.unsplash.com/photo-1601614768340-f1db12dfc2dc?w=800"
+    },
+    {
+      "id": "ne_1",
+      "destinationId": "dest_new_england",
+      "name": "הפארק הלאומי אקדיה (Acadia)",
+      "desc": "מהפארקים היפים בארה\"ב. שילוב דרמטי של חופים סלעיים, יערות והרים שנישאים ישר מהאוקיינוס במיין.",
+      "rating": "4.9/5",
+      "image_url": "https://images.unsplash.com/photo-1506450687353-3a5c88b7bc73?w=800"
+    },
+    {
+      "id": "ne_2",
+      "destinationId": "dest_new_england",
+      "name": "ההרים הלבנים ופלום גורג'",
+      "desc": "רכס הרים ירוק (שהופך אדום מרהיב בסתיו). 'ערוץ פלום' הוא מסלול הליכה על גשרי עץ בקניון עמוק.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1574768224536-11f81016ed3d?w=800"
+    },
+    {
+      "id": "ne_3",
+      "destinationId": "dest_new_england",
+      "name": "קייפ קוד ושייט לווייתנים",
+      "desc": "חצי אי עם עיירות קסומות במסצ'וסטס, המהווה את אחת מנקודות היציאה הטובות בעולם לצפייה בלווייתנים.",
+      "rating": "4.7/5",
+      "image_url": "https://images.unsplash.com/photo-1589139268875-1e0e84b72db5?w=800"
+    },
+    {
+      "id": "ne_4",
+      "destinationId": "dest_new_england",
+      "name": "שביל החירות בבוסטון",
+      "desc": "מסלול הליכה מסומן בלבנים אדומות החוצה את העיר ועובר ב-16 אתרים היסטוריים מתקופת המהפכה האמריקאית.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1501683419357-19ce1121d49c?w=800"
+    },
+    {
+      "id": "ne_5",
+      "destinationId": "dest_new_england",
+      "name": "עיירת הדייגים בר הארבור",
+      "desc": "עיירה שוקקת על הים, סמוכה לפארק אקדיה. מפורסמת בארוחות הלובסטרים המעולות שלה ובאווירה הימית.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1560946112-c2e36db3856d?w=800"
+    },
+    {
+      "id": "shen_1",
+      "destinationId": "dest_shenandoah",
+      "name": "דרך הרקיע (Skyline Drive)",
+      "desc": "כביש החוצה את הפארק הלאומי על רכס ההרים, עם עשרות נקודות תצפית אליהן פשוט עוצרים עם הרכב.",
+      "rating": "4.9/5",
+      "image_url": "https://images.unsplash.com/photo-1600257321043-4e4277b0d876?w=800"
+    },
+    {
+      "id": "shen_2",
+      "destinationId": "dest_shenandoah",
+      "name": "מערות לוריי (Luray Caverns)",
+      "desc": "מערכת מערות הנטיפים הגדולה והמרשימה ביותר במזרח ארה\"ב, עם בריכות השתקפות צלולות במיוחד.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1572912444654-e435ef2e6cd9?w=800"
+    },
+    {
+      "id": "shen_3",
+      "destinationId": "dest_shenandoah",
+      "name": "מסלול הר ברפנס (Bearfence)",
+      "desc": "מסלול הליכה מאתגר קצרצר המשלב טיפוס קל על סלעים בדרך לפסגה עם תצפית פנורמית של 360 מעלות.",
+      "rating": "4.7/5",
+      "image_url": "https://images.unsplash.com/photo-1541416972288-66236b28bc2a?w=800"
+    },
+    {
+      "id": "shen_4",
+      "destinationId": "dest_shenandoah",
+      "name": "מפלי דארק הולו",
+      "desc": "אחד ממסלולי ההליכה הפופולריים בפארק היורד אל מפל סלעי יפהפה בתוך יער קריר ועבות.",
+      "rating": "4.7/5",
+      "image_url": "https://images.unsplash.com/photo-1554160352-78d102e3b2e3?w=800"
+    },
+    {
+      "id": "shen_5",
+      "destinationId": "dest_shenandoah",
+      "name": "עמק שננדואה",
+      "desc": "העמק הפסטורלי המשתרע מתחת להרים. עמוס בחוות מקומיות, יקבים קטנים והרבה אווירה כפרית של וירג'יניה.",
+      "rating": "4.8/5",
+      "image_url": "https://images.unsplash.com/photo-1524174312810-72a39dd62dd7?w=800"
+    }
+  ]
+}
